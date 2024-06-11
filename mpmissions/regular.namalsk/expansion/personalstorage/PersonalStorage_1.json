@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 2,
+    "StorageID": 1,
+    "ClassName": "ExpansionPersonalStorageChest",
+    "DisplayName": "Jalovisco - Personal Storage",
+    "DisplayIcon": "Backpack",
+    "Position": [
+        8617.609375,
+        14.767378807067871,
+        10521.810546875
+    ],
+    "Orientation": [
+        -35.0,
+        0.0,
+        0.0
+    ],
+    "QuestID": 500,
+    "Reputation": 1000,
+    "Faction": "Survivors",
+    "IsGlobalStorage": 0
+}
