@@ -1,0 +1,42 @@
+19:23:39.843 [MissionAirdrop] An airdrop is heading towards "Jalovisko" (pos=<8008.000000, 0.000000, 10747.000000> type=Random_Jalovisko) with a ExpansionAirdropContainer_Medical
+19:25:56.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:25:56.656 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:25:56.656 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:25:56.664 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:25:56.664 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:34:57.015 [AI Patrol] Spawning 1 West bots at <6667.131348, 18.291086, 9800.608398>
+20:31:42.296 [AI Patrol] Spawning 2 West bots at <4395.717773, 134.063416, 7241.607910>
+20:32:56.312 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+20:32:56.312 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+20:32:56.312 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+20:32:56.312 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+20:32:56.312 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+20:34:42.960 [AI Patrol] Spawning 3 West bots at <7479.005859, 15.297322, 11690.194336>
+20:34:42.976 [AI Patrol] Spawning 2 West bots at <6738.404297, 15.636731, 11343.008789>
+20:37:15.734 [AI Patrol] Spawning 1 West bots at <5452.878906, 31.567574, 9742.926758>
+20:39:14.492 [AI Patrol] Spawning 1 West bots at <5435.088867, 6.238383, 9904.497070>
+20:40:32.437 [AI Patrol] Spawning 1 West bots at <6108.884277, 12.989030, 11674.264648>
+20:43:23.734 [Killfeed] Carl the Pilot got killed by Survivor with AUR AX from a distance of 81 m.
+20:44:03.421 [SpawnSelection] Player "Carl the Pilot" (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=) spawned at <7991.038574, 5.828287, 7320.502930>
+20:44:03.421 [AI Patrol] Spawning 3 West bots at <7504.672363, 72.247704, 7542.062500>
+20:51:30.335 [VehicleEnter] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] entered vehicle LHD-9 USS Khe Sanh (id=408A509B084996ECA0DEEC8DF09FFAEB pos=<8102.802246, 3.015228, 7529.691895>) as driver
+20:51:36.484 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] started vehicle LHD-9 USS Khe Sanh (id=408A509B084996ECA0DEEC8DF09FFAEB pos=<8102.802246, 3.227316, 7529.691895>)
+20:52:26.859 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Medical
+20:54:53.445 [VehicleDeleted] ExpansionLHD (id=408A509B084996ECA0DEEC8DF09FFAEB pos=<8243.639648, -8.920013, 7525.608887>)
+20:55:29.226 [VehicleEnter] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] entered vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.559605, 7717.917480>) as driver
+20:55:32.195 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] started vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.322354, 7717.917480>)
+20:55:39.468 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] started vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.422163, 7717.917480>)
+20:55:43.046 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] started vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.503032, 7717.917480>)
+20:55:46.812 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] started vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.097515, 7717.917480>)
+20:55:51.234 [VehicleLeave] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] left vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.332091, 7717.917480>)
+20:56:04.468 [VehicleEnter] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] entered vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.424021, 7717.917480>) as driver
+20:56:25.585 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] started vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.062108, 7717.917480>)
+20:56:32.718 [VehicleLeave] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] left vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.528537, 7717.917480>)
+20:56:50.445 [VehicleEnter] Player Survivor [uid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=] entered vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.528537, 7717.917480>) as passenger
+20:56:52.257 [VehicleEnter] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] entered vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.162783, 7717.917480>) as driver
+20:56:53.429 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] started vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8031.813477, -0.298335, 7717.917480>)
+20:57:33.039 [AI Patrol] Spawning 2 West bots at <7632.614746, 47.779999, 9058.517578>
+20:59:48.515 [VehicleEngine] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] stopped vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8288.602539, -0.314905, 10019.110352>)
+20:59:48.750 [VehicleLeave] Player Survivor [uid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=] left vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8288.771484, -0.344826, 10018.991211>)
+20:59:51.859 [VehicleLeave] Player Carl the Pilot [uid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=] left vehicle RHIB (id=E28DFAE6044E87BE03CF658C1D502426 pos=<8290.390625, -0.567977, 10017.647461>)
+22:18:12.859 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer_Military_WinterCamo

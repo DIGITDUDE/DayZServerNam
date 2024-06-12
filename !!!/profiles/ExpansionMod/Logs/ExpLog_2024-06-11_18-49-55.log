@@ -1,0 +1,14 @@
+18:49:56.257 [AI Object Patrol] WARNING: The map 'namalsk' doesn't have a default config
+18:49:56.257 [AI Object Patrol] Generating an example config...
+18:49:56.257 [AI Patrol] Generating default Patrol config for namalsk
+18:51:36.742 [Safezone] Player "AnanasZ" (id=3Zn64v6AET6AcmQktWWYghrFZhD4wMqZC_C7pHHJ77s= pos=<8894.483398, 2.692066, 10614.400391>) Entered the safezone
+18:51:36.742 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 3Zn64v6AET6AcmQktWWYghrFZhD4wMqZC_C7pHHJ77s=
+18:52:11.531 [SpawnSelection] Player "AnanasZ" (id=3Zn64v6AET6AcmQktWWYghrFZhD4wMqZC_C7pHHJ77s=) spawned at <6334.204590, 2.814608, 11950.695313>
+18:52:11.531 [AI Patrol] Spawning 2 West bots at <6572.259277, 15.000000, 11015.267578>
+18:52:11.546 [AI Patrol] Spawning 2 West bots at <6988.835938, 7.200284, 11833.755859>
+18:52:22.531 [Safezone] Player "AnanasZ" (id=3Zn64v6AET6AcmQktWWYghrFZhD4wMqZC_C7pHHJ77s= pos=<6341.533691, 4.768134, 11926.136719>) Left the safezone
+18:53:15.671 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+18:54:26.453 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=
+18:54:36.320 [SpawnSelection] Player "Survivor (2)" (id=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=) spawned at <6711.061035, 1.821189, 11977.592773>
+18:54:40.367 [SpawnSelection] Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=) spawned at <9029.701172, 2.618637, 9954.769531>
+18:55:10.023 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer

@@ -1,0 +1,43 @@
+---------------------------------------------
+Log C:\daisy\DayZServerNam\!!!\profiles\crash_2024-06-11_18-49-41.log started at 11.06. 19:00:58
+
+
+
+------------------------------------
+DESKTOP-04C37QM, 11.06 2024 19:00:58
+Unhandled exception
+
+Program: C:\daisy\DayZServerNam\DayZServer_x64.exe
+Reason: SEH exception thrown. Exception code: 0xc0000374 at 0x7ffddfc2f409
+
+[RtlIsZeroMemory]: ??? addr:0x7ffddfc2f409
+[RtlIsZeroMemory]: ??? addr:0x7ffddfc2f3d3
+[RtlpNtSetValueKey]: ??? addr:0x7ffddfc38152
+[RtlpNtSetValueKey]: ??? addr:0x7ffddfc3843a
+[RtlpNtSetValueKey]: ??? addr:0x7ffddfc3e0c1
+[RtlGetCurrentServiceSessionId]: ??? addr:0x7ffddfb55bf0
+[RtlFreeHeap]: ??? addr:0x7ffddfb547b1
+[free_base]: ??? addr:0x7ffddd63f05b
+SymGetSymFromAddr:487, addr:0x7ff7a5361122
+SymGetSymFromAddr:487, addr:0x7ff7a5550a07
+SymGetSymFromAddr:487, addr:0x7ff7a577ebf4
+SymGetSymFromAddr:487, addr:0x7ff7a55cf8c8
+SymGetSymFromAddr:487, addr:0x7ff7a554e963
+SymGetSymFromAddr:487, addr:0x7ff7a55c6095
+SymGetSymFromAddr:487, addr:0x7ff7a57fcadd
+[CDPCreateServer]: ??? addr:0x7ff7a5c4f7fb
+[CDPCreateServer]: ??? addr:0x7ff7a5c515ab
+SymGetSymFromAddr:487, addr:0x7ff7a56c06dd
+[CDPCreateServer]: ??? addr:0x7ff7a5c51b44
+SymGetSymFromAddr:487, addr:0x7ff7a56cb7dd
+[CDPCreateServer]: ??? addr:0x7ff7a5c5958c
+SymGetSymFromAddr:487, addr:0x7ff7a57e0c3b
+[CDPCreateServer]: ??? addr:0x7ff7a5da99e2
+[BaseThreadInitThunk]: ??? addr:0x7ffddf007344
+[RtlUserThreadStart]: ??? addr:0x7ffddfb826b1
+[RtlUserThreadStart]: ??? addr:0x7ffddfb826b1
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 cpuCount 4 profiles !!!\profiles mod @Namalsk Survival;@Namalsk Island;@CF;@Community-Online-Tools;@Dabs FrameWork;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed dologs  adminlog  netlog  freezecheck  

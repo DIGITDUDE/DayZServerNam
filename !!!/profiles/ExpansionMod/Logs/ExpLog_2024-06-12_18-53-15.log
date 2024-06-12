@@ -1,0 +1,14 @@
+18:55:46.289 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+18:55:51.179 [SpawnSelection] Player "Carl the Pilot" (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=) spawned at <7999.422852, 3.917540, 7135.880859>
+18:55:51.179 [AI Patrol] Spawning 1 West bots at <7703.005371, 38.771996, 7978.890137>
+18:58:33.046 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Basebuilding
+19:01:20.664 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:01:20.664 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:01:20.664 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:01:20.664 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:01:20.664 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+19:02:50.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+19:02:50.960 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+19:02:50.960 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+19:02:50.960 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+19:02:50.960 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=

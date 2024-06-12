@@ -1,0 +1,9 @@
+---------------------------------------------
+Log C:\daisy\DayZServerNam\!!!\profiles\script_2024-06-11_18-23-09.log started at 11.06. 18:23:09
+
+SCRIPT       : Registered 303 temporary action enum(s), UAN==303
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 737 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : ~DayZGame()

@@ -1,0 +1,6 @@
+---------------------------------------------
+Log C:\daisy\DayZServerNam\!!!\profiles\script_2024-06-11_18-42-50.log started at 11.06. 18:42:50
+
+SCRIPT       : Registered 330 temporary action enum(s), UAN==330
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled

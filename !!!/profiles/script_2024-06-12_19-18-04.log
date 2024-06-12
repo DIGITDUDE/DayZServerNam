@@ -1,0 +1,563 @@
+---------------------------------------------
+Log C:\daisy\DayZServerNam\!!!\profiles\script_2024-06-12_19-18-04.log started at 12.06. 19:18:05
+
+SCRIPT       : Registered 403 temporary action enum(s), UAN==403
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 19:18:07 [EXPANSION LOG]: DayZGame<94c75230> Start time (local time) 2024-06-12 19:18:00
+SCRIPT       : 19:18:07 [EXPANSION LOG]: DayZGame<94c75230> Start time (UTC) 2024-06-12 18:18:00
+SCRIPT       : 19:18:07 [EXPANSION LOG]: DayZGame<94c75230> Runtime since start (seconds) 7.035
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT       : Expansion version: 1.8.50
+SCRIPT       : 19:18:20.531 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 19:18:20.531 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 19:18:20.531 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 19:18:20.531 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 19:18:20.531 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 19:18:20.531 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 19:18:20.531 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 19:18:20.554 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Launchers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Vests)
+SCRIPT       : 19:18:20.687 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 19:18:21.140 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 19:18:21.140 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 19:18:21.156 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] Load existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json
+SCRIPT       : 19:18:21.156 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 19:18:21.156 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 19:18:21.156 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 19:18:21.156 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 19:18:21.164 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 19:18:21.164 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 19:18:21.164 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 19:18:21.171 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 19:18:21.171 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 19:18:21.179 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 19:18:21.179 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : NAMALSK_ISLAND
+SCRIPT       : NAMALSK_SURVIVAL
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : 19:18:21.593 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 995 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : 19:18:25.648 [EXPANSION DEBUG]: ExpansionTraderDenis<60d87f10>::SetTraderObject ExpansionTraderObjectBase<3d328800> <6297.701172, 20.696091, 9523.166016>
+SCRIPT       : 19:18:25.648 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<60d87f10> fileName Aircraft
+SCRIPT       : 19:18:25.664 [EXPANSION DEBUG]: ExpansionTraderGuo<61019010>::SetTraderObject ExpansionTraderObjectBase<60d29b50> <8599.360352, 14.725300, 10492.200195>
+SCRIPT       : 19:18:25.664 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGuo<61019010> fileName Vehicle_Parts
+SCRIPT       : 19:18:25.671 [EXPANSION DEBUG]: ExpansionTraderHassan<3d660020>::SetTraderObject ExpansionTraderObjectBase<3d62e810> <8596.509766, 14.747800, 10488.000000>
+SCRIPT       : 19:18:25.671 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHassan<3d660020> fileName Vehicles
+SCRIPT       : 19:18:25.687 [EXPANSION DEBUG]: ExpansionTraderIndar<ad8e2020>::SetTraderObject ExpansionTraderObjectBase<3d631810> <8570.200195, 14.804744, 10531.799805>
+SCRIPT       : 19:18:25.687 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIndar<ad8e2020> fileName Medicals
+SCRIPT       : 19:18:25.703 [EXPANSION DEBUG]: ExpansionTraderKaito<f6ea020>::SetTraderObject ExpansionTraderObjectBase<3d6af730> <8566.829102, 15.935067, 10515.494141>
+SCRIPT       : 19:18:25.703 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderKaito<f6ea020> fileName Exchange
+SCRIPT       : 19:18:25.718 [EXPANSION DEBUG]: ExpansionTraderLewis<3d840010>::SetTraderObject ExpansionTraderObjectBase<481b3630> <8564.556641, 15.914123, 10516.875000>
+SCRIPT       : 19:18:25.718 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLewis<3d840010> fileName BuildingSupplies
+SCRIPT       : 19:18:25.742 [EXPANSION DEBUG]: ExpansionTraderNaomi<b27a0ee0>::SetTraderObject ExpansionTraderObjectBase<481cccb0> <8554.720703, 15.931895, 10524.275391>
+SCRIPT       : 19:18:25.742 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<b27a0ee0> fileName Clothing
+SCRIPT       : 19:18:25.757 [EXPANSION DEBUG]: ExpansionTraderHelga<f63802a0>::SetTraderObject ExpansionTraderObjectBase<482f7fd0> <8560.446289, 15.920970, 10521.180664>
+SCRIPT       : 19:18:25.757 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHelga<f63802a0> fileName Clothing_Accessories
+SCRIPT       : 19:18:25.765 [EXPANSION DEBUG]: ExpansionTraderLinda<3d5da010>::SetTraderObject ExpansionTraderObjectBase<482fc110> <8571.715820, 14.824916, 10521.992188>
+SCRIPT       : 19:18:25.765 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<3d5da010> fileName Consumables
+SCRIPT       : 19:18:25.781 [EXPANSION DEBUG]: ExpansionTraderGabi<4836b010>::SetTraderObject ExpansionTraderObjectBase<484736a0> <8584.846680, 14.821787, 10534.984375>
+SCRIPT       : 19:18:25.781 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGabi<4836b010> fileName Weapons
+SCRIPT       : 19:18:25.796 [EXPANSION DEBUG]: ExpansionTraderIrena<4855c010>::SetTraderObject ExpansionTraderObjectBase<481cc590> <8594.533203, 14.821795, 10529.988281>
+SCRIPT       : 19:18:25.796 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIrena<4855c010> fileName Attachments
+SCRIPT       : 19:18:25.812 [EXPANSION DEBUG]: ExpansionTraderQuinn<486a5020>::SetTraderObject ExpansionTraderObjectBase<485e5470> <8555.026367, 15.931314, 10514.249023>
+SCRIPT       : 19:18:25.812 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderQuinn<486a5020> fileName Components
+SCRIPT       : 19:18:25.828 [EXPANSION DEBUG]: ExpansionTraderJudy<484e9020>::SetTraderObject ExpansionTraderObjectBase<482fd2b0> <8630.750000, 16.608299, 10510.500000>
+SCRIPT       : 19:18:25.828 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJudy<484e9020> fileName Fishing
+SCRIPT       : 19:18:25.843 [EXPANSION DEBUG]: ExpansionTraderPeter<48710820>::SetTraderObject ExpansionTraderObjectBase<48779190> <8590.870117, 14.821789, 10534.200195>
+SCRIPT       : 19:18:25.843 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<48710820> fileName Special
+SCRIPT       : 19:18:25.859 [EXPANSION DEBUG]: ExpansionTraderMaria<4892e020>::SetTraderObject ExpansionTraderObjectBase<489a57e0> <8559.040039, 16.014900, 10511.099609>
+SCRIPT       : 19:18:25.859 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderMaria<4892e020> fileName Spraycans
+SCRIPT       : 19:18:25.875 [EXPANSION DEBUG]: ExpansionTraderBoris<48a45020>::SetTraderObject ExpansionTraderObjectBase<489bf520> <8053.950195, 1.847600, 7595.729980>
+SCRIPT       : 19:18:25.875 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderBoris<48a45020> fileName Boats
+SCRIPT       : 19:18:25.890 [EXPANSION DEBUG]: ExpansionTraderCyril<489f1010>::SetTraderObject ExpansionTraderObjectBase<48af3e90> <8050.020020, 2.791790, 7583.060059>
+SCRIPT       : 19:18:25.890 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderCyril<489f1010> fileName Vehicle_Parts
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_1.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_2.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_3.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_4.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_5.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_6.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_7.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_1.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_2.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_3.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_4.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_1.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_1.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_3.json
+SCRIPT       : [ExpansionQuestObjectiveTreasureHuntConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\TreasureHunt\Objective_TH_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_2.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIPatrolConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIPatrol\Objective_AIP_1.json
+SCRIPT       : [ExpansionQuestObjectiveAICampConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AICamp\Objective_AIC_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIEscortConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIVIP\Objective_AIESCORT_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_2.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_3.json
+SCRIPT       : 19:18:39.562 [EXPANSION DEBUG]: ExpansionP2PTraderAIIrena<3a70df40>::SetP2PTraderID - ID: 1
+SCRIPT       : ExpansionZoneCircle<43b42540> position=<8583.669922, 0.000000, 10515.000000> radius=400
+SCRIPT       : Found 1 zones!
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<57bf8f70>
+SCRIPT       : int worth =   1
+SCRIPT       : m_EventManager NamEventManager<dba071c0>
+SCRIPT       : MaxEventCount 2
+SCRIPT       : 19:18:39.648 [EXPANSION DEBUG]: ExpansionQuestNPCAIElias<3ad526d0>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : 19:18:39.648 [EXPANSION DEBUG]: ExpansionQuestNPCAIDenis<457126e0>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : 19:23:39.843 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 19:23:39.843 [EXPANSION DEBUG]: ExpansionAirdropContainer 26
+SCRIPT       : 19:23:39.843 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 31
+SCRIPT       : 19:23:39.843 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 36
+SCRIPT       : 19:23:39.843 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military_WinterCamo 41
+SCRIPT       : 19:23:39.843 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - drop position <8008.000000, 0.000000, 10747.000000> - map is namalsk - size 12800 - center <4352.000000, 0.000000, 7348.000000>
+SCRIPT       : 19:23:39.843 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <374.077820, 450.324615, 0.000000>
+SCRIPT       : 19:24:50.265 [EXPANSION DEBUG]: ExpansionHardlineModule<a7e765d0> ::LoadPlayerData - Loaded player hardline data for player Survivor[YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 19:25:56.664 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Sending 24 quest configs to client with UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+SCRIPT       : 19:25:56.664 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Sending player quest data for 4 quests to player with UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+SCRIPT       : 19:25:57.125 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Quest configs already synched for player with UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+SCRIPT       : 19:25:57.125 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Sending player quest data for quest ID 14 to player with UID: YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 827.731 (sec), end: 600 (sec), TempDrop: -20.3361 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1095.52 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 903.003
+SCRIPT       : 19:32:00.726 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<3241aeb0> (parent=NULL)
+SCRIPT       : 19:32:26.796 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn BandageDressing on FirstAidKit<2e3fbc10>
+SCRIPT       : 19:32:26.804 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn BandageDressing on FirstAidKit<307e01c0>
+SCRIPT       : 19:32:26.804 [EXPANSION LOG]: ExpansionAirdropContainerBase<3018c5e0> InitAirdrop - total weight (kg) 310.49 - nominal fall speed 4.52623 m/s, wind impact strength 0.149126
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Aurora as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 578 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 827.731
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1095.52
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 504.697
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 582 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <8028.051758, 18.387213, 10724.171875> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start HeavyFog as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 743 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1123.95 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 897 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1123.95
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 754 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1130.01
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 20:32:56.312 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Sending 24 quest configs to client with UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : 20:32:56.312 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Sending player quest data for 4 quests to player with UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : 20:32:56.796 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Quest configs already synched for player with UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : 20:32:56.796 [EXPANSION DEBUG]: ExpansionQuestModule<afb38f70> Sending player quest data for quest ID 14 to player with UID: OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Scout:6757 (owner eAI_SurvivorM_Denis<5b400010>) - MagazineRepair - BAREM_CLO_BUF_MA0<514822b0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Scout:10417 (owner eAI_SurvivorF_Linda<5dc78010>) - MagazineRepair - BAREM_CLO_BUF_MA0<47fa71c0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 779 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<1ea25e30> closes stable state=RBF_CLO_BU1_MA1<1ea24270> id=3
+SCRIPT       : 20:37:53.648 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created M4A1:10125 at location { type=GROUND item=M4A1:4858 pos=(3972.09, 53.0279, 7635.55) dir=(-0.706485, 0.0296566, 0.0296566, 0.706485) }
+SCRIPT       : 20:37:53.648 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created M4_MPBttstck:4955 at location { type=ATTACHMENT item=null parent=M4A1:10125 slot=weaponButtstockM4 }
+SCRIPT       : 20:37:53.648 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created M4_CarryHandleOptic:10634 at location { type=ATTACHMENT item=null parent=M4A1:10125 slot=weaponOptics }
+SCRIPT       : 20:37:53.648 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created M4_PlasticHndgrd:9118 at location { type=ATTACHMENT item=null parent=M4A1:10125 slot=weaponHandguardM4 }
+SCRIPT       : 20:37:53.648 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_STANAG_30Rnd:9950 at location { type=ATTACHMENT item=null parent=M4A1:10125 slot=magazine }
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<2a670300> closes stable state=RBL_CLO_BU1_MA1<2a672760> id=3
+SCRIPT       : 20:37:55.734 [EXPANSION DEBUG]: eAI_SurvivorF_Maria<376db3f0> Debug: Not removed during target cleanup eAIItemTargetInformation<294e6ea0>, entity=KitchenKnife<3242fe00>, position=<3969.097900, 53.143364, 7637.856934> eAITargetInformationState<5c17da60>
+SCRIPT       : 20:37:55.734 [EXPANSION DEBUG]: eAI_SurvivorF_Maria<376db3f0> Debug: Not removed during target cleanup eAIItemTargetInformation<26840cc0>, entity=PP19_Base<24339c70>, position=<3978.014404, 57.011314, 7650.639160> eAITargetInformationState<5c17d1a0>
+SCRIPT       : 20:38:31.500 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Aug:11027 at location { type=GROUND item=Aug:10983 pos=(4021.29, 53.0225, 7600.38) dir=(0.248521, 0.661995, 0.661995, -0.248521) }
+SCRIPT       : 20:38:31.500 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Aug_30Rnd:5524 at location { type=ATTACHMENT item=null parent=Aug:11027 slot=magazine }
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : 20:43:23.734 [EXTRACE] +ExpansionKillFeedModule<af19d900>::OnPlayerKilled SurvivorBase<5e776ae0> Aug<26c80cf0>
+SCRIPT       : 20:43:23.734 [EXTRACE] -ExpansionKillFeedModule<af19d900>::OnPlayerKilled SurvivorBase<5e776ae0> Aug<26c80cf0> 0.4575 ms
+SCRIPT       : 20:44:06.343 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugShort:11007 at location { type=GROUND item=AugShort:7843 pos=(7475.08, 57.492, 7542.64) dir=(0.723019, -0.116617, -0.108425, 0.672226) }
+SCRIPT       : 20:44:06.343 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Aug_30Rnd:10546 at location { type=ATTACHMENT item=null parent=AugShort:11007 slot=magazine }
+SCRIPT       : 20:44:06.351 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugOptic:11193 at location { type=ATTACHMENT item=null parent=AugShort:11007 slot=weaponOpticsAug }
+SCRIPT       : 20:45:02.078 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugShort:12245 at location { type=HANDS item=AugShort:11007 parent=eAI_SurvivorM_Kaito:34:INSTANCETYPE_AI_SERVER }
+SCRIPT       : 20:45:02.078 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Aug_30Rnd:7843 at location { type=ATTACHMENT item=null parent=AugShort:12245 slot=magazine }
+SCRIPT       : 20:45:02.078 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugOptic:11061 at location { type=ATTACHMENT item=null parent=AugShort:12245 slot=weaponOpticsAug }
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1068.13
+SCRIPT       : 20:46:54.546 [EXPANSION DEBUG]: eAI_SurvivorF_Eva<514b7040> Debug: Not removed during target cleanup eAIPlayerTargetInformation<2e35aa10>, entity=eAI_SurvivorM_Hassan<618bb010>, position=<5850.976563, 41.942745, 11302.339844> eAITargetInformationState<6159b390>
+SCRIPT       : 20:46:54.546 [EXPANSION DEBUG]: eAI_SurvivorF_Eva<514b7040> Debug: Not removed during target cleanup eAIZombieTargetInformation<377a8240>, entity=ZmbF_SurvivorNormal_LT_Base<3761f960>, position=<6786.819336, 25.755079, 11223.102539> eAITargetInformationState<5e31f9b0>
+SCRIPT       : 20:47:19.898 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Scout:12076 at location { type=GROUND item=Scout:10417 pos=(6499.04, 16.0165, 11156.2) dir=(-0.127956, 0.612427, 0.44369, 0.641638) }
+SCRIPT       : 20:47:19.898 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Scout_5Rnd:12658 at location { type=ATTACHMENT item=null parent=Scout:12076 slot=magazine }
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponReplacingMagAndChamberNext<5dbdb2c0> closes stable state=BAREM_CLO_BU0_MA1<47fa7820> id=4
+SCRIPT       : 20:47:20.078 [EXPANSION DEBUG]: eAI_SurvivorF_Linda<5dc78010> Debug: Not removed during target cleanup eAIZombieTargetInformation<377a8240>, entity=ZmbF_SurvivorNormal_LT_Base<3761f960>, position=<6791.201660, 25.749418, 11231.460938> eAITargetInformationState<5e322570>
+SCRIPT       : 20:47:20.078 [EXPANSION DEBUG]: eAI_SurvivorF_Linda<5dc78010> Debug: Not removed during target cleanup eAIItemTargetInformation<5dd1e290>, entity=FarmingHoe<1e9301a0>, position=<6503.758789, 16.022266, 11154.195313> eAITargetInformationState<615a0750>
+SCRIPT       : 20:47:20.078 [EXPANSION DEBUG]: eAI_SurvivorF_Linda<5dc78010> Debug: Not removed during target cleanup eAIItemTargetInformation<607b54f0>, entity=Ammo_40mm_Smoke_Black<2de0c070>, position=<6506.551270, 16.940178, 11178.937500> eAITargetInformationState<6159ff30>
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 908 seconds
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 20:50:25.875 [EXPANSION DEBUG]: eAI_SurvivorF_Frida<6032e7f0> Debug: Not removed during target cleanup eAIZombieTargetInformation<36e9cd10>, entity=ZmbM_PatrolNormal_Base<36fd0c80>, position=<5734.802734, 18.829905, 9451.288086> eAITargetInformationState<612c31e0>
+SCRIPT       : 20:50:25.875 [EXPANSION DEBUG]: eAI_SurvivorF_Frida<6032e7f0> Debug: Not removed during target cleanup eAIZombieTargetInformation<36e9b870>, entity=ZmbM_PatrolNormal_Base<36fc6060>, position=<5647.095215, 27.587862, 9468.042969> eAITargetInformationState<61860460>
+SCRIPT       : 20:50:30.046 [EXPANSION DEBUG]: eAI_SurvivorM_Oliver<61c4c020> Debug: Not removed during target cleanup eAIZombieTargetInformation<36e97cd0>, entity=ZmbM_nacSoldier_normal<2eacd9c0>, position=<5722.680176, 21.435055, 9903.043945> eAITargetInformationState<6159a710>
+SCRIPT       : 20:51:28.601 [EXPANSION DEBUG]: ExpansionLHD<48053040>::ExpansionSetLastDriverUID - OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : 20:51:29.593 [EXPANSION DEBUG]: ExpansionLHD<48053040>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : 20:52:26.859 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 20:52:26.859 [EXPANSION DEBUG]: ExpansionAirdropContainer 106
+SCRIPT       : 20:52:26.859 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 111
+SCRIPT       : 20:52:26.859 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 116
+SCRIPT       : 20:52:26.859 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military_WinterCamo 121
+SCRIPT       : 20:52:26.859 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - drop position <7114.000000, 0.000000, 6000.000000> - map is namalsk - size 12800 - center <4352.000000, 0.000000, 7348.000000>
+SCRIPT       : 20:52:26.859 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <0.000000, 452.000000, 10904.975586>
+SCRIPT       : 20:52:52.781 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugShort:7179 at location { type=ATTACHMENT item=AugShort:12245 parent=eAI_SurvivorM_Kaito:34:INSTANCETYPE_AI_SERVER slot=Shoulder }
+SCRIPT       : 20:52:52.781 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugOptic:12672 at location { type=ATTACHMENT item=null parent=AugShort:7179 slot=weaponOpticsAug }
+SCRIPT       : 20:52:52.781 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Aug_30Rnd:8838 at location { type=ATTACHMENT item=null parent=AugShort:7179 slot=magazine }
+SCRIPT       : 20:55:27.515 [EXPANSION DEBUG]: ExpansionUtilityBoat<345d8e30>::ExpansionSetLastDriverUID - OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : 20:55:28.515 [EXPANSION DEBUG]: ExpansionUtilityBoat<345d8e30>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : 20:56:02.757 [EXPANSION DEBUG]: ExpansionUtilityBoat<345d8e30>::ExpansionSetLastDriverUID - OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : 20:56:03.757 [EXPANSION DEBUG]: ExpansionUtilityBoat<345d8e30>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : 20:56:50.562 [EXPANSION DEBUG]: ExpansionUtilityBoat<345d8e30>::ExpansionSetLastDriverUID - OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=
+SCRIPT       : 20:56:51.562 [EXPANSION DEBUG]: ExpansionUtilityBoat<345d8e30>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Scout:12226 (owner eAI_SurvivorM_Jose<61619040>) - MagazineRepair - BAREM_CLO_BUF_MA0<477b0890> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : 20:58:11.882 [EXPANSION LOG]: ExpansionAirdropContainerBase<32223b40> InitAirdrop - total weight (kg) 310.52 - nominal fall speed 4.5263 m/s, wind impact strength 0.149123
+SCRIPT       : 20:58:19.984 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Cleaver:9054 at location { type=HANDS item=Cleaver:9167 parent=eAI_SurvivorM_Kaito:34:INSTANCETYPE_AI_SERVER }
+SCRIPT       : 21:01:36.843 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Ammo_FlareRed:7775 at location { type=CARGO item=Ammo_FlareRed:11498 parent=USMCJacket_Desert:6180 idx=0 row=0 col=2 f=false }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 788 seconds
+SCRIPT       : [Logout]: New player YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= with logout time 15
+SCRIPT       : 21:03:31.968 [EXPANSION DEBUG]: ExpansionQuestPersistentData<7aa8370>~ExpansionQuestPersistentData (4)
+SCRIPT       : [Logout]: Player YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= finished
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : 21:07:55.390 [EXPANSION DEBUG]: eAI_SurvivorM_Kaito<5e2f8080> Debug: Not removed during target cleanup eAIItemTargetInformation<321be510>, entity=MKII_Base<321ce620>, position=<7888.494141, 22.073418, 7760.795898> eAITargetInformationState<43e49600>
+SCRIPT       : 21:07:55.390 [EXPANSION DEBUG]: eAI_SurvivorM_Kaito<5e2f8080> Debug: Not removed during target cleanup eAIItemTargetInformation<2aa6abd0>, entity=Mag_Expansion_M14_10Rnd<3057b970>, position=<7890.095703, 22.325928, 7760.688965> eAITargetInformationState<43e487a0>
+SCRIPT       : 21:07:55.390 [EXPANSION DEBUG]: eAI_SurvivorM_Kaito<5e2f8080> Debug: Not removed during target cleanup eAIItemTargetInformation<46990c20>, entity=Shovel<1e952ac0>, position=<7902.963379, 15.892961, 7756.587891> eAITargetInformationState<b74df760>
+SCRIPT       : [Logout]: New player OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= with logout time 15
+SCRIPT       : 21:09:17.726 [EXPANSION DEBUG]: ExpansionQuestPersistentData<5e729220>~ExpansionQuestPersistentData (4)
+SCRIPT       : [Logout]: Player OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= finished
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 618 seconds
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <7127.297852, 67.391228, 6048.348633> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 511.389
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 965 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1055.11
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 996 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 928 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 999.777
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 731 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : 22:18:12.859 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 22:18:12.859 [EXPANSION DEBUG]: ExpansionAirdropContainer 126
+SCRIPT       : 22:18:12.859 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 131
+SCRIPT       : 22:18:12.859 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 136
+SCRIPT       : 22:18:12.859 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military_WinterCamo 141
+SCRIPT       : 22:18:12.859 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - drop position <3974.000000, 0.000000, 7350.000000> - map is namalsk - size 12800 - center <4352.000000, 0.000000, 7348.000000>
+SCRIPT       : 22:18:12.859 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <12384.616211, 449.866913, 0.000000>
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : 22:25:38.515 [EXPANSION LOG]: ExpansionAirdropContainerBase<2a93b700> InitAirdrop - total weight (kg) 362.399 - nominal fall speed 4.656 m/s, wind impact strength 0.1448
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 935 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 803.232 (sec), end: 600 (sec), TempDrop: -20.0941 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 704 seconds
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <4035.319092, 83.965248, 7375.689941> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::DeleteSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 803.232
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 719 seconds
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 23:00:13.390 [EXPANSION DEBUG]: Clearing cached categories 67
+SCRIPT       : 23:00:13.398 [EXPANSION DEBUG]: Clearing cached traders 17
+SCRIPT       : ~DayZGame()

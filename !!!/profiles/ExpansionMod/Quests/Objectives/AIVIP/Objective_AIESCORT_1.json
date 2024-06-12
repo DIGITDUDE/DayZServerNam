@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Bring the Survivor to the marked location.",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        8348.3896484375,
+        0.0,
+        10724.7001953125
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort Survivor",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCClassName": "eAI_SurvivorM_Kaito",
+    "NPCName": "Survivior"
+}
