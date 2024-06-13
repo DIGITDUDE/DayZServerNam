@@ -1,0 +1,99 @@
+---------------------------------------------
+Log C:\daisy\DayZServerNam\!!!\profiles\crash_2024-06-12_23-48-57.log started at 12.06. 23:49:15
+
+
+
+------------------------------------
+DESKTOP-04C37QM, 12.06 2024 23:49:15
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:172
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2307 cpuCount 4 profiles !!!\profiles mod @Namalsk Survival;@Namalsk Island;@Namalsk_Overhaul;@CF;@Community-Online-Tools;@Dabs FrameWork;@DayZ Editor Loader;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+DESKTOP-04C37QM, 12.06 2024 23:49:15
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:491
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2307 cpuCount 4 profiles !!!\profiles mod @Namalsk Survival;@Namalsk Island;@Namalsk_Overhaul;@CF;@Community-Online-Tools;@Dabs FrameWork;@DayZ Editor Loader;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+DESKTOP-04C37QM, 12.06 2024 23:49:15
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:578
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2307 cpuCount 4 profiles !!!\profiles mod @Namalsk Survival;@Namalsk Island;@Namalsk_Overhaul;@CF;@Community-Online-Tools;@Dabs FrameWork;@DayZ Editor Loader;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+DESKTOP-04C37QM, 12.06 2024 23:49:15
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:592
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2307 cpuCount 4 profiles !!!\profiles mod @Namalsk Survival;@Namalsk Island;@Namalsk_Overhaul;@CF;@Community-Online-Tools;@Dabs FrameWork;@DayZ Editor Loader;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+DESKTOP-04C37QM, 12.06 2024 23:50:02
+Unhandled exception
+
+Program: C:\daisy\DayZServerNam\DayZServer_x64.exe
+Reason: SEH exception thrown. Exception code: 0xc0000374 at 0x7ffc5806f439
+
+[RtlIsZeroMemory]: ??? addr:0x7ffc5806f439
+[RtlIsZeroMemory]: ??? addr:0x7ffc5806f403
+[RtlpNtSetValueKey]: ??? addr:0x7ffc58078182
+[RtlpNtSetValueKey]: ??? addr:0x7ffc5807846a
+[RtlpNtSetValueKey]: ??? addr:0x7ffc5807e0f1
+[RtlGetCurrentServiceSessionId]: ??? addr:0x7ffc57f95bf0
+[RtlFreeHeap]: ??? addr:0x7ffc57f947b1
+[free_base]: ??? addr:0x7ffc5563f05b
+SymGetSymFromAddr:487, addr:0x7ff7a7951122
+SymGetSymFromAddr:487, addr:0x7ff7a7b40a07
+SymGetSymFromAddr:487, addr:0x7ff7a7d6ebf4
+SymGetSymFromAddr:487, addr:0x7ff7a7bbf8c8
+SymGetSymFromAddr:487, addr:0x7ff7a7b3e963
+SymGetSymFromAddr:487, addr:0x7ff7a7bb6095
+SymGetSymFromAddr:487, addr:0x7ff7a7decadd
+[CDPCreateServer]: ??? addr:0x7ff7a823f7fb
+[CDPCreateServer]: ??? addr:0x7ff7a82415ab
+SymGetSymFromAddr:487, addr:0x7ff7a7cb06dd
+[CDPCreateServer]: ??? addr:0x7ff7a8241b44
+SymGetSymFromAddr:487, addr:0x7ff7a7cbb7dd
+[CDPCreateServer]: ??? addr:0x7ff7a824958c
+SymGetSymFromAddr:487, addr:0x7ff7a7dd0c3b
+[CDPCreateServer]: ??? addr:0x7ff7a83999e2
+[BaseThreadInitThunk]: ??? addr:0x7ffc57dc7344
+[RtlUserThreadStart]: ??? addr:0x7ffc57fbcc91
+[RtlUserThreadStart]: ??? addr:0x7ffc57fbcc91
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2307 cpuCount 4 profiles !!!\profiles mod @Namalsk Survival;@Namalsk Island;@Namalsk_Overhaul;@CF;@Community-Online-Tools;@Dabs FrameWork;@DayZ Editor Loader;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed dologs  adminlog  netlog  freezecheck  

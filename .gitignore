@@ -26,3 +26,8 @@
 /tier0_s64.dll
 /vstdlib_s64.dll
 /whitelist.txt
+
+/mpmissions/regular.namalsk/storage_1
+/!!!/profiles/WebApiLog
+/!!!/profiles/EventManagerLog
+/!!!/profiles/ExpansionMod/Logs
