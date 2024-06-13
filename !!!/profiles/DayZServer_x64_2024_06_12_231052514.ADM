@@ -1,0 +1,91 @@
+
+
+******************************************************************************
+AdminLog started on 2024-06-12 at 19:18:00
+19:24:48 | Player "Survivor" is connected (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=)
+19:26:03 | [COT] 76561198103345785: Activated Community Online Tools [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+19:28:26 | [COT] 76561198103345785: Set GodMode To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+19:29:00 | [COT] 76561198103345785: Spawned Entity KA-74 (AK74<45c8bfc0>, 100, 250, 0) at <9030.745117, 12.544856, 10102.117188>
+19:29:12 | [COT] 76561198103345785: Set UnlimitedAmmo To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+19:34:56 | [COT] 76561198103345785: Teleported to position <6511.200684, 16.000000, 9310.074219>
+19:40:49 | [COT] 76561198103345785: Teleported to position <3427.633301, 215.994217, 6725.189941>
+20:31:42 | [COT] 76561198103345785: Teleported to position <3911.275879, 53.027630, 7541.514648>
+20:32:34 | Player "Carl the Pilot" is connected (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=)
+20:33:25 | [COT] 76561198103345785: Updated roles [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:33:34 | [COT] 76561198076532496: Activated Community Online Tools [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:33:37 | [COT] 76561198103345785: Deactivated Community Online Tools [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+20:33:38 | [COT] 76561198103345785: Activated Community Online Tools [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+20:34:13 | [COT] 76561198076532496: Teleported to position <7642.296387, 15.537133, 10587.675781>
+20:34:42 | [COT] 76561198076532496: Teleported to position <7191.038574, 14.153691, 11141.457031>
+20:35:10 | [COT] 76561198076532496: Teleported to position <7677.894531, 39.994637, 7440.889160>
+20:35:22 | [COT] 76561198076532496: Teleported to position <8281.401367, 15.000000, 10793.853516>
+20:37:15 | [COT] 76561198076532496: Teleported to position <6233.265137, 21.095964, 9283.772461>
+20:37:25 | [COT] 76561198103345785: Set GodMode To false [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:37:27 | [COT] 76561198103345785: Set GodMode To false [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:37:43 | [COT] 76561198103345785: ESP: Viewing ESP
+20:37:45 | Player "Carl the Pilot" (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= pos=<6299.3, 9356.4, 21.0>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:37:52 | Player "Carl the Pilot" (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= pos=<6297.2, 9351.5, 21.0>)[HP: 99.35] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+20:37:52 | AI "Maria" (group=22 faction="West" pos=<3971.1, 7634.7, 53.0>)[HP: 73.4002] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3980.9, 7640.3, 53.0>) into Torso(24) for 26.5998 damage (Bullet_762x39) with KA-M from 11.2324 meters 
+20:37:53 | AI "Maria" (group=22 faction="West" pos=<3971.3, 7634.7, 53.0>)[HP: 46.7896] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3980.8, 7640.1, 53.0>) into Torso(6) for 26.6106 damage (Bullet_762x39) with KA-M from 10.8775 meters 
+20:37:53 | AI "Maria" (group=22 faction="West" pos=<3972.1, 7635.3, 53.0>)[HP: 20.0749] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3979.8, 7639.1, 53.0>) into Torso(15) for 26.7147 damage (Bullet_762x39) with KA-M from 8.5403 meters 
+20:37:53 | AI "Maria" (group=22 faction="West" pos=<3972.2, 7635.1, 53.0>)[HP: 10.2738] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3979.6, 7639.0, 53.0>) into RightHand(47) for 89.1012 damage (Bullet_762x39) with KA-M from 8.39126 meters 
+20:37:54 | Player "Carl the Pilot" (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= pos=<6295.2, 9350.0, 21.0>)[HP: 98.79] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+20:37:54 | AI "Maria" (group=22 faction="West" pos=<3972.3, 7634.7, 53.0>)[HP: 0.470153] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3978.8, 7638.7, 53.0>) into RightHand(47) for 89.124 damage (Bullet_762x39) with KA-M from 7.62897 meters 
+20:37:55 | AI "Maria" (DEAD) (group=22 faction="West" pos=<3972.4, 7634.7, 53.0>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3973.1, 7635.5, 53.0>) into Torso(6) for 27.0009 damage (Bullet_762x39) with KA-M from 1.04844 meters 
+20:37:55 | AI "Maria" (DEAD) (group=22 faction="West" pos=<3972.4, 7634.7, 53.0>) killed by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3973.1, 7635.5, 53.0>) with KA-M from 1.04844 meters 
+20:37:55 | AI "Maria" (DEAD) (group=22 faction="West" pos=<3972.4, 7634.7, 53.0>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3973.1, 7635.5, 53.0>) into Torso(36) for 26.9999 damage (Bullet_762x39) with KA-M from 1.03014 meters 
+20:37:55 | AI "Maria" (DEAD) (group=22 faction="West" pos=<3972.4, 7634.7, 53.0>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3973.1, 7635.5, 53.0>) into Torso(34) for 26.9981 damage (Bullet_762x39) with KA-M from 1.03014 meters 
+20:37:56 | AI "Maria" (DEAD) (group=22 faction="West" pos=<3972.4, 7634.7, 53.0>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3973.1, 7635.5, 53.0>) into Torso(34) for 26.9976 damage (Bullet_762x39) with KA-M from 1.03014 meters 
+20:37:56 | AI "Maria" (DEAD) (group=22 faction="West" pos=<3972.4, 7634.7, 53.0>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3973.1, 7635.5, 53.0>) into Torso(34) for 89.9912 damage (Bullet_762x39) with KA-M from 1.03014 meters 
+20:37:56 | AI "Maria" (DEAD) (group=22 faction="West" pos=<3972.4, 7634.7, 53.0>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<3973.1, 7635.5, 53.0>) into Torso(12) for 89.99 damage (Bullet_762x39) with KA-M from 1.03014 meters 
+20:38:30 | AI "Seth" (group=22 faction="West" pos=<4019.9, 7599.0, 53.0>)[HP: 76.223] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4011.4, 7589.0, 53.0>) into Torso(42) for 23.777 damage (Bullet_545x39) with KA-74 from 13.0972 meters 
+20:38:31 | AI "Seth" (group=22 faction="West" pos=<4021.0, 7600.0, 53.0>)[HP: 36.6605] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4011.4, 7589.0, 53.0>) into Head(0) for 19.7812 damage (Bullet_545x39) with KA-74 from 14.6142 meters 
+20:38:39 | AI "Seth" (group=22 faction="West" pos=<4020.8, 7600.4, 53.0>)[HP: 26.7335] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4020.3, 7599.5, 53.0>) into Torso(39) for 10.2 damage (FirearmHit_Rifle_Bayonet) with KA-74
+20:38:40 | AI "Seth" (group=22 faction="West" pos=<4020.8, 7600.4, 53.0>)[HP: 14.7335] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4020.5, 7599.5, 53.0>) into Torso(29) for 12 damage (FirearmHit_Rifle_Bayonet) with KA-74
+20:38:41 | AI "Seth" (group=22 faction="West" pos=<4020.8, 7600.4, 53.0>)[HP: 11.8245] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4020.7, 7599.4, 53.0>) into Torso(32) for 3 damage (FirearmHit_Rifle) with KA-74
+20:38:42 | AI "Seth" (group=22 faction="West" pos=<4020.8, 7600.4, 53.0>)[HP: 8.82454] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4020.8, 7599.6, 53.0>) into Torso(39) for 3 damage (FirearmHit_Rifle) with KA-74
+20:38:45 | AI "Seth" (DEAD) (group=22 faction="West" pos=<4020.8, 7600.4, 53.0>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4020.7, 7599.5, 53.0>) into Head(0) for 20.0876 damage (Bullet_545x39) with KA-74 from 0.921723 meters 
+20:38:45 | AI "Seth" (DEAD) (group=22 faction="West" pos=<4020.8, 7600.4, 53.0>) killed by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<4020.7, 7599.5, 53.0>) with KA-74 from 0.921723 meters 
+20:40:32 | [COT] 76561198076532496: Teleported to position <6956.358398, 15.166366, 11447.160156>
+20:40:52 | [COT] 76561198103345785: Teleported to position <6901.488281, 15.194905, 11449.300781>
+20:42:14 | [COT] 76561198103345785: Teleported to position <7175.838379, 15.000000, 11317.626953>
+20:43:23 | Player "Carl the Pilot" (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= pos=<6893.2, 11398, 15.3>)[HP: 93.5] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+20:43:23 | Player "Carl the Pilot" (DEAD) (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= pos=<6892.9, 11398.7, 15.3>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6973.0, 11384.8, 15.3>) into Torso(15) for 97.1304 damage (Bullet_556x45) with AUR AX from 81.3083 meters 
+20:43:23 | Player "Carl the Pilot" (DEAD) (id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ= pos=<6892.9, 11398.7, 15.3>) killed by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6973.0, 11384.8, 15.3>) with AUR AX from 81.3083 meters 
+20:44:05 | AI "Taiki" (DEAD) (group=32 faction="West" pos=<7504.6, 7542.0, 49.8>)[HP: 0] hit by FallDamageHealth
+20:44:05 | AI "Taiki" (DEAD) (group=32 faction="West" pos=<7504.6, 7542.0, 49.8>) died. Stats> Water: 600 Energy: 600 Bleed sources: 0
+20:44:06 | AI "Kaito" (group=32 faction="West" pos=<7475.1, 7542.0, 57.5>)[HP: 0.483536] hit by FallDamageHealth
+20:44:06 | AI "Baty" (DEAD) (group=32 faction="West" pos=<7504.6, 7542.0, 49.8>)[HP: 0] hit by FallDamageHealth
+20:44:06 | AI "Baty" (DEAD) (group=32 faction="West" pos=<7504.6, 7542.0, 49.8>) died. Stats> Water: 600 Energy: 600 Bleed sources: 0
+20:46:52 | AI "Eva" (group=25 faction="West" pos=<6556.3, 11137.3, 16.2>)[HP: 77.0572] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6595.6, 11150.5, 16.9>) into LeftLeg(10) for 91.7711 damage (Bullet_545x39) with KA-74 from 41.4584 meters 
+20:46:54 | AI "Eva" (group=25 faction="West" pos=<6553.7, 11137.5, 16.1>)[HP: 0.606468] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6592.7, 11149.5, 16.9>) into Torso(11) for 76.5418 damage (Bullet_545x39) with KA-74 from 40.8331 meters 
+20:46:54 | AI "Eva" (DEAD) (group=25 faction="West" pos=<6553.6, 11137.5, 16.1>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6592.5, 11149.5, 16.9>) into Torso(15) for 76.5406 damage (Bullet_545x39) with KA-74 from 40.7472 meters 
+20:46:54 | AI "Eva" (DEAD) (group=25 faction="West" pos=<6553.6, 11137.5, 16.1>) killed by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6592.5, 11149.5, 16.9>) with KA-74 from 40.7472 meters 
+20:46:54 | AI "Eva" (DEAD) (group=25 faction="West" pos=<6553.5, 11137.5, 16.1>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6592.3, 11149.4, 16.9>) into Torso(32) for 76.539 damage (Bullet_545x39) with KA-74 from 40.6742 meters 
+20:47:19 | AI "Linda" (group=25 faction="West" pos=<6499.0, 11156.1, 15.9>)[HP: 99.1916] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6505.2, 11153.5, 15.9>) into LeftLeg(9) for 3.2337 damage (Bullet_545x39) with KA-74 from 6.69034 meters 
+20:47:19 | AI "Linda" (group=25 faction="West" pos=<6499.0, 11156.1, 15.9>)[HP: 75.2282] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6505.0, 11153.6, 15.9>) into Torso(6) for 23.9633 damage (Bullet_545x39) with KA-74 from 6.55017 meters 
+20:47:19 | AI "Linda" (group=25 faction="West" pos=<6499.0, 11156.1, 15.9>)[HP: 51.2551] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6504.8, 11153.6, 15.9>) into Torso(34) for 23.9731 damage (Bullet_545x39) with KA-74 from 6.34068 meters 
+20:47:19 | AI "Linda" (group=25 faction="West" pos=<6499.0, 11156.1, 15.9>)[HP: 27.2762] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6504.6, 11153.7, 15.9>) into Torso(7) for 23.9789 damage (Bullet_545x39) with KA-74 from 6.13113 meters 
+20:47:19 | AI "Linda" (group=25 faction="West" pos=<6498.8, 11156.2, 15.8>)[HP: 3.28608] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6504.4, 11154, 15.9>) into Torso(16) for 23.9901 damage (Bullet_545x39) with KA-74 from 5.98561 meters 
+20:47:20 | AI "Linda" (DEAD) (group=25 faction="West" pos=<6498.7, 11156.2, 15.8>)[HP: 0] hit by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6504.3, 11154.1, 15.9>) into Torso(24) for 23.9904 damage (Bullet_545x39) with KA-74 from 5.974 meters 
+20:47:20 | AI "Linda" (DEAD) (group=25 faction="West" pos=<6498.7, 11156.2, 15.8>) killed by Player "Survivor" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<6504.3, 11154.1, 15.9>) with KA-74 from 5.974 meters 
+20:48:32 | [COT] 76561198103345785: Teleported to position <8016.406250, 7.905959, 7597.131348>
+20:50:00 | [COT] 76561198103345785: Spawned Entity LHD-9 USS Khe Sanh (ExpansionLHD<48053040>, 100, 1e+06, 0) at <8102.541504, 0.107554, 7529.748047>
+20:51:03 | [COT] 76561198103345785: Set UnlimitedStamina To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+20:51:03 | [COT] 76561198103345785: Set UnlimitedStamina To false [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+20:51:04 | [COT] 76561198103345785: Set UnlimitedStamina To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+20:55:15 | [COT] 76561198103345785: Teleported to <8026.044922, 9.624509, 7627.599609> [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:56:14 | [COT] 76561198103345785: Repaired Transport [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:56:22 | [COT] 76561198076532496: Repaired Transport [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:56:40 | [COT] 76561198103345785: Spawned Entity Glow Plug (GlowPlug<2dd80df0>, 100, 20, 0) at <8031.198242, 0.263714, 7716.899414>
+20:56:59 | [COT] 76561198103345785: Set GodMode To true [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:57:02 | [COT] 76561198103345785: Set UnlimitedAmmo To true [guid=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=]
+20:57:34 | AI "Elias" (DEAD) (group=35 faction="West" pos=<7632.6, 9058.5, 33.3>)[HP: 0] hit by FallDamageHealth
+20:57:34 | AI "Elias" (DEAD) (group=35 faction="West" pos=<7632.6, 9058.5, 33.3>) died. Stats> Water: 600 Energy: 600 Bleed sources: 0
+20:57:34 | AI "Jose" (DEAD) (group=35 faction="West" pos=<7632.6, 9058.5, 31.2>)[HP: 0] hit by FallDamageHealth
+20:57:34 | AI "Jose" (DEAD) (group=35 faction="West" pos=<7632.6, 9058.5, 31.2>) died. Stats> Water: 600 Energy: 600 Bleed sources: 0
+21:03:32 | Player "Survivor"(id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=) has been disconnected
+21:09:18 | Player "Carl the Pilot"(id=OkQei8Y8j1T0RWvEsyorvg0MG8Bup-65EsW_YEdoODQ=) has been disconnected
+
+
+**********************************EOF****************************************
