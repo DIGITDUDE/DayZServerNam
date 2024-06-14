@@ -11,8 +11,7 @@
         <category name="containers" />
         <category name="clothes" />
         <category name="bags" />
-        <category name="books"/>
-		<category name="vehicleparts" />
+        <category name="lantia" />
     </categories>
     <tags>
         <tag name="military" />
@@ -24,30 +23,17 @@
         <tag name="medical" />
         <tag name="firefighter" />
         <tag name="fishing" />
-		<tag name="floor"/>
-        <tag name="shelves"/>
-        <tag name="ground"/>
+        <tag name="seaice" />
+        <tag name="seasonalevent" />
     </tags>
-        <usageflags>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-    </usageflags>
+    <usageflags />
     <valueflags>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
-		<value name="Tier5"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
     </valueflags>
 </lists>

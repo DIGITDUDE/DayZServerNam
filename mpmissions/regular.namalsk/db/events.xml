@@ -458,7 +458,7 @@
         </children>
     </event>
     <event name="AnimalBrownBear">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <min>3</min>
         <max>3</max>
         <lifetime>180</lifetime>
@@ -475,7 +475,7 @@
         </children>
     </event>
     <event name="AnimalPolarBear">
-        <nominal>0</nominal>
+        <nominal>7</nominal>
         <min>5</min>
         <max>5</max>
         <lifetime>180</lifetime>
@@ -495,7 +495,7 @@
         <nominal>4</nominal>
         <min>4</min>
         <max>4</max>
-        <lifetime>300</lifetime>
+        <lifetime>38800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>50</distanceradius>
@@ -515,7 +515,7 @@
         <nominal>2</nominal>
         <min>2</min>
         <max>2</max>
-        <lifetime>300</lifetime>
+        <lifetime>38800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>50</distanceradius>
@@ -532,7 +532,7 @@
         <nominal>2</nominal>
         <min>2</min>
         <max>2</max>
-        <lifetime>300</lifetime>
+        <lifetime>38800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>50</distanceradius>

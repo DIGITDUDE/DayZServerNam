@@ -64,3 +64,74 @@
 06-12 23:54:36 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<65c09bf0>
 06-12 23:55:20 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<2ae01030>
 06-12 23:55:20 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<ecacb9f0>
+06-13 15:02:58 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<133ff540>
+06-13 15:02:58 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<e812b9c0>
+06-13 15:06:54 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<133ff540>
+06-13 15:06:54 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<d1d81030>
+06-13 15:11:53 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<133ff540>
+06-13 15:11:53 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<d179d020>
+06-13 15:16:15 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<133ff540>
+06-13 15:16:15 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<e812b9c0>
+06-13 15:16:15 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<e812b9c0> saved as alive
+06-13 15:17:22 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<133ff540>
+06-13 15:17:22 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<d1d81030>
+06-13 15:17:22 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<d1d81030> saved as alive
+06-13 15:55:20 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<133ff540>
+06-13 15:55:20 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<d179d020>
+06-13 15:55:20 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<d179d020> saved as alive
+06-13 16:05:43 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<666914b0>
+06-13 16:05:43 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<191f4fa0>
+06-13 16:07:48 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<666914b0>
+06-13 16:07:48 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<191f4fa0>
+06-13 16:07:48 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<191f4fa0> saved as alive
+06-13 20:43:55 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<4762b520>
+06-13 20:43:55 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<4938f390>
+06-13 23:38:33 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<c9b9050>
+06-13 23:38:33 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<81b71030>
+06-13 23:40:26 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<c9b9050>
+06-13 23:40:26 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<81b71030>
+06-13 23:40:26 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<81b71030> saved as alive
+06-13 23:55:43 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<3db6e620>
+06-13 23:55:43 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<cc4caaf0>
+06-13 23:57:28 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<3db6e620>
+06-13 23:57:28 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<cc4caaf0>
+06-13 23:57:28 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<cc4caaf0> saved as alive
+06-14 00:40:03 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<ba4b0f60>
+06-14 00:40:03 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<85d535c0>
+06-14 00:47:20 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<ba4b0f60>
+06-14 00:47:20 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<85d535c0>
+06-14 00:47:20 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<85d535c0> saved as alive
+06-14 01:03:54 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<90fc0b0>
+06-14 01:03:54 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<89cdd020>
+06-14 01:11:26 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<90fc0b0>
+06-14 01:11:26 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<89cdd020>
+06-14 01:11:26 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<89cdd020> saved as alive
+06-14 01:37:35 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<f1c29140>
+06-14 01:37:35 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<7f71bcd0>
+06-14 01:41:28 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<f1c29140>
+06-14 01:41:28 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<7f71bcd0>
+06-14 01:41:28 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<7f71bcd0> saved as alive
+06-14 01:50:53 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<675aacc0>
+06-14 01:50:53 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<22930040>
+06-14 01:55:07 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<675aacc0>
+06-14 01:55:07 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<22930040>
+06-14 01:55:07 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<22930040> saved as alive
+06-14 11:37:32 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<f132dc30>
+06-14 11:37:32 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<42c4ebf0>
+06-14 12:15:56 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<f132dc30>
+06-14 12:15:56 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<42c4ebf0>
+06-14 12:15:56 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<42c4ebf0> saved as alive
+06-14 12:32:38 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<ed84caa0>
+06-14 12:32:38 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<a2d0eb20>
+06-14 12:49:00 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<6703eae0>
+06-14 12:49:00 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<22070020>
+06-14 12:50:12 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<6703eae0>
+06-14 12:50:12 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<22070020>
+06-14 12:50:12 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<22070020> saved as alive
+06-14 18:30:22 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<6703eae0>
+06-14 18:30:22 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<2ac349d0>
+06-14 18:31:50 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<6703eae0>
+06-14 18:31:50 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<244ed7d0>
+06-14 18:37:19 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<6703eae0>
+06-14 18:37:19 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<2ac349d0>
+06-14 18:37:19 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<2ac349d0> saved as alive

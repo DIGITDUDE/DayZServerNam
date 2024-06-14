@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!--MoreFood_Soda_August2020update Start-->
+	<type name="FOODBACKPACK_DON_ZLUTA">
+		<nominal>10</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="FOODBACKPACK_DON_NOTACOLA">
+		<nominal>10</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="FOODBACKPACK_DON_PIPSI">
+		<nominal>10</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="FOODBACKPACK_DON_SPITE">
+		<nominal>10</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="FOODBACKPACK_DON_KVASS">
+		<nominal>10</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="LUNCHBOX_DON_BEE">
+		<nominal>15</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="LUNCHBOX_DON_BLUE">
+		<nominal>15</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="DONDRINK_BEER_GREEN">
+		<nominal>30</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>15</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="DONDRINK_FLASK_GAMBLER">
+		<nominal>20</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="DONDRINK_CAPRISUN_ORANGEANDPEACH">
+		<nominal>20</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="DONDRINK_JUICEBOTTLE_ORANGE">
+		<nominal>20</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+	<type name="DONDRINK_SlimSodaCan_Springwater">
+		<nominal>20</nominal>
+		<lifetime>3600</lifetime>
+		<restock>300</restock>
+		<min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food"/>
+	</type>
+</types>

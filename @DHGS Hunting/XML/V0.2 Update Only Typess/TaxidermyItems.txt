@@ -1,0 +1,196 @@
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Wolf
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+    MaleWolfMount70lb_Kit
+    MaleWolfMount70lb
+    MaleWolfMount80lb_Kit
+    MaleWolfMount80lb
+    MaleWolfMount90lb_Kit
+    MaleWolfMount90lb
+    MaleWolfMount100lb_Kit
+    MaleWolfMount100lb
+    MaleWolfMount110lb_Kit
+    MaleWolfMount110lb
+    MaleWolfMount120lb_Kit
+    MaleWolfMount120lb
+    MaleWolfMount130lb_Kit
+    MaleWolfMount130lb
+    MaleWolfMount140lb_Kit
+    MaleWolfMount140lb
+    MaleWolfMount150lb_Kit
+    MaleWolfMount150lb
+    FemaleWolfMount60lb_Kit
+    FemaleWolfMount60lb
+    FemaleWolfMount70lb_Kit
+    FemaleWolfMount70lb
+    FemaleWolfMount80lb_Kit
+    FemaleWolfMount80lb
+    FemaleWolfMount90lb_Kit
+    FemaleWolfMount90lb
+    FemaleWolfMount100lb_Kit
+    FemaleWolfMount100lb
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Stagg
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    StagMount300lb_Kit
+    StagMount300lb
+    StagMount310lb_Kit
+    StagMount310lb
+    StagMount320lb_Kit
+    StagMount320lb
+    StagMount330lb_Kit
+    StagMount330lb
+    StagMount340lb_Kit
+    StagMount340lb
+    StagMount350lb_Kit
+    StagMount350lb
+    StagMount360lb_Kit
+    StagMount360lb
+    StagMount370lb_Kit
+    StagMount370lb
+    StagMount380lb_Kit
+    StagMount380lb
+    StagMount390lb_Kit
+    StagMount390lb
+    StagMount400lb_Kit
+    StagMount400lb
+    StagMount410lb_Kit
+    StagMount410lb
+    StagMount420lb_Kit
+    StagMount420lb
+    StagMount430lb_Kit
+    StagMount430lb
+    StagMount440lb_Kit
+    StagMount440lb
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// roebuck
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    RoebuckMount100lb_Kit
+    RoebuckMount100lb
+    RoebuckMount110lb_Kit
+    RoebuckMount110lb
+    RoebuckMount120lb_Kit
+    RoebuckMount120lb
+    RoebuckMount130lb_Kit
+    RoebuckMount130lb
+    RoebuckMount140lb_Kit
+    RoebuckMount140lb
+    RoebuckMount150lb_Kit
+    RoebuckMount150lb
+    RoebuckMount160lb_Kit
+    RoebuckMount160lb
+    RoebuckMount170lb_Kit
+    RoebuckMount170lb
+    RoebuckMount180lb_Kit
+    RoebuckMount180lb
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Hind
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    HindMount260lb_Kit
+    HindMount260lb
+    HindMount270lb_Kit
+    HindMount270lb
+    HindMount280lb_Kit
+    HindMount280lb
+    HindMount290lb_Kit
+    HindMount290lb
+    HindMount300lb_Kit
+    HindMount300lb
+    HindMount310lb_Kit
+    HindMount310lb
+    HindMount320lb_Kit
+    HindMount320lb
+    HindMount330lb_Kit
+    HindMount330lb
+    HindMount340lb_Kit
+    HindMount340lb
+    HindMount350lb_Kit
+    HindMount350lb
+    HindMount360lb_Kit
+    HindMount360lb
+    HindMount370lb_Kit
+    HindMount370lb
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Doe
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    DoeMount70lb_Kit
+    DoeMount70lb
+    DoeMount80lb_Kit
+    DoeMount80lb
+    DoeMount90lb_Kit
+    DoeMount90lb
+    DoeMount100lb_Kit
+    DoeMount100lb
+    DoeMount110lb_Kit
+    DoeMount110lb
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Boar
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    BoarMount150lb_Kit
+    BoarMount150lb
+    BoarMount160lb_Kit
+    BoarMount160lb
+    BoarMount170lb_Kit
+    BoarMount170lb
+    BoarMount180lb_Kit
+    BoarMount180lb
+    BoarMount190lb_Kit
+    BoarMount190lb
+    BoarMount200lb_Kit
+    BoarMount200lb
+    BoarMount210lb_Kit
+    BoarMount210lb
+    BoarMount220lb_Kit
+    BoarMount220lb
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Bear
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    BearMount400lb_Kit
+    BearMount410lb_Kit
+    BearMount420lb_Kit
+    BearMount430lb_Kit
+    BearMount440lb_Kit
+    BearMount450lb_Kit
+    BearMount460lb_Kit
+    BearMount470lb_Kit
+    BearMount480lb_Kit
+    BearMount490lb_Kit
+    BearMount500lb_Kit
+    BearMount510lb_Kit
+    BearMount520lb_Kit
+    BearMount530lb_Kit
+    BearMount540lb_Kit
+    BearMount550lb_Kit
+    BearMount560lb_Kit
+    BearMount570lb_Kit
+    BearMount580lb_Kit
+    BearMount590lb_Kit
+    BearMount600lb_Kit
+    BearMount400lb
+    BearMount410lb
+    BearMount420lb
+    BearMount430lb
+    BearMount440lb
+    BearMount450lb
+    BearMount460lb
+    BearMount470lb
+    BearMount480lb
+    BearMount490lb
+    BearMount500lb
+    BearMount510lb
+    BearMount520lb
+    BearMount530lb
+    BearMount540lb
+    BearMount550lb
+    BearMount560lb
+    BearMount570lb
+    BearMount580lb
+    BearMount590lb
+    BearMount600lb

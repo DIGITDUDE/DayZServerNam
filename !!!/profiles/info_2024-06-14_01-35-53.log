@@ -1,0 +1,45 @@
+---------------------------------------------
+Log info_2024-06-14_01-35-53.log started at 2024-06-14 01:39:06
+
+
+
+------------------------------------
+DESKTOP-04C37QM, 2024-06-14 01:39:06
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:4889 (owner eAI_SurvivorM_Hassan<84a25040>) - MagazineRepair - BAREM_CLO_BUF_MA0<84a4f3c0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2151
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2838
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+DESKTOP-04C37QM, 2024-06-14 01:39:22
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:4920 (owner eAI_SurvivorM_Rolf<85230010>) - MagazineRepair - BAREM_CLO_BUF_MA0<851bb260> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2151
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2838
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70

@@ -1,0 +1,12 @@
+{
+    "RawFoodDrieTimeSecs": 7200,
+    "RawFoodDecayTimeSecs": 14400,
+    "CookedFoodDecayTimeSecs": 28800,
+    "SaltConservationMultiplier": 45,
+    "FridgeConservationMultiplier": 60,
+    "SaltConsumption": 0.0032999999821186067,
+    "FridgeClasses": [
+        "PF_Fridge",
+        "AnotherFridgeClass"
+    ]
+}

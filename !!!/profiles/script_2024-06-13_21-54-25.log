@@ -1,0 +1,36 @@
+---------------------------------------------
+Log C:\daisy\DayZServerNam\!!!\profiles\script_2024-06-13_21-54-25.log started at 13.06. 21:54:25
+
+SCRIPT       : Registered 403 temporary action enum(s), UAN==403
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 21:54:27 [EXPANSION LOG]: DayZGame<301fcaf0> Start time (local time) 2024-06-13 21:54:20
+SCRIPT       : 21:54:27 [EXPANSION LOG]: DayZGame<301fcaf0> Start time (UTC) 2024-06-13 20:54:20
+SCRIPT       : 21:54:27 [EXPANSION LOG]: DayZGame<301fcaf0> Runtime since start (seconds) 7.709
+SCRIPT    (E): @"DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c,281": Unknown type 'PF_Fridge'
+SCRIPT    (E): Can't compile "World" script module!
+
+DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c(281): Unknown type 'PF_Fridge'
+SCRIPT    (E): @"DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c,281": Unknown type 'PF_Fridge'
+SCRIPT    (E): Can't compile "World" script module!
+
+DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c(281): Unknown type 'PF_Fridge'
+SCRIPT    (E): Failed to load entities script!
+SCRIPT    (E): @"DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c,281": Unknown type 'PF_Fridge'
+SCRIPT    (E): Can't compile "World" script module!
+
+DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c(281): Unknown type 'PF_Fridge'
+SCRIPT    (E): Failed to load entities script!

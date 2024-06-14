@@ -1,0 +1,212 @@
+	<Category> Hunting Knifes
+
+		DH_Pisau,                       *,        5000,      18000
+		DH_RamboKnife,                       *,        5000,      18000
+		DH_Buck120,                       *,        5000,      18000
+
+	<Category> Hunting Kit
+
+		SkullMount_Kit,                       *,        5000,      18000
+		SkullMount,                       *,        5000,      18000
+
+	<Category> Bear Pelts
+
+		DH_BearPelt_400lb,                       *,        5000,      18000
+		DH_BearPelt_410lb,                       *,        5000,      18000
+		DH_BearPelt_420lb,                       *,        5000,      18000
+		DH_BearPelt_430lb,                       *,        5000,      18000
+		DH_BearPelt_440lb,                       *,        5000,      18000
+		DH_BearPelt_450lb,                       *,        5000,      18000
+		DH_BearPelt_460lb,                       *,        5000,      18000
+		DH_BearPelt_470lb,                       *,        5000,      18000
+		DH_BearPelt_480lb,                       *,        5000,      18000
+		DH_BearPelt_490lb,                       *,        5000,      18000
+		DH_BearPelt_500lb,                       *,        5000,      18000
+		DH_BearPelt_510lb,                       *,        5000,      18000
+		DH_BearPelt_520lb,                       *,        5000,      18000
+		DH_BearPelt_530lb,                       *,        5000,      18000
+		DH_BearPelt_540lb,                       *,        5000,      18000
+		DH_BearPelt_550lb,                       *,        5000,      18000
+		DH_BearPelt_560lb,                       *,        5000,      18000
+		DH_BearPelt_570lb,                       *,        5000,      18000
+		DH_BearPelt_580lb,                       *,        5000,      18000
+		DH_BearPelt_590lb,                       *,        5000,      18000
+		DH_BearPelt_600lb,                       *,        5000,      18000
+
+	<Category> Boar Pelts
+	
+		DH_BoarPelt_150lb,                       *,        5000,      18000
+		DH_BoarPelt_160lb,                       *,        5000,      18000
+		DH_BoarPelt_170lb,                       *,        5000,      18000
+		DH_BoarPelt_180lb,                       *,        5000,      18000
+		DH_BoarPelt_190lb,                       *,        5000,      18000
+		DH_BoarPelt_200lb,                       *,        5000,      18000
+		DH_BoarPelt_210lb,                       *,        5000,      18000
+		DH_BoarPelt_220lb,                       *,        5000,      18000
+
+	<Category> Deer Pelts 
+	
+		DH_DoePelt_70lb,                       *,        5000,      18000
+		DH_DoePelt_80lb,                       *,        5000,      18000
+		DH_DoePelt_90lb,                       *,        5000,      18000
+		DH_DoePelt_100lb,                       *,        5000,      18000
+		DH_DoePelt_110lb,                       *,        5000,      18000
+
+		DH_HindPelt_260lb,                       *,        5000,      18000
+		DH_HindPelt_270lb,                       *,        5000,      18000
+		DH_HindPelt_280lb,                       *,        5000,      18000
+		DH_HindPelt_290lb,                       *,        5000,      18000
+		DH_HindPelt_300lb,                       *,        5000,      18000
+		DH_HindPelt_310lb,                       *,        5000,      18000
+		DH_HindPelt_320lb,                       *,        5000,      18000
+		DH_HindPelt_330lb,                       *,        5000,      18000
+		DH_HindPelt_340lb,                       *,        5000,      18000
+		DH_HindPelt_350lb,                       *,        5000,      18000
+		DH_HindPelt_360lb,                       *,        5000,      18000
+		DH_HindPelt_370lb,                       *,        5000,      18000
+
+		DH_RoeBuckPelt_100lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_110lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_120lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_130lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_140lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_150lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_160lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_170lb,                       *,        5000,      18000
+		DH_RoeBuckPelt_180lb,                       *,        5000,      18000
+
+		DH_DeerPelt_300lb,                       *,        5000,      18000
+		DH_DeerPelt_310lb,                       *,        5000,      18000
+		DH_DeerPelt_320lb,                       *,        5000,      18000
+		DH_DeerPelt_330lb,                       *,        5000,      18000
+		DH_DeerPelt_340lb,                       *,        5000,      18000
+		DH_DeerPelt_350lb,                       *,        5000,      18000
+		DH_DeerPelt_360lb,                       *,        5000,      18000
+		DH_DeerPelt_370lb,                       *,        5000,      18000
+		DH_DeerPelt_380lb,                       *,        5000,      18000
+		DH_DeerPelt_390lb,                       *,        5000,      18000
+		DH_DeerPelt_400lb,                       *,        5000,      18000
+		DH_DeerPelt_410lb,                       *,        5000,      18000
+		DH_DeerPelt_420lb,                       *,        5000,      18000
+		DH_DeerPelt_430lb,                       *,        5000,      18000
+		DH_DeerPelt_440lb,                       *,        5000,      18000
+
+
+	<Category> Wolf Pelts
+		DH_WolfPelt_M_70lb,                       *,        5000,      18000
+		DH_WolfPelt_M_80lb,                       *,        5000,      18000
+		DH_WolfPelt_M_90lb,                       *,        5000,      18000
+		DH_WolfPelt_M_100lb,                       *,        5000,      18000
+		DH_WolfPelt_M_110lb,                       *,        5000,      18000
+		DH_WolfPelt_M_120lb,                       *,        5000,      18000
+		DH_WolfPelt_M_130lb,                       *,        5000,      18000
+		DH_WolfPelt_M_140lb,                       *,        5000,      18000
+		DH_WolfPelt_M_150lb,                       *,        5000,      18000
+
+		DH_WolfPelt_F_60lb,                       *,        5000,      18000
+		DH_WolfPelt_F_70lb,                       *,        5000,      18000
+		DH_WolfPelt_F_80lb,                       *,        5000,      18000
+		DH_WolfPelt_F_90lb,                       *,        5000,      18000
+		DH_WolfPelt_F_100lb,                       *,        5000,      18000
+
+
+	<Category> Bear Skulls 
+
+		DH_Skull_Bear_400lb,                       *,        5000,      18000
+		DH_Skull_Bear_410lb,                       *,        5000,      18000
+		DH_Skull_Bear_420lb,                       *,        5000,      18000
+		DH_Skull_Bear_430lb,                       *,        5000,      18000
+		DH_Skull_Bear_440lb,                       *,        5000,      18000
+		DH_Skull_Bear_450lb,                       *,        5000,      18000
+		DH_Skull_Bear_460lb,                       *,        5000,      18000
+		DH_Skull_Bear_470lb,                       *,        5000,      18000
+		DH_Skull_Bear_480lb,                       *,        5000,      18000
+		DH_Skull_Bear_490lb,                       *,        5000,      18000
+		DH_Skull_Bear_500lb,                       *,        5000,      18000
+		DH_Skull_Bear_510lb,                       *,        5000,      18000
+		DH_Skull_Bear_520lb,                       *,        5000,      18000
+		DH_Skull_Bear_530lb,                       *,        5000,      18000
+		DH_Skull_Bear_540lb,                       *,        5000,      18000
+		DH_Skull_Bear_550lb,                       *,        5000,      18000
+		DH_Skull_Bear_560lb,                       *,        5000,      18000
+		DH_Skull_Bear_570lb,                       *,        5000,      18000
+		DH_Skull_Bear_580lb,                       *,        5000,      18000
+		DH_Skull_Bear_590lb,                       *,        5000,      18000
+		DH_Skull_Bear_600lb,                       *,        5000,      18000
+
+	<Category> Boar Skulls
+
+		DH_Skull_Boar_150lb,                       *,        5000,      18000
+		DH_Skull_Boar_160lb,                       *,        5000,      18000
+		DH_Skull_Boar_170lb,                       *,        5000,      18000
+		DH_Skull_Boar_180lb,                       *,        5000,      18000
+		DH_Skull_Boar_190lb,                       *,        5000,      18000
+		DH_Skull_Boar_200lb,                       *,        5000,      18000
+		DH_Skull_Boar_210lb,                       *,        5000,      18000
+		DH_Skull_Boar_220lb,                       *,        5000,      18000
+
+	<Category> Deer Skulls
+	
+		DH_Skull_Doe_70lb,                       *,        5000,      18000
+		DH_Skull_Doe_80lb,                       *,        5000,      18000
+		DH_Skull_Doe_90lb,                       *,        5000,      18000
+		DH_Skull_Doe_100lb,                       *,        5000,      18000
+		DH_Skull_Doe_110lb,                       *,        5000,      18000
+
+		DH_Skull_Hind_260lb,                       *,        5000,      18000
+		DH_Skull_Hind_270lb,                       *,        5000,      18000
+		DH_Skull_Hind_280lb,                       *,        5000,      18000
+		DH_Skull_Hind_290lb,                       *,        5000,      18000
+		DH_Skull_Hind_300lb,                       *,        5000,      18000
+		DH_Skull_Hind_310lb,                       *,        5000,      18000
+		DH_Skull_Hind_320lb,                       *,        5000,      18000
+		DH_Skull_Hind_330lb,                       *,        5000,      18000
+		DH_Skull_Hind_340lb,                       *,        5000,      18000
+		DH_Skull_Hind_350lb,                       *,        5000,      18000
+		DH_Skull_Hind_360lb,                       *,        5000,      18000
+		DH_Skull_Hind_370lb,                       *,        5000,      18000
+
+		DH_Skull_Roebuck_100lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_110lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_120lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_130lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_140lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_150lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_160lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_170lb,                       *,        5000,      18000
+		DH_Skull_Roebuck_180lb,                       *,        5000,      18000
+
+		DH_Skull_Stag_300lb,                       *,        5000,      18000
+		DH_Skull_Stag_310lb,                       *,        5000,      18000
+		DH_Skull_Stag_320lb,                       *,        5000,      18000
+		DH_Skull_Stag_330lb,                       *,        5000,      18000
+		DH_Skull_Stag_340lb,                       *,        5000,      18000
+		DH_Skull_Stag_350lb,                       *,        5000,      18000
+		DH_Skull_Stag_360lb,                       *,        5000,      18000
+		DH_Skull_Stag_370lb,                       *,        5000,      18000
+		DH_Skull_Stag_380lb,                       *,        5000,      18000
+		DH_Skull_Stag_390lb,                       *,        5000,      18000
+		DH_Skull_Stag_400lb,                       *,        5000,      18000
+		DH_Skull_Stag_410lb,                       *,        5000,      18000
+		DH_Skull_Stag_420lb,                       *,        5000,      18000
+		DH_Skull_Stag_430lb,                       *,        5000,      18000
+		DH_Skull_Stag_440lb,                       *,        5000,      18000
+
+	<Category> Wolf Skulls
+	
+		DH_Skull_Wolf_M_70lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_80lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_90lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_100lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_110lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_120lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_130lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_140lb,                       *,        5000,      18000
+		DH_Skull_Wolf_M_150lb,                       *,        5000,      18000
+
+		DH_Skull_Wolf_F_60lb,                       *,        5000,      18000
+		DH_Skull_Wolf_F_70lb,                       *,        5000,      18000
+		DH_Skull_Wolf_F_80lb,                       *,        5000,      18000
+		DH_Skull_Wolf_F_90lb,                       *,        5000,      18000
+		DH_Skull_Wolf_F_100lb,                       *,        5000,      18000
+

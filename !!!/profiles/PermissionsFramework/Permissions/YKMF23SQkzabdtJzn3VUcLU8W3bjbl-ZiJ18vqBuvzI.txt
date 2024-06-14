@@ -167,5 +167,9 @@ Namalsk.EVRStormDeadly.Cancel 0
 Namalsk.HeavyFog 0
 Namalsk.HeavyFog.Start 0
 Namalsk.HeavyFog.Cancel 0
+FlipTransport 0
+FlipTransport.Settings 0
+FlipTransport.Settings.View 0
+FlipTransport.Settings.Save 0
 Actions 0
 Actions.QuickActions 0

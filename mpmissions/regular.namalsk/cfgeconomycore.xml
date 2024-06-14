@@ -22,4 +22,42 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
+	<ce folder="BlackMarket">
+		<file name="Black_types.xml" type="types" />
+		<file name="Blackammo_types.xml" type="types" />
+		<file name="Black_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Black_spawnabletypes.xml" type="randompresets" />
+	</ce>
+	<ce folder="CJ">
+		<file name="Fridge_types.xml" type="types" />
+		<file name="Poke_types.xml" type="types" />
+		<file name="Poke_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="Poke_cfgspawnabletypes.xml" type="randompresets" />
+	</ce>
+	<ce folder="Drugs">
+		<file name="Can_types.xml"	type="types" />
+		<file name="Drug_types.xml"	type="types" />
+	</ce>
+	<ce folder="Food">
+		<file name="Food_types.xml"	type="types"/>
+		<file name="Food_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="Gauss">
+		<file name="Gauss_types.xml"	type="types" />
+		<file name="Gauss_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="Iglo">
+		<file name="Iglo_types.xml"	type="types" />
+		<file name="NCloth_types.xml"	type="types" />
+	</ce>
+	<ce folder="Mass">
+		<file name="Mass_types.xml"	type="types" />
+		<file name="Mass_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<ce folder="Other">
+		<file name="Base_types.xml"	type="types" />
+		<file name="Flip_types.xml"	type="types" />
+		<file name="Hunt_types.xml"	type="types" />
+		<file name="Para_types.xml"	type="types" />
+	</ce>
 </economycore>

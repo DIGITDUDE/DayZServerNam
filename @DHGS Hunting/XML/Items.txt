@@ -1,0 +1,487 @@
+		// Knifes
+
+		DH_Pisau
+		DH_RamboKnife
+		DH_Buck120
+
+		// Kit
+
+		DH_TaxidermyKit
+
+
+		SkullMount_Kit
+		SkullMount
+		MaleWolfMount70lb_Kit
+		MaleWolfMount80lb_Kit	
+		MaleWolfMount100lb_Kit	
+		MaleWolfMount110lb_Kit	
+		MaleWolfMount120lb_Kit	
+		MaleWolfMount130lb_Kit	
+		MaleWolfMount140lb_Kit	
+		MaleWolfMount150lb_Kit	
+		FemaleWolfMount60lb_Kit	
+		FemaleWolfMount70lb_Kit	
+		FemaleWolfMount80lb_Kit	
+		FemaleWolfMount90lb_Kit	
+		FemaleWolfMount100lb_Kit
+		
+		StagMount300lb_Kit
+		StagMount310lb_Kit	
+		StagMount320lb_Kit	
+		StagMount330lb_Kit	
+		StagMount340lb_Kit	
+		StagMount350lb_Kit	
+		StagMount360lb_Kit	
+		StagMount370lb_Kit
+		StagMount380lb_Kit	
+		StagMount390lb_Kit	
+		StagMount400lb_Kit
+		StagMount410lb_Kit
+		StagMount420lb_Kit
+		StagMount430lb_Kit
+		StagMount440lb_Kit
+
+		RoebuckMount100lb_Kit
+		RoebuckMount110lb_Kit	
+		RoebuckMount120lb_Kit	
+		RoebuckMount130lb_Kit	
+		RoebuckMount140lb_Kit	
+		RoebuckMount160lb_Kit	
+		RoebuckMount170lb_Kit	
+		RoebuckMount180lb_Kit	
+		
+		HindMount260lb_Kit
+		HindMount270lb_Kit	
+		HindMount280lb_Kit	
+		HindMount290lb_Kit	
+		HindMount300lb_Kit	
+		HindMount310lb_Kit
+		HindMount310lb_Kit
+		HindMount320lb_Kit
+		HindMount330lb_Kit
+		HindMount350lb_Kit
+		HindMount360lb_Kit
+		HindMount370lb_Kit
+
+		DoeMount70lb_Kit
+		DoeMount80lb_Kit	
+		DoeMount90lb_Kit	
+		DoeMount100lb_Kit	
+		DoeMount110lb_Kit	
+		
+		BoarMount150lb_Kit
+		BoarMount160lb_Kit	
+		BoarMount180lb_Kit	
+		BoarMount190lb_Kit
+		BoarMount200lb_Kit
+		BoarMount210lb_Kit
+		BoarMount220lb_Kit
+		
+		BearMount400lb_Kit
+		BearMount410lb_Kit
+		BearMount420lb_Kit
+		BearMount430lb_Kit
+		BearMount440lb_Kit
+		BearMount450lb_Kit
+		BearMount460lb_Kit
+		BearMount470lb_Kit
+		BearMount480lb_Kit
+		BearMount490lb_Kit
+		BearMount500lb_Kit
+		BearMount510lb_Kit
+		BearMount520lb_Kit
+		BearMount530lb_Kit
+		BearMount540lb_Kit
+		BearMount550lb_Kit
+		BearMount560lb_Kit
+		BearMount570lb_Kit
+		BearMount580lb_Kit
+		BearMount590lb_Kit
+		BearMount600lb_Kit
+		// Pelts 
+
+		DH_BearPelt_400lb
+		DH_BearPelt_410lb
+		DH_BearPelt_420lb
+		DH_BearPelt_430lb
+		DH_BearPelt_440lb
+		DH_BearPelt_450lb
+		DH_BearPelt_460lb
+		DH_BearPelt_470lb
+		DH_BearPelt_480lb
+		DH_BearPelt_490lb
+		DH_BearPelt_500lb
+		DH_BearPelt_510lb
+		DH_BearPelt_520lb
+		DH_BearPelt_530lb
+		DH_BearPelt_540lb
+		DH_BearPelt_550lb
+		DH_BearPelt_560lb
+		DH_BearPelt_570lb
+		DH_BearPelt_580lb
+		DH_BearPelt_590lb
+		DH_BearPelt_600lb
+
+		DH_BearPelt_Black
+		DH_BearPelt_Polar
+
+		DH_BoarPelt_150lb
+		DH_BoarPelt_160lb
+		DH_BoarPelt_170lb
+		DH_BoarPelt_180lb
+		DH_BoarPelt_190lb
+		DH_BoarPelt_200lb
+		DH_BoarPelt_210lb
+		DH_BoarPelt_220lb
+
+		DH_DoePelt_70lb
+		DH_DoePelt_80lb
+		DH_DoePelt_90lb
+		DH_DoePelt_100lb
+		DH_DoePelt_110lb
+
+		DH_HindPelt_260lb
+		DH_HindPelt_270lb
+		DH_HindPelt_280lb
+		DH_HindPelt_290lb
+		DH_HindPelt_300lb
+		DH_HindPelt_310lb
+		DH_HindPelt_320lb
+		DH_HindPelt_330lb
+		DH_HindPelt_340lb
+		DH_HindPelt_350lb
+		DH_HindPelt_360lb
+		DH_HindPelt_370lb
+
+		DH_RoeBuckPelt_100lb
+		DH_RoeBuckPelt_110lb
+		DH_RoeBuckPelt_120lb
+		DH_RoeBuckPelt_130lb
+		DH_RoeBuckPelt_140lb
+		DH_RoeBuckPelt_150lb
+		DH_RoeBuckPelt_160lb
+		DH_RoeBuckPelt_170lb
+		DH_RoeBuckPelt_180lb
+
+		// Stag Pelt
+		DH_DeerPelt_300lb
+		DH_DeerPelt_310lb
+		DH_DeerPelt_320lb
+		DH_DeerPelt_330lb
+		DH_DeerPelt_340lb
+		DH_DeerPelt_350lb
+		DH_DeerPelt_360lb
+		DH_DeerPelt_370lb
+		DH_DeerPelt_380lb
+		DH_DeerPelt_390lb
+		DH_DeerPelt_400lb
+		DH_DeerPelt_410lb
+		DH_DeerPelt_420lb
+		DH_DeerPelt_430lb
+		DH_DeerPelt_440lb
+
+
+		DH_WolfPelt_M_70lb
+		DH_WolfPelt_M_80lb
+		DH_WolfPelt_M_90lb
+		DH_WolfPelt_M_100lb
+		DH_WolfPelt_M_110lb
+		DH_WolfPelt_M_120lb
+		DH_WolfPelt_M_130lb
+		DH_WolfPelt_M_140lb
+		DH_WolfPelt_M_150lb
+
+		DH_WolfPelt_F_60lb
+		DH_WolfPelt_F_70lb
+		DH_WolfPelt_F_80lb
+		DH_WolfPelt_F_90lb
+		DH_WolfPelt_F_100lb
+
+
+		// Skulls 
+
+		DH_Skull_Bear_400lb
+		DH_Skull_Bear_410LB
+		DH_Skull_Bear_420LB
+		DH_Skull_Bear_430LB
+		DH_Skull_Bear_440LB
+		DH_Skull_Bear_450LB
+		DH_Skull_Bear_460LB
+		DH_Skull_Bear_470LB
+		DH_Skull_Bear_480LB
+		DH_Skull_Bear_490LB
+		DH_Skull_Bear_500LB
+		DH_Skull_Bear_510LB
+		DH_Skull_Bear_520LB
+		DH_Skull_Bear_530LB
+		DH_Skull_Bear_540LB
+		DH_Skull_Bear_550LB
+		DH_Skull_Bear_560LB
+		DH_Skull_Bear_570LB
+		DH_Skull_Bear_580LB
+		DH_Skull_Bear_590LB
+		DH_Skull_Bear_600LB
+
+		DH_Skull_Bear_Polar
+		DH_Skull_Bear_Black
+
+		DH_Skull_Boar_150LB
+		DH_Skull_Boar_160LB
+		DH_Skull_Boar_170LB
+		DH_Skull_Boar_180LB
+		DH_Skull_Boar_190LB
+		DH_Skull_Boar_200LB
+		DH_Skull_Boar_210LB
+		DH_Skull_Boar_220LB
+
+		DH_Skull_Doe_70lb
+		DH_Skull_Doe_80lb
+		DH_Skull_Doe_90lb
+		DH_Skull_Doe_100lb
+		DH_Skull_Doe_110lb
+
+		DH_Skull_Hind_260lb
+		DH_Skull_Hind_270lb
+		DH_Skull_Hind_280lb
+		DH_Skull_Hind_290lb
+		DH_Skull_Hind_300lb
+		DH_Skull_Hind_310lb
+		DH_Skull_Hind_320lb
+		DH_Skull_Hind_330lb
+		DH_Skull_Hind_340lb
+		DH_Skull_Hind_350lb
+		DH_Skull_Hind_360lb
+		DH_Skull_Hind_370lb
+
+		DH_Skull_Roebuck_100lb
+		DH_Skull_Roebuck_110lb
+		DH_Skull_Roebuck_120lb
+		DH_Skull_Roebuck_130lb
+		DH_Skull_Roebuck_140lb
+		DH_Skull_Roebuck_150lb
+		DH_Skull_Roebuck_160lb
+		DH_Skull_Roebuck_170lb
+		DH_Skull_Roebuck_180lb
+
+		DH_Skull_Stag_300lb
+		DH_Skull_Stag_310lb
+		DH_Skull_Stag_320lb
+		DH_Skull_Stag_330lb
+		DH_Skull_Stag_340lb
+		DH_Skull_Stag_350lb
+		DH_Skull_Stag_360lb
+		DH_Skull_Stag_370lb
+		DH_Skull_Stag_380lb
+		DH_Skull_Stag_390lb
+		DH_Skull_Stag_400lb
+		DH_Skull_Stag_410lb
+		DH_Skull_Stag_420lb
+		DH_Skull_Stag_430lb
+		DH_Skull_Stag_440lb
+
+		DH_Skull_Wolf_M_70lb
+		DH_Skull_Wolf_M_80lb
+		DH_Skull_Wolf_M_90lb
+		DH_Skull_Wolf_M_100lb
+		DH_Skull_Wolf_M_110lb
+		DH_Skull_Wolf_M_120lb
+		DH_Skull_Wolf_M_130lb
+		DH_Skull_Wolf_M_140lb
+		DH_Skull_Wolf_M_150lb
+
+		DH_Skull_Wolf_F_60lb
+		DH_Skull_Wolf_F_70lb
+		DH_Skull_Wolf_F_80lb
+		DH_Skull_Wolf_F_90lb
+		DH_Skull_Wolf_F_100lb
+
+		// Animals 
+
+		Animal_DH_Bear_400lb
+		Animal_DH_Bear_410lb
+		Animal_DH_Bear_420lb
+		Animal_DH_Bear_430lb
+		Animal_DH_Bear_440lb
+		Animal_DH_Bear_450lb
+		Animal_DH_Bear_460lb
+		Animal_DH_Bear_470lb
+		Animal_DH_Bear_480lb
+		Animal_DH_Bear_490lb
+		Animal_DH_Bear_500lb
+		Animal_DH_Bear_510lb
+		Animal_DH_Bear_520lb
+		Animal_DH_Bear_530lb
+		Animal_DH_Bear_540lb
+		Animal_DH_Bear_550lb
+		Animal_DH_Bear_560lb
+		Animal_DH_Bear_570lb
+		Animal_DH_Bear_580lb
+		Animal_DH_Bear_590lb
+		Animal_DH_Bear_600lb
+
+		Animal_DH_Bear_Black
+		Animal_DH_Bear_Polar
+
+		Animal_DH_Boar_150lb
+		Animal_DH_Boar_160lb
+		Animal_DH_Boar_170lb
+		Animal_DH_Boar_180lb
+		Animal_DH_Boar_190lb
+		Animal_DH_Boar_200lb
+		Animal_DH_Boar_210lb
+		Animal_DH_Boar_220lb
+
+		Animal_DH_Doe_70lb
+		Animal_DH_Doe_80lb
+		Animal_DH_Doe_90lb
+		Animal_DH_Doe_100lb
+		Animal_DH_Doe_110lb
+
+		Animal_DH_Hind_260lb
+		Animal_DH_Hind_270lb
+		Animal_DH_Hind_280lb
+		Animal_DH_Hind_290lb
+		Animal_DH_Hind_300lb
+		Animal_DH_Hind_310lb
+		Animal_DH_Hind_320lb
+		Animal_DH_Hind_330lb
+		Animal_DH_Hind_340lb
+		Animal_DH_Hind_350lb
+		Animal_DH_Hind_360lb
+		Animal_DH_Hind_370lb
+
+		Animal_DH_RoeBuck_100lb
+		Animal_DH_RoeBuck_110lb
+		Animal_DH_RoeBuck_120lb
+		Animal_DH_RoeBuck_130lb
+		Animal_DH_RoeBuck_140lb
+		Animal_DH_RoeBuck_150lb
+		Animal_DH_RoeBuck_160lb
+		Animal_DH_RoeBuck_170lb
+		Animal_DH_RoeBuck_180lb
+
+		Animal_DH_Stag_300lb
+		Animal_DH_Stag_310LB
+		Animal_DH_Stag_320LB
+		Animal_DH_Stag_330LB
+		Animal_DH_Stag_340LB
+		Animal_DH_Stag_350LB
+		Animal_DH_Stag_360LB
+		Animal_DH_Stag_370LB
+		Animal_DH_Stag_380LB
+		Animal_DH_Stag_390LB
+		Animal_DH_Stag_400LB
+		Animal_DH_Stag_410LB
+		Animal_DH_Stag_420LB
+		Animal_DH_Stag_430LB
+		Animal_DH_Stag_440LB
+
+		Animal_DH_Wolf_M_70lb
+		Animal_DH_Wolf_M_80lb
+		Animal_DH_Wolf_M_90lb
+		Animal_DH_Wolf_M_100lb
+		Animal_DH_Wolf_M_110lb
+		Animal_DH_Wolf_M_120lb
+		Animal_DH_Wolf_M_130lb
+		Animal_DH_Wolf_M_140lb
+		Animal_DH_Wolf_M_150lb
+
+		Animal_DH_Wolf_F_60lb
+		Animal_DH_Wolf_F_70lb
+		Animal_DH_Wolf_F_80lb
+		Animal_DH_Wolf_F_90lb
+		Animal_DH_Wolf_F_100lb
+		
+		
+/// Mounts
+
+		BearMount400lb
+		BearMount410lb
+		BearMount420lb
+		BearMount430lb
+		BearMount440lb
+		BearMount450lb
+		BearMount460lb
+		BearMount470lb
+		BearMount480lb
+		BearMount490lb
+		BearMount500lb
+		BearMount510lb
+		BearMount520lb
+		BearMount530lb
+		BearMount540lb
+		BearMount550lb
+		BearMount560lb
+		BearMount570lb
+		BearMount580lb
+		BearMount590lb
+		BearMount600lb
+
+		BoarMount150lb
+		BoarMount160lb
+		BoarMount170lb
+		BoarMount180lb
+		BoarMount190lb
+		BoarMount200lb
+		BoarMount210lb
+		BoarMount220lb
+
+		DoeMount70lb
+		DoeMount80lb
+		DoeMount90lb
+		DoeMount100lb
+		DoeMount110lb
+
+		HindMount260lb
+		HindMount270lb
+		HindMount280lb
+		HindMount290lb
+		HindMount300lb
+		HindMount310lb
+		HindMount320lb
+		HindMount330lb
+		HindMount340lb
+		HindMount350lb
+		HindMount360lb
+		HindMount370lb
+		
+		RoebuckMount100lb
+		RoebuckMount110lb
+		RoebuckMount120lb
+		RoebuckMount130lb
+		RoebuckMount140lb
+		RoebuckMount150lb
+		RoebuckMount160lb
+		RoebuckMount170lb
+		RoebuckMount180lb
+
+		StagMount300lb
+		StagMount310lb
+		StagMount320lb
+		StagMount330lb
+		StagMount340lb
+		StagMount350lb
+		StagMount360lb
+		StagMount370lb
+		StagMount380lb
+		StagMount390lb
+		StagMount400lb
+		StagMount410lb
+		StagMount420lb
+		StagMount430lb
+		StagMount440lb
+		
+		MaleWolfMount70lb
+		MaleWolfMount80lb
+		MaleWolfMount90lb
+		MaleWolfMount100lb
+		MaleWolfMount110lb
+		MaleWolfMount120lb
+		MaleWolfMount130lb
+		MaleWolfMount140lb
+		MaleWolfMount150lb
+		FemaleWolfMount60lb
+		FemaleWolfMount70lb
+		FemaleWolfMount80lb
+		FemaleWolfMount90lb
+		FemaleWolfMount100lb	
