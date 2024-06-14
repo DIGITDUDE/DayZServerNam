@@ -13,9 +13,9 @@
     "DisplayCurrencyName": "",
     "Categories": [
         "Guns_and_Mags_Startshop",
-        "Ammo_Startshop:3",
-        "Food_and_Drinks_Startshop:3",
-        "Clothes_Startshop:3"
+        "Ammo_Startshop",
+        "Food_and_Drinks_Startshop",
+        "Clothes_Startshop"
     ],
     "Items": {}
 }
