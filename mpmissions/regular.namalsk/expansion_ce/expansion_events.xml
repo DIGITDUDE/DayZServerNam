@@ -5,8 +5,8 @@
         <waves>0</waves>
         <nominal>4</nominal>
         <min>4</min>
-        <max>4</max>
-        <lifetime>300</lifetime>
+        <max>6</max>
+        <lifetime>3880</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>50</distanceradius>
@@ -38,8 +38,8 @@
         <waves>0</waves>
         <nominal>2</nominal>
         <min>2</min>
-        <max>2</max>
-        <lifetime>300</lifetime>
+        <max>4</max>
+        <lifetime>38800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>50</distanceradius>
@@ -63,8 +63,8 @@
         <waves>0</waves>
         <nominal>2</nominal>
         <min>2</min>
-        <max>2</max>
-        <lifetime>300</lifetime>
+        <max>4</max>
+        <lifetime>38800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>50</distanceradius>
@@ -107,7 +107,7 @@
         <nominal>4</nominal>
         <min>4</min>
         <max>4</max>
-        <lifetime>300</lifetime>
+        <lifetime>38800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>50</distanceradius>

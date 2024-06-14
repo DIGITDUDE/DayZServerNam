@@ -1,0 +1,164 @@
+    <event name="AnimalBear">
+        <nominal>0</nominal>
+        <min>6</min>
+        <max>6</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Bear_400lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Bear_410lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_420lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_430lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_440lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_450lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_460lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_470lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_480lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_490lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Bear_500lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_510lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_520lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_530lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_550lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Bear_550lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_560lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_570lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_580lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_590lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Bear_600lb"/>
+        </children>
+    </event>
+    <event name="AnimalDeer">
+        <nominal>9</nominal>
+        <min>2</min>
+        <max>4</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Stag_300lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Stag_310LB"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Stag_320LB"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Stag_330LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_340LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_350LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_360LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_370LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_380LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_390LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_400LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_410LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_420LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_430LB"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Stag_440LB"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Hind_260lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Hind_270lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Hind_280lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Hind_290lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_300lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_310lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_320lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_330lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_340lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_350lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_360lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Hind_370lb"/> 
+			</children>
+    </event>
+    <event name="AnimalRoeDeer">
+        <nominal>10</nominal>
+        <min>2</min>
+        <max>3</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_RoeBuck_100lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_RoeBuck_110lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_RoeBuck_120lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_RoeBuck_130lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_RoeBuck_140lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_RoeBuck_150lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_RoeBuck_160lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_RoeBuck_170lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_RoeBuck_180lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Doe_70lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Doe_80lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Doe_90lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Doe_100lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Doe_110lb"/>
+        </children>
+    </event>
+    <event name="AnimalWildBoar">
+        <nominal>7</nominal>
+        <min>1</min>
+        <max>3</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Boar_150lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Boar_160lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Boar_170lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_DH_Boar_180lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Boar_190lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Boar_200lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Boar_210lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Boar_220lb"/>
+        </children>
+    </event>
+    <event name="AnimalWolf">
+        <nominal>8</nominal>
+        <min>4</min>
+        <max>6</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_DH_Wolf_M_70lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_DH_Wolf_M_80lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_DH_Wolf_M_90lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_DH_Wolf_M_100lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_M_110lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_M_120lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_M_130lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_M_140lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_M_150lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_DH_Wolf_F_60lb"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_DH_Wolf_F_70lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_F_80lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_F_90lb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_DH_Wolf_F_100lb"/>
+        </children>
+    </event>

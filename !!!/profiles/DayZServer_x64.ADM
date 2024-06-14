@@ -1,29 +1,37 @@
 
 
 ******************************************************************************
-AdminLog started on 2024-06-12 at 23:50:20
-23:54:01 | Player "Survivor" is connected (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=)
-23:54:52 | Player "Survivor (2)" is connected (id=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=)
-23:55:10 | [COT] 76561198103345785: Activated Community Online Tools [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
-23:55:11 | [COT] 76561198103345785: Set GodMode To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
-23:56:13 | [COT] 76561198977019919: Activated Community Online Tools [guid=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=]
-23:56:25 | [COT] 76561198977019919: Teleported to position <6422.957520, 14.897056, 11371.932617>
-23:56:45 | AI "Linda" (DEAD) (group=22 faction="West" pos=<6999.3, 11955, -2.2>) died. Stats> Water: 600 Energy: 593.589 Bleed sources: 0
-23:56:47 | AI "Cyril" (DEAD) (group=22 faction="West" pos=<7000.8, 11954.9, -2.2>) died. Stats> Water: 600 Energy: 592.192 Bleed sources: 0
-23:56:47 | AI "Frida" (DEAD) (group=22 faction="West" pos=<7000.2, 11955.3, -2.3>) died. Stats> Water: 600 Energy: 592.192 Bleed sources: 0
-23:58:02 | [COT] 76561198103345785: Teleported to position <8145.072266, 14.233967, 6226.059082>
-23:58:18 | [COT] 76561198977019919: Teleported to position <6348.837891, 47.880001, 10603.516602>
-23:58:19 | [COT] 76561198977019919: Teleported to position <6348.362793, 47.880001, 10604.682617>
-23:58:19 | [COT] 76561198977019919: Teleported to position <6348.837891, 47.880001, 10604.682617>
-23:58:19 | [COT] 76561198977019919: Teleported to position <6348.837891, 47.880001, 10604.682617>
-23:58:20 | [COT] 76561198977019919: Teleported to position <6348.837891, 47.880001, 10604.682617>
-23:58:23 | [COT] 76561198977019919: Teleported to position <6341.274902, 47.675549, 10598.200195>
-23:58:23 | [COT] 76561198977019919: Teleported to position <6342.830566, 47.675549, 10598.200195>
-23:58:24 | [COT] 76561198977019919: Teleported to position <6342.830566, 47.675549, 10598.200195>
-23:58:24 | [COT] 76561198977019919: Teleported to position <6343.306152, 47.675549, 10598.200195>
-23:58:39 | [COT] 76561198977019919: Teleported to position <6340.712891, 47.880001, 10607.967773>
-23:58:40 | [COT] 76561198977019919: Teleported to position <6345.034668, 47.368626, 10595.607422>
-23:58:40 | [COT] 76561198977019919: Teleported to position <6345.034668, 47.368626, 10595.607422>
-23:58:41 | [COT] 76561198977019919: Teleported to position <6345.034668, 47.368626, 10595.607422>
-23:58:41 | [COT] 76561198977019919: Teleported to position <6344.560059, 47.373180, 10595.607422>
-23:59:25 | [COT] 76561198103345785: ESP: ESP updating
+AdminLog started on 2024-06-14 at 12:47:28
+12:48:33 | Player "Survivor" is connected (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=)
+12:49:06 | AI "Keiko" (group=21 faction="West" pos=<7504.2, 7488.7, 59.2>)[HP: 19.2156] hit by FallDamageHealth
+12:49:06 | AI "Judy" (group=21 faction="West" pos=<7503.9, 7503.4, 60.2>)[HP: 29.7213] hit by FallDamageHealth
+12:49:06 | AI "Denis" (DEAD) (group=21 faction="West" pos=<7513.1, 7484.8, 53.2>)[HP: 0] hit by FallDamageHealth
+12:49:06 | AI "Denis" (DEAD) (group=21 faction="West" pos=<7513.1, 7484.8, 53.2>) died. Stats> Water: 600 Energy: 600 Bleed sources: 0
+12:49:07 | [COT] 76561198103345785: Activated Community Online Tools [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+12:49:07 | [COT] 76561198103345785: Set GodMode To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+12:50:12 | Player "Survivor"(id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=) has been disconnected
+18:29:55 | Player "Survivor" is connected (id=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=)
+18:30:42 | [COT] 76561198977019919: Activated Community Online Tools [guid=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=]
+18:30:53 | [COT] 76561198977019919: Teleported to position <6413.109375, 14.248701, 11402.717773>
+18:31:00 | Player "Uncle Duncan" is connected (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=)
+18:32:32 | [COT] 76561198103345785: Activated Community Online Tools [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+18:32:32 | [COT] 76561198103345785: Set GodMode To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+18:33:49 | [COT] 76561198977019919: Teleported to position <8077.025391, 70.730003, 11223.432617>
+18:33:50 | [COT] 76561198977019919: Teleported to position <8077.025391, 70.730003, 11223.432617>
+18:35:14 | [COT] 76561198977019919: Deactivated Community Online Tools [guid=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=]
+18:35:17 | [COT] 76561198977019919: Activated Community Online Tools [guid=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=]
+18:35:21 | [COT] 76561198977019919: Teleported to position <4637.773926, 6.339471, 9901.271484>
+18:36:06 | [COT] 76561198103345785: Spawned Entity testing AKM (AKM_Base<2ae0c850>, 100, 300, 0) at <7895.523926, 10.678157, 7664.912598>
+18:36:54 | [COT] 76561198977019919: Teleported to position <2340.738770, 11.897856, 5692.768066>
+18:37:16 | [COT] 76561198103345785: Set GodMode To false [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+18:37:17 | Player "Survivor"(id=ATxI-JFgZxkWYr7Quf7frIHZioARfFT0VaBU8wOvx1E=) has been disconnected
+18:37:21 | Player "Uncle Duncan" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<7871.5, 7660.0, 9.6>)[HP: 99.1783] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+18:37:22 | Player "Uncle Duncan" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<7871.5, 7660.0, 9.6>)[HP: 98.2468] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+18:37:22 | Player "Uncle Duncan" (id=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI= pos=<7870.6, 7659.6, 9.6>)[HP: 96.703] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+18:37:23 | [COT] 76561198103345785: Set GodMode To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+18:38:48 | [COT] 76561198103345785: Set UnlimitedAmmo To true [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
+18:43:15 | [COT] 76561198103345785: Spawned Entity Evil Snowman (rag_snowman<1d028430>, 100, 350, 0) at <7858.705566, 9.712231, 7703.814453>
+18:46:13 | [COT] 76561198103345785: Spawned Entity Evil Snowman (rag_snowman<1d02aa70>, 100, -1, 0) at <7858.599121, 9.702836, 7701.891602>
+18:49:22 | [COT] 76561198103345785: Spawned Entity Snowball (dzn_snowball_small<2eaf19c0>, 1, 100, 0) at <7873.263184, 14.873816, 7693.746094>
+18:50:21 | [COT] 76561198103345785: Teleported to position <7315.308594, 84.894653, 7912.722656>
+18:50:37 | [COT] 76561198103345785: Healed [guid=YKMF23SQkzabdtJzn3VUcLU8W3bjbl-ZiJ18vqBuvzI=]
