@@ -120,6 +120,10 @@ Expansion.Territories.Delete.Destroyed 0
 Expansion.Territories.Edit 0
 Expansion.Territories.Teleport 0
 Expansion.Territories.View 0
+FlipTransport 0
+FlipTransport.Settings 0
+FlipTransport.Settings.Save 0
+FlipTransport.Settings.View 0
 Items 0
 Items.CreateSet 0
 Items.Spawn 0
