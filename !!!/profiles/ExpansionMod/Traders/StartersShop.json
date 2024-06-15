@@ -1,0 +1,21 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_STARTERSHOP",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Guns_and_Mags_Startshop",
+        "Ammo_Startshop",
+        "Food_and_Drinks_Startshop",
+        "Clothes_Startshop"
+    ],
+    "Items": {}
+}
