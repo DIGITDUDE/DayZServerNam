@@ -65,3 +65,5 @@
 *.Bin
 *.ch
 *.Pbo
+/!!!/profiles/ExpansionMod/Quests/PlayerData
+/!!!/profiles/Treasure/Treasure.log
