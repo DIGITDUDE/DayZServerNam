@@ -21,12 +21,12 @@
     "MaxDistance": 10.0,
     "Loot": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
+            "Name": "Binoculars",
+            "Chance": 1,
             "Attachments": [],
-            "Chance": 1.0,
-            "QuantityPercent": -2,
-            "Max": 500,
-            "Min": 500,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
             "Variants": []
         }
     ]
