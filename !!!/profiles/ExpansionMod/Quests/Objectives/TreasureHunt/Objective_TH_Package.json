@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 27,
+    "ID": 4001,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the location of the left behind stash",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "stash",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            6715.03, 
+            27.2415, 
+            11342.4
+        ]
+    ],
+    "LootItemsAmount": 0,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ]
+}
