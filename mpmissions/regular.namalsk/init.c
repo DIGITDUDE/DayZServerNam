@@ -129,7 +129,7 @@ class CustomMission: MissionServer
                 	ref ZombieBase Bszmb;
                 	Class.CastTo(Bszmb,AIzmb);
                 	// Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
-                	SpawnObject(AIzmb);
+                	SpawnObject(zmbClass , pos);
 				}
 			break;
 		}
