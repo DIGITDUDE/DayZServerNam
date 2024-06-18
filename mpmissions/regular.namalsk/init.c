@@ -117,7 +117,7 @@ class CustomMission: MissionServer
 		player.GetStatWater().Set( 900 );
 		player.GetStatEnergy().Set( 1100 );
 	}
-
+/*
 		override void Expansion_OnQuestStart(ExpansionQuest quest){
 			ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 			switch (questConfig.GetID()){
@@ -140,6 +140,7 @@ class CustomMission: MissionServer
     auto obj = GetGame().CreateObject( type, position );
     obj.SetPosition( position );
     }
+*/	
 };
 
 Mission CreateCustomMission(string path)
