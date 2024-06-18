@@ -8,8 +8,8 @@
         "PLACEHOLDER",
         "PLACEHOLDER"
     ],
-    "ObjectiveText": "Visit the camp at the marked location. adn talk {starternpc}",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Visit the camp at the marked location. adn talk Peter",
+    "FollowUpQuest": 4002,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -18,7 +18,17 @@
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
