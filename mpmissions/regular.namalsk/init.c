@@ -135,6 +135,11 @@ class CustomMission: MissionServer
 		}
 
 	}
+	void SpawnObject( string type, vector position,)
+	{
+    auto obj = GetGame().CreateObject( type, position );
+    obj.SetPosition( position );
+    }
 };
 
 Mission CreateCustomMission(string path)
