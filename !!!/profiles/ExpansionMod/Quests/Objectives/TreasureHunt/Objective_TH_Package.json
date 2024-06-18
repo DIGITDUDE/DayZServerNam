@@ -24,7 +24,7 @@
             "Name": "ExpansionBanknoteHryvnia",
             "Chance": 1,
             "Attachments": [],
-            "QuantityPercent": -2,
+            "QuantityPercent": 1,
             "Max": 500,
             "Min": 500,
             "Variants": []
