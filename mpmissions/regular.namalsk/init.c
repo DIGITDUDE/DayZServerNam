@@ -119,7 +119,8 @@ class CustomMission: MissionServer
 	}
 
 		override void Expansion_OnQuestStart(ExpansionQuest quest){
-			Switch(quest.GetQuestConfig().GetID()){
+			ExpansionQuestConfig questConfig = quest.GetQuestConfig();
+			switch (questConfig.GetID()){
 				case 4002:
 				{
 					vector pos = SnapToGround(Vector(6416.44,14.539,11392.4));
