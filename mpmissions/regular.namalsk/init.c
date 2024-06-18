@@ -117,6 +117,25 @@ class CustomMission: MissionServer
 		player.GetStatWater().Set( 900 );
 		player.GetStatEnergy().Set( 1100 );
 	}
+	#ifdef EXPANSIONMODQUEST
+	override void Expansion_OnQuestStart(ExpansionQuest quest){
+		Switch(quest.GetQuestConfig().GetID()){
+			case 4002{
+
+				vector pos = SnapToGround(Vector(6416.44,14.539,11392.4));
+                string zmbClass = "PITSTOP_Monsters_Reaper";
+                EntityAI AIzmb = GetGame().CreateObject( zmbClass, pos, false, true );
+                ref ZombieBase Bszmb;
+                Class.CastTo(Bszmb,AIzmb);
+                // Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
+
+                m_SpawnedZombies.Insert(AIzmb);
+			}
+			break;
+		}
+
+	}
+	#endif
 };
   
 Mission CreateCustomMission(string path)
