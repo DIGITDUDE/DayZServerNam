@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "The Huntsman",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Skull 1",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "AnimalSkulls:2",
+    "HuntingKnives:1",
+    "Taxidermytools:1",
+    "Meat:2"
+  ],
+  "Items": {}
+}
