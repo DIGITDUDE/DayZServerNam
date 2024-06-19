@@ -59,6 +59,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="Flip_types.xml"	type="types" />
 		<file name="Hunt_types.xml"	type="types" />
 		<file name="Para_types.xml"	type="types" />
+		<file name="Bear_types.xml"	type="types" />
 	</ce>
 	<ce folder="Mobs">
 		<file name="Mutant_types.xml" type="types" />
