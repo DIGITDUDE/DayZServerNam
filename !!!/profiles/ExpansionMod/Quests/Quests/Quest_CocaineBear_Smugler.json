@@ -1,29 +1,31 @@
 {
   "ConfigVersion": 22,
-  "ID": 4001,
+  "ID": 1200,
   "Type": 1,
-  "Title": "Welcome to Hell",
+  "Title": "Special Retrieval",
   "Descriptions": [
-    "PLACEHOLDER",
-    "PLACEHOLDER",
-    "PLACEHOLDER"
+    "an acquintance of mine has a package thats need retrieving, it got lost in the woods {direction} from here. make sure you are well equiped and armed. there should be a note with the coordinates with the package",
+    "go get the package and bring it to my acquintance",
+    ""
   ],
-  "ObjectiveText": "Visit the camp at the marked location. and talk Peter",
+  "ObjectiveText": "Search adn Retrieve",
   "SuppressQuestLogOnCompletion": 0,
   "Active": 1,
-  "FollowUpQuest": 4002,
+  "FollowUpQuest": -1,
   "Repeatable": 0,
   "IsDailyQuest": 0,
   "IsWeeklyQuest": 0,
   "CancelQuestOnPlayerDeath": 0,
   "Autocomplete": 0,
-  "IsGroupQuest": 0,
+  "IsGroupQuest": 1,
   "ObjectSetFileName": "",
-  "QuestItems": [],
+  "QuestItems": [
+    {}
+  ],
   "Rewards": [
     {
       "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 250,
+      "Amount": 100,
       "Attachments": [],
       "DamagePercent": 0.0,
       "HealthPercent": 0.0,
@@ -35,26 +37,28 @@
   "RandomReward": 0,
   "RandomRewardAmount": -1,
   "RewardsForGroupOwnerOnly": 1,
-  "QuestGiverIDs": [],
+  "QuestGiverIDs": [
+    1000
+  ],
   "QuestTurnInIDs": [
-    4000
+    3000
   ],
   "IsAchievement": 0,
   "Objectives": [
     {
       "ConfigVersion": 27,
-      "ID": 4001,
-      "ObjectiveType": 3
+      "ID": 1200,
+      "ObjectiveType": 2
     }
   ],
-  "QuestColor": 0,
+  "QuestColor": -64512,
   "ReputationReward": 0,
   "ReputationRequirement": -1,
   "PreQuestIDs": [],
   "RequiredFaction": "",
   "FactionReward": "",
   "PlayerNeedQuestItems": 1,
-  "DeleteQuestItems": 1,
+  "DeleteQuestItems": 0,
   "SequentialObjectives": 1,
   "FactionReputationRequirements": {},
   "FactionReputationRewards": {}
