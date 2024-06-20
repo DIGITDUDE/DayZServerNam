@@ -1,0 +1,92 @@
+  Added to 
+Types   
+	
+	<type name="Land_TNL_DAmbulance">
+        <nominal>0</nominal>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+
+ Added to 
+mapgroupproto 
+
+<group name="Land_TNL_DAmbulance" lootmax="5">
+	<usage name="Medic" />
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="5">
+		<point pos="1.574217 -1.300173 -1.805587" range="1" height="1" /> 
+		<point pos="1.472738 -1.449343 -0.809427" range="1" height="1" /> 
+		<point pos="1.519860 -1.394404 0.280419" range="1" height="1" /> 
+		<point pos="1.609726 -1.259876 1.356616" range="1" height="1" /> 
+		<point pos="1.530661 -1.284455 2.450338" range="1" height="1" /> 
+		<point pos="0.856424 -1.310579 -2.962709" range="1" height="1" /> 
+		<point pos="-0.179688 -1.421175 -2.762994" range="1" height="1" /> 
+	</container>
+</group>
+
+
+Added to 
+cfgeventspawns
+
+    <event name="StaticDAmbulanceCrash">
+		<pos x="Your location" y="Your location" z="Your location" a="Your location"/>
+	</event>
+	
+Added to 	
+	events
+	
+	    <event name="StaticDAmbulanceCrash">
+        <nominal>1</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>2100</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>1000</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <secondary>InfectedIndustrial</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="2" max="1" min="1" type="Land_TNL_DAmbulance"/>
+        </children>
+    </event>
+
+Just for Expansion  
+Added to 	
+	Ai Patrol 
+        {
+            "Name": "",
+            "Faction": "West",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "Police",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Land_TNL_DAmbulance"
+        },	
