@@ -22,7 +22,8 @@
   "QuestItems": [
     {
       "ClassName": "Ruger1022_Clean",
-      "Amount": 1
+      "Amount": 1,
+      "Attachments": ["HuntingOptic","Mag_Ruger1022_10rnd"]
     }
   ],
   "Rewards": [
