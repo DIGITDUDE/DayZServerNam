@@ -9,7 +9,7 @@
         "get on with it and find the package"
     ],
     "ObjectiveText": "search and rescue",
-    "FollowUpQuest": 0,
+    "FollowUpQuest": 1001,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,

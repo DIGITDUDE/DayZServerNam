@@ -61,6 +61,6 @@
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }
