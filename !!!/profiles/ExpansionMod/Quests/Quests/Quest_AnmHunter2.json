@@ -1,25 +1,23 @@
 {
     "ConfigVersion": 22,
-    "ID": 6000,
+    "ID": 1201,
     "Type": 1,
-    "Title": "living of the land",
+    "Title": "Living of the Land",
     "Descriptions": [
         "surviving in namals can be a difficult task. some meat will certainly help with that. you can have this gun it aint much but it il do the job",
         "if you want to survive you will have to find yourself some meat",
         "Well done, now go get yourself a well deserved diner"
     ],
-    "ObjectiveText": "hunt a deer",
-    "FollowUpQuest":-1,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "ObjectiveText": "Hunt a Deer",
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": 
-        [
-            {
+    "QuestItems":[
+        {
             "ClassName": "Ruger1022_Clean",
             "Amount":1,
             "Attachments": [
@@ -27,7 +25,7 @@
                 "Mag_Ruger1022_10rnd"
                 ]
             }
-        ],
+    ],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
@@ -46,7 +44,7 @@
     "RewardBehavior": 0,
     "QuestGiverIDs": [1200],
     "QuestTurnInIDs": [
-        1200
+       1200
     ],
     "IsAchievement": 0,
     "Objectives": [
@@ -64,7 +62,7 @@
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 0,
-    "SequentialObjectives": 1,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

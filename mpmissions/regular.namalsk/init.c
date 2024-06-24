@@ -121,7 +121,7 @@ class CustomMission: MissionServer
 	override void Expansion_OnQuestStart(ExpansionQuest quest){
 			ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 			switch (questConfig.GetID()){
-				case 1011:
+				case 1001:
 				{
 					vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
                 	string zmbClass = "Animal_HMG_Bear_Cocaine_T0";
