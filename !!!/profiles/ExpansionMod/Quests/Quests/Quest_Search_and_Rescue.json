@@ -44,17 +44,8 @@
             "ConfigVersion": 27,
             "ID": 1001,
             "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 27,
-            "ID": 1001,
-            "ObjectiveType": 2
-        },
-        {
-            "ConfigVersion": 27,
-            "ID": 1001,
-            "ObjectiveType": 6
         }
+        
     ],
     "QuestColor": 0,
     "ReputationReward": 0,

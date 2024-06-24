@@ -122,7 +122,7 @@ class CustomMission: MissionServer
 			ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
 			ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 			switch (questConfig.GetID()){
-				case 1001:
+				case 1011:
 				{
 					vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
                 	string zmbClass = "Animal_HMG_Bear_Cocaine_T0";
