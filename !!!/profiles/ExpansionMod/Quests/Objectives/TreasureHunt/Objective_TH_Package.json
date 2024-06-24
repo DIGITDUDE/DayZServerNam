@@ -6,7 +6,7 @@
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 1,
-    "ContainerName": "ExpansionQuestDeadLaying",
+    "ContainerName": "ExpansionQuestDeadBodyLaying",
     "DigInStash": 0,
     "MarkerName": "stash",
     "MarkerVisibility": 4,
