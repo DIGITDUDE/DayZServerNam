@@ -119,6 +119,7 @@ class CustomMission: MissionServer
 	}
 
 	override void Expansion_OnQuestStart(ExpansionQuest quest){
+			ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
 			ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 			switch (questConfig.GetID()){
 				case 1001:
@@ -126,10 +127,11 @@ class CustomMission: MissionServer
 					vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
                 	string zmbClass = "Animal_HMG_Bear_Cocaine_T0";
                 	EntityAI AIzmb = GetGame().CreateObject( zmbClass, pos, false, true );
-                	ref ZombieBase Bszmb;
+                	ref AnimalBase Bszmb;
                 	Class.CastTo(Bszmb,AIzmb);
                 	// Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
-                	SpawnObject(zmbClass , pos);
+					  m_SpawnedZombies.Insert(AIzmb);
+                	  //  SpawnObject(zmbClass , pos);
 				}
 			break;
 		}
