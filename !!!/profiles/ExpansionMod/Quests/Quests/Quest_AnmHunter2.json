@@ -60,7 +60,7 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 0,
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
