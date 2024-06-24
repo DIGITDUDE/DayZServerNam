@@ -1,0 +1,4 @@
+Loots spawn depens how you put Ambulance - its defined in mapgroupproto 
+Ambulance spawn in Laying position - its mean if you playe like normal car you must reworked mapgroupproto 
+If you dont now how just join to discord i write in support channel 
+cfgeventspawns - Use editor to redefine spawns 

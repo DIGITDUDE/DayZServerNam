@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1001,
+    "ObjectiveType": 2,
+    "ObjectiveText": "operational awareness",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [],
+    "MaxDistance": 150.0,
+    "MinDistance": -1.0,
+    "Amount": 10,
+    "ClassNames": [
+		"Animal_HMG_Bear_Cocaine_T0"       
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
