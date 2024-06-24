@@ -6,7 +6,7 @@
     "Descriptions": [
         "An Acquintance of mine requested a team of specialist in search and rescue, get your team and gear up. his team went dark somewhere between sebjan uranium mine and sebjan factory. get to the team and rescue the team",
         "make sure you are geared up good before you leave it's going to be a rough journey",
-        "Well done, now go get yourself a well deserved diner"
+        "get on with it and find the package"
     ],
     "ObjectiveText": "search and rescue",
     "Repeatable": 0,
@@ -18,15 +18,7 @@
     "ObjectSetFileName": "",
     "QuestItems":[],
     "Rewards": [
-        {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 1000,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        }
+        {}
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,

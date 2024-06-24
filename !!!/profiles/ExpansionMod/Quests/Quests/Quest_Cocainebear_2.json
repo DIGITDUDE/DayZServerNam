@@ -4,13 +4,13 @@
     "Type": 1,
     "Title": "shoot and deliver",
     "Descriptions": [
-        "",
+        "get the package and deliver it to the Aqcuintance",
         "",
         "Well done, now go get yourself a well deserved diner"
     ],
-    "ObjectiveText": "search and rescue",
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "ObjectiveText": "Shoot and Deliver",
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
@@ -20,7 +20,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 1000,
+            "Amount": 2000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
