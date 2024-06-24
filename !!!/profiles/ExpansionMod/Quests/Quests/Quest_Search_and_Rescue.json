@@ -9,23 +9,34 @@
         "get on with it and find the package"
     ],
     "ObjectiveText": "search and rescue",
-    "Repeatable": 0,
+    "FollowUpQuest": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems":[],
+    "QuestItems": [],
     "Rewards": [
-        {}
+        {
+            "ClassName": "",
+            "Amount": 0,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": 0,
+            "Chance": 0.0
+        }
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [1001],
+    "QuestGiverIDs": [
+        1001
+    ],
     "QuestTurnInIDs": [],
     "IsAchievement": 0,
     "Objectives": [
