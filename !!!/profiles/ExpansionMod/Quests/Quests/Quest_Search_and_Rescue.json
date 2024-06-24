@@ -37,6 +37,7 @@
     "QuestGiverIDs": [
         1001
     ],
+    "QuestGiverIDs": [1000],
     "QuestTurnInIDs": [],
     "IsAchievement": 0,
     "Objectives": [
