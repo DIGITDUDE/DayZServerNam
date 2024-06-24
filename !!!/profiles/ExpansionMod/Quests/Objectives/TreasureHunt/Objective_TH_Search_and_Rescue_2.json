@@ -1,6 +1,6 @@
 {
     "ConfigVersion": 27,
-    "ID": 4001,
+    "ID": 1001,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the location of the left behind stash",
     "TimeLimit": -1,
@@ -12,9 +12,9 @@
     "MarkerVisibility": 4,
     "Positions": [
         [
-            6715.03, 
-            27.2415, 
-            11342.4
+            5531.24, 
+            116.376, 
+            8151.61
         ]
     ],
     "LootItemsAmount": 1,
