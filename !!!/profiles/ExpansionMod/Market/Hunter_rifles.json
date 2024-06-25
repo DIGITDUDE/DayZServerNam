@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "ruger1022",
+            "ClassName": "Ruger1022",
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
