@@ -1,0 +1,325 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Namalsk Clothing",
+  "Icon": "Cloth",
+  "Color": "2129DDFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "NCE_Jacket_EMR_North",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Jacket_Flora",
+        "NCE_Jacket_Splav",
+        "NCE_Jacket_Ryab",
+        "NCE_Jacket_Surpat",
+        "NCE_Jacket_Kamysh"
+      ]
+    },
+    {
+      "ClassName": "NCE_Pants_EMR_North",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Pants_Kamysh",
+        "NCE_Pants_Surpat",
+        "NCE_Pants_Ryab",
+        "NCE_Pants_Splav"
+      ]
+    },
+    {
+      "ClassName": "NCE_Tactical_Vest_EMR_North",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Tactical_Vest_Cold",
+        "NCE_Tactical_Vest_Kamysh",
+        "NCE_Tactical_Vest_Surpat",
+        "NCE_Tactical_Vest_Ryab",
+        "NCE_Tactical_Vest_Splav"
+      ]
+    },
+    {
+      "ClassName": "NCE_Gorka_Hood_EMR_Autumn",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Gorka_Hood_Listopad",
+        "NCE_Gorka_Hood_Yagel",
+        "NCE_Gorka_Hood_Pervotrop",
+        "NCE_Gorka_Hood_Partizan",
+        "NCE_Gorka_Hood_Berezka"
+      ]
+    },
+    {
+      "ClassName": "NCE_Gorka_Jacket_EMR_Autumn",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Gorka_Jacket_EMR_Autumn",
+        "NCE_Gorka_Jacket_Listopad",
+        "NCE_Gorka_Jacket_Yagel",
+        "NCE_Gorka_Jacket_Pervotrop",
+        "NCE_Gorka_Jacket_Partizan",
+        "NCE_Gorka_Jacket_Berezka"
+      ]
+    },
+    {
+      "ClassName": "NCE_Gorka_Pants_EMR_Autumn",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Gorka_Pants_EMR_Autumn",
+        "NCE_Gorka_Pants_Listopad",
+        "NCE_Gorka_Pants_Yagel",
+        "NCE_Gorka_Pants_Pervotrop",
+        "NCE_Gorka_Pants_Partizan",
+        "NCE_Gorka_Pants_Berezka"
+      ]
+    },
+    {
+      "ClassName": "NCE_Tactical_Vest_Gorka_EMR_Autumn",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Tactical_Vest_Gorka_Listopad",
+        "NCE_Tactical_Vest_Gorka_Yagel",
+        "NCE_Tactical_Vest_Gorka_Pervotrop",
+        "NCE_Tactical_Vest_Gorka_Partizan",
+        "NCE_Tactical_Vest_Gorka_Berezka"
+      ]
+    },
+    {
+      "ClassName": "NCE_Hood_CTRG_Woodland",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Hood_CTRG_Arctic"
+      ]
+    },
+    {
+      "ClassName": "NCE_Balaclava_CTRG_Woodland",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Balaclava_CTRG_Arctic"
+      ]
+    },
+    {
+      "ClassName": "NCE_M65_Jacket_CTRG_Woodland",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_M65_Jacket_CTRG_Arctic",
+        "NCE_M65_Jacket_Dark_Green",
+        "NCE_M65_Jacket_White"
+      ]
+    },
+    {
+      "ClassName": "NCE_M65_Pants_CTRG_Woodland",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_M65_Pants_CTRG_Arctic"
+      ]
+    },
+    {
+      "ClassName": "NCE_Tactical_Vest_CTRG_Woodland",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Tactical_Vest_CTRG_Arctic"
+      ]
+    },
+    {
+      "ClassName": "NCE_SSH_Helmet_Dark",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_SSH_Helmet_Clouds",
+        "NCE_SSH_Helmet_Clouds_Winter",
+        "NCE_SSH_Helmet_Winter"
+      ]
+    },
+    {
+      "ClassName": "NCE_Beanie_Hat_Beige",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Beanie_Hat_Blue",
+        "NCE_Beanie_Hat_Brown",
+        "NCE_Beanie_Hat_Grey",
+        "NCE_Beanie_Hat_White",
+        "NCE_Beanie_Hat_Ripple",
+        "NCE_Beanie_Hat_Breza",
+        "NCE_Beanie_Hat_Spekter"
+      ]
+    },
+    {
+      "ClassName": "NCE_Ushanka_Beige",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Ushanka_White",
+        "NCE_Ushanka_Ripple",
+        "NCE_Ushanka_Tseefra"
+      ]
+    },
+    {
+      "ClassName": "NCE_Balaclava_3Holes_White",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "NCE_Thermal_Hood_White",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Thermal_Hood_Strata"
+      ]
+    },
+    {
+      "ClassName": "NCE_Thermal_Jacket_White",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Thermal_Jacket_Strata"
+      ]
+    },
+    {
+      "ClassName": "NCE_Thermal_Pants_White",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Thermal_Pants_Strata"
+      ]
+    },
+    {
+      "ClassName": "NCE_Workers_Shirt_Vorkuta",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Workers_Shirt_Jalovisko",
+        "NCE_Workers_Shirt_Lubjansk"
+      ]
+    },
+    {
+      "ClassName": "NCE_Workers_Pants_Vorkuta",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "NCE_Workers_Pants_Jalovisko",
+        "NCE_Workers_Pants_Lubjansk"
+      ]
+    }
+  ],
+  "SortByDisplayName": true
+}
