@@ -1,0 +1,24 @@
+{
+  "m_Version": 12,
+  "DisplayName": "The Huntsman",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Gun",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Medical"
+  ],
+  "Items": {
+    "heatpack":1,
+    "painkillertablets":1,
+    "tetracyclineantibiotics":1,
+    "vitaminbottle":1,
+    "disinfectantalcohol":1
+  }
+}
