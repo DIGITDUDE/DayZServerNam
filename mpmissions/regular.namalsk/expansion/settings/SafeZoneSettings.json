@@ -10,7 +10,16 @@
                 10515.0
             ],
             "Radius": 400.0
+        },
+        {
+            "Center": [
+                8071.85, 
+                70.7425, 
+                11229.4
+            ],
+            "Radius": 500.0
         }
+
     ],
     "PolygonZones": [],
     "CylinderZones": [],
