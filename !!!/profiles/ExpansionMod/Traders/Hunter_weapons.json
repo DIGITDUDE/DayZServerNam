@@ -12,9 +12,9 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "Hunter_rifles",
-    "Hunter_shotguns",
-    "Crossbows"
+    "Hunter_rifles:1",
+    "Hunter_shotguns:1",
+    "Crossbows:1"
   ],
   "Items": {
     "ammobox_00buck_10rnd":1,
