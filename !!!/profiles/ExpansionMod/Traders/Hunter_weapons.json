@@ -1,0 +1,39 @@
+{
+  "m_Version": 12,
+  "DisplayName": "The Huntsman",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Gun",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Hunter_rifles",
+    "Hunter_shotguns",
+    "Crossbows"
+  ],
+  "Items": {
+    "ammobox_00buck_10rnd":1,
+    "ammobox_12gaslug_10rnd":1,
+    "ammobox_22_50rnd":1,
+    "ammobox_762x39_20rnd":1,
+    "ammobox_308win_20rnd":1,
+    "ammobox_357_20rnd":1,
+    "ammo_12gapellets":1,
+    "ammo_12garubberslug":1,
+    "ammo_12gaslug":1,
+    "ammo_22":1,
+    "ammo_308win":1,
+    "ammo_308wintracer":1,
+    "ammo_357":1,
+    "ammo_762x39":1,
+    "ammo_762x39tracer":1,
+    "ammo_huntingbolt":1
+
+
+  }
+}
