@@ -1,29 +1,15 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SHOTGUNS",
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "saiga",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "saiga_bttstck",
-                "mag_saiga_8rnd"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansion_benellim4",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "ClassName": "flaregun",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -32,9 +18,31 @@
             "Variants": []
         },
         {
-            "ClassName": "expansion_dt11",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 800,
+            "ClassName": "m79",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionlaw",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionrpg7",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
