@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Military Clothing Traders",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Gun",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    
+  ],
+  "Items": {
+     
+
+  }
+}
