@@ -1,0 +1,15 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Rangers trading zone",
+    "Position": [
+        4645.03, 
+        6.26919, 
+        9837.2
+    ],
+    "Radius": 500.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        
+    }
+}
