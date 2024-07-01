@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-			"ClassName": "massghilliehood_snowy",
+			"ClassName": "MassGhillieHood_Snowy",
 			"MaxPriceThreshold": 440,
 			"MinPriceThreshold": 220,
 			"SellPricePercent": -1,
@@ -16,12 +16,12 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghilliehood_woodland",
-                "massghilliehoodmossy"
+                "MassGhillieHood_Woodland",
+                "MassGhillieHoodMossy"
             ]
         },
         {
-			"ClassName": "massghilliesuitmossy",
+			"ClassName": "MassGhillieSuitMossy",
 			"MaxPriceThreshold": 2000,
 			"MinPriceThreshold": 1000,
 			"SellPricePercent": -1,
@@ -30,12 +30,12 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghilliesuitsnow",
-                "massghilliesuitwoodland"
+                "MassGhillieSuitSnow",
+                "MassGhillieSuitWoodland"
             ]
         },
         {
-			"ClassName": "massghillietopmossy",
+			"ClassName": "MassGhillieTopMossy",
 			"MaxPriceThreshold": 1200,
 			"MinPriceThreshold": 600,
 			"SellPricePercent": -1,
@@ -44,12 +44,12 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghillietopsnow",
-                "massghillietopwoodland"
+                "MassGhillieTopSnow",
+                "MassGhillieTopWoodland"
             ]
         },
         {
-			"ClassName": "masswinterghilliewrap",
+			"ClassName": "MassWinterGhillieWrap",
 			"MaxPriceThreshold": 800,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
@@ -60,7 +60,7 @@
             "Variants": []
         },
         {
-			"ClassName": "massghilliesuitboxmossy",
+			"ClassName": "MassGhillieSuitboxmossy",
 			"MaxPriceThreshold": 2400,
 			"MinPriceThreshold": 1200,
 			"SellPricePercent": -1,
@@ -69,12 +69,12 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghilliesuitboxwinter",
-                "massghilliesuitboxwoodland"
+                "MassGhillieSuitboxwinter",
+                "MassGhillieSuitboxwoodland"
             ]
         },
         {
-			"ClassName": "massghillietopboxmossy",
+			"ClassName": "MassGhillieTopBoxMossy",
 			"MaxPriceThreshold": 1200,
 			"MinPriceThreshold": 600,
 			"SellPricePercent": -1,
@@ -83,8 +83,8 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghillietopboxwinter",
-                "massghillietopboxwoodland"
+                "MassGhillieTopBoxWinter",
+                "MassGhillieTopBoxWoodland"
             ]
         }
     ]
