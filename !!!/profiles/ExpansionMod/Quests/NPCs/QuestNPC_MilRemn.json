@@ -3,14 +3,14 @@
     "ID": 2001,
     "ClassName": "ExpansionQuestNPCAIRolf",
     "Position": [
-        4647.49,
-        6.75423,
-        9853.29
+        4655.88,
+        6.1625, 
+        9819.02
     ],
     "Orientation": [
-        178.346,
-        0.0,
-        0.0
+        23.7193, 
+        -0, 
+        -0
     ],
     "NPCName": "Alexei",
     "DefaultNPCText": "Hmm?",

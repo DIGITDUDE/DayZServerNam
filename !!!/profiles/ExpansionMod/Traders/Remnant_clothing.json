@@ -12,14 +12,9 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "Ghillies",
-    "MASS_GHILLIE",
-    "MASS_BELTS:2",
-    "MASS_Hats",
-    "MASS_POUCHES",
-    "Mass_Vests:2",
-    "Vests:2"
-
+    "Ghillies",      
+    "Vests:2",
+    "MassClothing:2"
     
   ],
   "Items": {
@@ -63,23 +58,6 @@
     "nylonknifesheath":1,
     "balaclavamask_beige":1,
     "balaclava3holes_beige":1,
-    "massmollebagblack":1,
-    "masssurvivorbag":1,
-    "massslingbag":1,
-    "masssmersh":1,
-    "massblackgorkabottom":1,
-    "masswinterbdupants":1,
-    "masswintercuupants":1,
-    "masswinterhunterpants":1,
-    "masswoodlandcargopants":1,
-    "massblackgorkatop":1,
-    "massblackjacket":1,
-    "massgorkainvertflecktarntop":1,
-    "massurbancamom65":1,
-    "masswinterbdujacket":1,
-    "masswintercuujacket":1,
-    "masswoodlandcamosweater":1,
-    "masscamohoodie":1,
     "ttskopants":1,
     "bdupants":1,
     "gorkapants_summer":1,
@@ -87,6 +65,18 @@
     "tacticalshirt_grey":1,
     "platecarriervest":1,
     "smershvest":1,
-    "ukassvest_black":1
+    "ukassvest_black":1,
+    "MassWinterBDUPants":1,
+    "MassWinterBDUJacket":1,
+    "MassGorkaInvertFlecktarnPants":1,
+    "MassGorkaInvertWinterTop":1,
+    "MassBlackGorkatop":1,
+    "Mass_TankerHelmet_Green":1,
+    "MassCBhelmet":1,
+    "MassTacticalBag":1,
+    "Mass_CamonetGhillie_East":1,
+    "MassSurvivorBag":1,
+    "MassMolleBagBlack":1,
+    "MassSlingBag":1
   }
 }
