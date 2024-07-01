@@ -51,7 +51,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="NCloth_types.xml"	type="types" />
 	</ce>
 	<ce folder="Mass">
-		<file name="Mass_types.xml"	type="types" />
+		<file name="MassBuildings.xml"	type="types" />
+		<file name="MassClothing.xml"	type="types" />
+		<file name="MassDistractions.xml"	type="types" />
+		<file name="MassFood.xml"	type="types" />
+		<file name="MassMisc.xml"	type="types" />
 		<file name="Mass_spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
 	<ce folder="Other">
