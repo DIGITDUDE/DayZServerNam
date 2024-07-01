@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-			"ClassName": "massblackhuntingbp",
+			"ClassName": "Massblackhuntingbp",
 			"MaxPriceThreshold": 1260,
 			"MinPriceThreshold": 1130,
 			"SellPricePercent": -1,
@@ -180,7 +180,7 @@
             ]
         },
         {
-			"ClassName": "masssmersh",
+			"ClassName": "massSmersh",
 			"MaxPriceThreshold": 1100,
 			"MinPriceThreshold": 950,
 			"SellPricePercent": -1,
@@ -189,8 +189,8 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masssmershblack",
-                "masssmershwinter",
+                "massSmershblack",
+                "massSmershwinter",
                 "smershbag"
             ]
         },

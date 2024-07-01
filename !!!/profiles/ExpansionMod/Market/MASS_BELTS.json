@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-			"ClassName": "massmollebelt",
+			"ClassName": "MassMollebelt",
 			"MaxPriceThreshold": 1500,
 			"MinPriceThreshold": 750,
 			"SellPricePercent": -1,
@@ -16,14 +16,14 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmollebeltblack",
-                "massmollebeltodg",
-                "massmollebeltsnow",
-                "massmollebeltwd"
+                "MassMolleBeltBlack",
+                "MassBolleBeltODG",
+                "MassMolleBeltSnow",
+                "MassMolleBeltWD"
             ]
         },
         {
-			"ClassName": "masstoolbelt",
+			"ClassName": "MassToolbelt",
 			"MaxPriceThreshold": 800,
 			"MinPriceThreshold": 400,
 			"SellPricePercent": -1,
