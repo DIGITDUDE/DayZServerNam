@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "DrugsDealer",
+    "DisplayName": "The Jakal",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -21,26 +21,18 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "Bullets",
     "Categories": [
-        "DrugsPlus:2",
-        "CP_Trader_CannabisPlus:2"
+        "BO_ammo:1",
+        "BO_attachments:1",
+        "BO_Launchers:1",
+        "BO_LMGS:1",
+        "BO_mags:1",
+        "BO_optics:1",
+        "BO_pistols:1",
+        "BO_Rifles:1",
+        "BO_Shotguns:1",
+        "BO_SMGs:1",
+        "BO_snipers:1",
+        "BO_suppressor:1"
     ],
-    "Items": {
-         "CP_Bagger":1,
-         "CP_EmptyBag":1,
-         "CP_PlasticRoll":1,
-         "CP_PlasticWrapper":1,
-         "CP_DryPost_Kit":1,
-         "CP_Workbench_Kit":1,
-         "CP_RollingPapers":1,
-         "CP_CannabisSeedsPackSkunk":1,
-         "CP_CannabisSeedsPackBlue":1,
-		 "CP_CannabisSeedsPackKush":1,
-		 "CP_CannabisSeedsPackStardawg":1,
-		 "CP_CannabisSeedsPackFuture":1,
-		 "CP_CannabisSeedsPackS1":1,
-		 "CP_CannabisSeedsPackNomad":1,
-		 "CP_CannabisSeedsPackBlackFrost":1,
-         "DP_CocaSeeds":1,
-         "DP_CocaSeedsPack":1
-    }
+    "Items": {}
 }
