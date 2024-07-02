@@ -1,0 +1,38 @@
+{
+    "m_Version": 12,
+    "DisplayName": "The Jakal",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Questionmark",
+    "Currencies": [
+        "ArrakisAmmo_HG_Currency_1",
+        "ArrakisAmmo_HG_Currency_5",
+        "ArrakisAmmo_HG_Currency_10",
+        "ArrakisAmmo_HG_Currency_15",
+        "ArrakisAmmo_HG_Currency_20",
+        "ArrakisAmmo_HG_Currency_100",
+        "ArrakisAmmo_HG_Currency_200",
+        "ArrakisAmmo_HG_Currency_500",
+        "ArrakisAmmo_HG_Currency_1000",
+        "ArrakisAmmo_HG_Currency_1500"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "Bullets",
+    "Categories": [
+        "BO_ammo:1",
+        "BO_attachments:1",
+        "BO_Launchers:1",
+        "BO_LMGS:1",
+        "BO_mags:1",
+        "BO_optics:1",
+        "BO_pistols:1",
+        "BO_Rifles:1",
+        "BO_Shotguns:1",
+        "BO_SMGs:1",
+        "BO_snipers:1",
+        "BO_suppressor:1"
+    ],
+    "Items": {}
+}
