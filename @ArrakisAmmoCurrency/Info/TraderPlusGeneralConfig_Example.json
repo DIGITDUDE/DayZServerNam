@@ -1,0 +1,42 @@
+    "Currencies": [
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_1",
+            "Value": 1
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_5",
+            "Value": 5
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_10",
+            "Value": 10
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_15",
+            "Value": 15
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_20",
+            "Value": 20
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_100",
+            "Value": 100
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_200",
+            "Value": 200
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_500",
+            "Value": 500
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_1000",
+            "Value": 1000
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_1500",
+            "Value": 1500
+        }
+    ],

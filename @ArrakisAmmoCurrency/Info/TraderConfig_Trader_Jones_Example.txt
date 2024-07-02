@@ -1,0 +1,11 @@
+<CurrencyName> #tm_ruble											// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+	<Currency> ArrakisAmmo_HG_Currency_1, 		1					// Currency Classname, Currency Money Value
+	<Currency> ArrakisAmmo_HG_Currency_5, 		5
+	<Currency> ArrakisAmmo_HG_Currency_10, 		10
+	<Currency> ArrakisAmmo_HG_Currency_15, 		15
+	<Currency> ArrakisAmmo_HG_Currency_20, 		20
+	<Currency> ArrakisAmmo_HG_Currency_100, 	100
+	<Currency> ArrakisAmmo_HG_Currency_200, 	200
+	<Currency> ArrakisAmmo_HG_Currency_500, 	500
+	<Currency> ArrakisAmmo_HG_Currency_1000, 	1000
+	<Currency> ArrakisAmmo_HG_Currency_1500, 	1500
