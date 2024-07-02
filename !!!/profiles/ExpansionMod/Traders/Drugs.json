@@ -19,10 +19,28 @@
         "ArrakisAmmo_HG_Currency_1500"
     ],
     "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "AMMO",
+    "DisplayCurrencyName": "Bullets",
     "Categories": [
         "DrugsPlus:2",
         "CP_Trader_CannabisPlus:2"
     ],
-    "Items": {}
+    "Items": {
+         "CP_Bagger":1,
+         "CP_EmptyBag":1,
+         "CP_PlasticRoll":1,
+         "CP_PlasticWrapper":1,
+         "CP_DryPost_Kit":1,
+         "CP_Workbench_Kit":1,
+         "CP_RollingPapers":1,
+         "CP_CannabisSeedsPackSkunk":1,
+         "CP_CannabisSeedsPackBlue":1,
+		 "CP_CannabisSeedsPackKush":1,
+		 "CP_CannabisSeedsPackStardawg":1,
+		 "CP_CannabisSeedsPackFuture":1,
+		 "CP_CannabisSeedsPackS1":1,
+		 "CP_CannabisSeedsPackNomad":1,
+		 "CP_CannabisSeedsPackBlackFrost":1,
+         "DP_CocaSeeds":1,
+         "DP_CocaSeedsPack":1
+    }
 }

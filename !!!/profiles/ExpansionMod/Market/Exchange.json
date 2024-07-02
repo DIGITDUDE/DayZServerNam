@@ -19,28 +19,6 @@
         },
         {
             "ClassName": "ArrakisAmmo_HG_Currency_1",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ArrakisAmmo_HG_Currency_5",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ArrakisAmmo_HG_Currency_10",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
@@ -51,9 +29,9 @@
             "Variants": []
         },
         {
-            "ClassName": "ArrakisAmmo_HG_Currency_15",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "ClassName": "ArrakisAmmo_HG_Currency_5",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -62,18 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "ArrakisAmmo_HG_Currency_20",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ArrakisAmmo_HG_Currency_100",
+            "ClassName": "ArrakisAmmo_HG_Currency_10",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
@@ -84,7 +51,18 @@
             "Variants": []
         },
         {
-            "ClassName": "ArrakisAmmo_HG_Currency_200",
+            "ClassName": "ArrakisAmmo_HG_Currency_15",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_20",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
@@ -95,18 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "ArrakisAmmo_HG_Currency_500",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ArrakisAmmo_HG_Currency_1000",
+            "ClassName": "ArrakisAmmo_HG_Currency_100",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
             "SellPricePercent": -1.0,
@@ -117,9 +84,42 @@
             "Variants": []
         },
         {
+            "ClassName": "ArrakisAmmo_HG_Currency_200",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_500",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ArrakisAmmo_HG_Currency_1000",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ArrakisAmmo_HG_Currency_1500",
-            "MaxPriceThreshold": 15000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
