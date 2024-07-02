@@ -22,7 +22,7 @@
     "DisplayCurrencyName": "AMMO",
     "Categories": [
         "DrugsPlus:2",
-        "CP_Trader_CannabisPlus.json"
+        "CP_Trader_CannabisPlus:2"
     ],
     "Items": {}
 }
