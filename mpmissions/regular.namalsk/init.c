@@ -1,4 +1,5 @@
-#include <CustomScripts\CustomMission.c>
+#include "CustomScripts\CustomMission.c"
+
 void main()
 {
 	/*
