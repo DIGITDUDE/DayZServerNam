@@ -1,5 +1,4 @@
-class custommission{
-
+void initcustom(){
 override void Expansion_OnQuestStart(ExpansionQuest quest){
         ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
@@ -24,5 +23,6 @@ void SpawnObject( string type, vector position)
 auto obj = GetGame().CreateObject( type, position );
 obj.SetPosition( position );
 }
+
 
 };
