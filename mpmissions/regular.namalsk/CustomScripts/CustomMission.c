@@ -1,4 +1,5 @@
-Class spawn(){
+void custominit(){
+class Mission : MissionServer{
 void SpawnObject( string type, vector position)
 {
 auto obj = GetGame().CreateObject( type, position );
@@ -17,5 +18,6 @@ void SpawnAnimal(string anmClass , Vector pos)
                         // Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
     m_SpawnedZombies.Insert(AIanm);
                         //  SpawnObject(zmbClass , pos);
-};
 }
+}
+};
