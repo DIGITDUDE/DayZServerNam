@@ -126,6 +126,16 @@ class CustomMission: MissionServer
                 {
 					SpawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
                 }
+				case 2000:
+                {
+					int zombiecount = CountZombies(4078.74, 70.3225, 9233.25 , 50)
+					int i = zombiecount
+					for (i < 10; i++)
+					{
+						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
+					}
+										
+                }
         	break;
     	}
 	}
@@ -158,6 +168,24 @@ class CustomMission: MissionServer
     // Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
     m_SpawnedZombies.Insert(AIzmb);
     //  SpawnObject(zmbClass , pos);
+    }
+
+	int CountZombies(vector position, float radius)
+    {
+        array<Object> objects = new array<Object>;
+        GetGame().GetObjectsAtPosition(position, radius, objects, null);
+        
+        int zombieCount = 0;
+        
+        for (int i = 0; i < objects.Count(); i++)
+        {
+            if (objects.Get(i).IsInherited(ZombieBase))
+            {
+                zombieCount++;
+            }
+        }
+        
+        return zombieCount;
     }
 
 };
