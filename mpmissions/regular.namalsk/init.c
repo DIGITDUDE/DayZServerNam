@@ -180,10 +180,14 @@ class CustomMission: MissionServer
         
         for (int i = 0; i < objects.Count(); i++)
         {
-            if (objects.Get(i).IsInherited(ZombieBase)&& objects.IsAlive)
+             if (objects.Get(i).IsInherited(ZombieBase))
+        {
+            ZombieBase zombie = ZombieBase.Cast(objects.Get(i));
+            if (zombie && !zombie.IsDead())
             {
-                zombieCount++;
+                aliveZombieCount++;
             }
+        }
         }
         
         return zombieCount;
