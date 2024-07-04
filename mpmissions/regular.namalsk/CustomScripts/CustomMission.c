@@ -1,9 +1,10 @@
-class custommission{
+class initcustom(){
 
+class CustomMission: MissionServer{
 override void Expansion_OnQuestStart(ExpansionQuest quest){
         ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
-        switch (questConfig.GetID()){
+        switch(questConfig.GetID()){
                 case 1011:
                 {
                         vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
@@ -23,6 +24,8 @@ void SpawnObject( string type, vector position)
 {
 auto obj = GetGame().CreateObject( type, position );
 obj.SetPosition( position );
-}
+};
+
+};
 
 };

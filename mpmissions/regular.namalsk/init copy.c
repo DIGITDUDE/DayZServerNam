@@ -1,4 +1,4 @@
-#include "$CurrentDir:\\mpmissions\\regular.namalsk\\CustomScripts\\CustomMission.c";
+#include "$CurrentDir:\\mpmissions\\regular.namalsk\\CustomScripts\\initcustom.cs";
 
 void main()
 {
@@ -120,7 +120,7 @@ class CustomMission: MissionServer
 		player.GetStatEnergy().Set( 1100 );
 	}
 
-	initcustom();
+	InitCustom();
 
 };
   
