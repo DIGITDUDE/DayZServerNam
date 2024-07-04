@@ -130,7 +130,7 @@ class CustomMission: MissionServer
                 {
 					int zombiecount = CountZombies(4078.74, 70.3225, 9233.25 , 50)
 					int i = zombiecount
-					for (i < 10; i++)
+					for (i < 10, i++)
 					{
 						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
 					}
