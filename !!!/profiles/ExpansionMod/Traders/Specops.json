@@ -1,0 +1,29 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Spec ops Trader",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Gun",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+        "ArrakisAmmo_HG_Currency_1",
+        "ArrakisAmmo_HG_Currency_5",
+        "ArrakisAmmo_HG_Currency_10",
+        "ArrakisAmmo_HG_Currency_15",
+        "ArrakisAmmo_HG_Currency_20",
+        "ArrakisAmmo_HG_Currency_100",
+        "ArrakisAmmo_HG_Currency_200",
+        "ArrakisAmmo_HG_Currency_500",
+        "ArrakisAmmo_HG_Currency_1000",
+        "ArrakisAmmo_HG_Currency_1500"
+  ],
+  "Categories": [
+   
+  ],
+  "Items": {
+    
+  }
+}
