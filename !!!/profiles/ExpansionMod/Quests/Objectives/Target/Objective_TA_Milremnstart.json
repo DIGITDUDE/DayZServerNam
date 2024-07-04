@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 27,
+    "ID": 2000,
+    "ObjectiveType": 2,
+    "ObjectiveText": "clear the area",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [],
+    "MaxDistance": 150.0,
+    "MinDistance": -1.0,
+    "Amount": 10,
+    "ClassNames": [
+		       
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
