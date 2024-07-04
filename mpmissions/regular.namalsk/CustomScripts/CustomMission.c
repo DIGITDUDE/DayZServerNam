@@ -18,7 +18,6 @@ override void Expansion_OnQuestStart(ExpansionQuest quest){
     }
 }
 
-
 void SpawnObject( string type, vector position)
 {
 auto obj = GetGame().CreateObject( type, position );
