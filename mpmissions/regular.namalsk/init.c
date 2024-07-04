@@ -1,4 +1,4 @@
-#include "$CurrentDir:\\CustomScripts\\CustomMission.c"
+#include "$CurrentDir:CustomScripts/CustomMission.c"
 
 void main()
 {
