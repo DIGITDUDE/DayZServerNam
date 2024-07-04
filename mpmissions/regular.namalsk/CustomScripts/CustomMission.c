@@ -1,5 +1,4 @@
-void InitCustom()
-{
+void InitCustom(){
 
 override void Expansion_OnQuestStart(ExpansionQuest quest){
         ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
