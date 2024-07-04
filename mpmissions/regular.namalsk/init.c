@@ -128,8 +128,8 @@ class CustomMission: MissionServer
                 }
 				case 2000:
                 {
-					int zombiecount = CountZombies(4078.74, 70.3225, 9233.25 , 50)
-					int i = zombiecount
+					int zombiecount = CountZombies(4078.74, 70.3225, 9233.25 , 50);
+					int i = zombiecount;
 								
 					for ( i < 10, i++)
 					{
