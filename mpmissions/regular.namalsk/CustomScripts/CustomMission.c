@@ -1,4 +1,4 @@
-class initcustom(){
+class initcustom{
 
 class CustomMission: MissionServer{
 override void Expansion_OnQuestStart(ExpansionQuest quest){
