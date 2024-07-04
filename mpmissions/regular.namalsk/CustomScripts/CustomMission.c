@@ -4,7 +4,7 @@ void SpawnObject( string type, vector position)
 {
 auto obj = GetGame().CreateObject( type, position );
 obj.SetPosition( position );
-};
+}
 
 void SpawnAnimal(string anmClass , Vector pos)
 {
@@ -19,5 +19,5 @@ void SpawnAnimal(string anmClass , Vector pos)
     m_SpawnedZombies.Insert(AIanm);
                         //  SpawnObject(zmbClass , pos);
 }
-}
+};
 };

@@ -124,7 +124,7 @@ class CustomMission: MissionServer
         switch(questConfig.GetID()){
                 case 1011:
                 {
-					spawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
+					SpawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
 						/*
                         vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
                         string zmbClass = "Animal_HMG_Bear_Cocaine_T0";
@@ -138,7 +138,7 @@ class CustomMission: MissionServer
                 }
         break;
     }
-};
+}
 
 void SpawnObject( string type, vector position)
 {
@@ -146,13 +146,13 @@ auto obj = GetGame().CreateObject( type, position );
 obj.SetPosition( position );
 }
 
-void SpawnAnimal(string anmClass , Vector inpos)
+void SpawnAnimal(string anmClass , vector anmpos)
 {
 	ref array<EntityAI> m_SpawnedAnimals = new array<EntityAI>;
     //vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
     //string zmbClass = "Animal_HMG_Bear_Cocaine_T0";
 
-	vector pos = SnapToGround(inpos);
+	vector pos = SnapToGround(anmpos);
     EntityAI AIanm = GetGame().CreateObject( anmClass, pos, false, true );
     ref AnimalBase Bsanm;
     Class.CastTo(Bsanm,AIanm);
@@ -161,9 +161,9 @@ void SpawnAnimal(string anmClass , Vector inpos)
                         //  SpawnObject(zmbClass , pos);
 }
 
-void spawnZombie(string zmbClass , Vector inpos){
+void spawnZombie(string zmbClass , vector zmbpos){
 	ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
-    vector pos = SnapToGround(Vector(inpos));
+    vector pos = SnapToGround(zmbpos);
     EntityAI AIzmb = GetGame().CreateObject( zmbClass, pos, false, true );
     ref ZombieBase Bszmb;
     Class.CastTo(Bszmb,AIzmb);
