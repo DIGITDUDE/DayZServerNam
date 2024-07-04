@@ -1,5 +1,5 @@
-void custominit(){
-class Mission : MissionServer{
+Modded class CustomMission{
+
 void SpawnObject( string type, vector position)
 {
 auto obj = GetGame().CreateObject( type, position );
@@ -19,5 +19,6 @@ void SpawnAnimal(string anmClass , Vector pos)
     m_SpawnedZombies.Insert(AIanm);
                         //  SpawnObject(zmbClass , pos);
 }
-};
+
+
 };

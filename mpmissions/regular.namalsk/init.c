@@ -120,47 +120,36 @@ class CustomMission: MissionServer
 	// Start of quest init
 	override void Expansion_OnQuestStart(ExpansionQuest quest){
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
-        switch(questConfig.GetID()){
+        switch(questConfig.GetID())
+		{
                 case 1011:
                 {
 					SpawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
-						/*
-                        vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
-                        string zmbClass = "Animal_HMG_Bear_Cocaine_T0";
-                        EntityAI AIzmb = GetGame().CreateObject( zmbClass, pos, false, true );
-                        ref AnimalBase Bszmb;
-                        Class.CastTo(Bszmb,AIzmb);
-                        // Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
-                         m_SpawnedZombies.Insert(AIzmb);
-                        //  SpawnObject(zmbClass , pos);
-						*/
                 }
-        break;
-    }
-}
+        	break;
+    	}
+	}
 
-void SpawnObject( string type, vector position)
-{
-auto obj = GetGame().CreateObject( type, position );
-obj.SetPosition( position );
-}
+	void SpawnObject( string type, vector position)
+	{
+		auto obj = GetGame().CreateObject( type, position );
+		obj.SetPosition( position );
+	}
 
-void SpawnAnimal(string anmClass , vector anmpos)
-{
-	ref array<EntityAI> m_SpawnedAnimals = new array<EntityAI>;
-    //vector pos = SnapToGround(Vector(5513.33,117.502,8141.14));
-    //string zmbClass = "Animal_HMG_Bear_Cocaine_T0";
+	void SpawnAnimal(string anmClass , vector anmpos)
+	{
+		ref array<EntityAI> m_SpawnedAnimals = new array<EntityAI>;
+		vector pos = SnapToGround(anmpos);
+		EntityAI AIanm = GetGame().CreateObject( anmClass, pos, false, true );
+		ref AnimalBase Bsanm;
+		Class.CastTo(Bsanm,AIanm);
+							// Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
+		m_SpawnedAnimals.Insert(AIanm);
+							//  SpawnObject(zmbClass , pos);
+	}
 
-	vector pos = SnapToGround(anmpos);
-    EntityAI AIanm = GetGame().CreateObject( anmClass, pos, false, true );
-    ref AnimalBase Bsanm;
-    Class.CastTo(Bsanm,AIanm);
-                        // Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
-    m_SpawnedAnimals.Insert(AIanm);
-                        //  SpawnObject(zmbClass , pos);
-}
-
-void spawnZombie(string zmbClass , vector zmbpos){
+	void spawnZombie(string zmbClass , vector zmbpos)
+	{
 	ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
     vector pos = SnapToGround(zmbpos);
     EntityAI AIzmb = GetGame().CreateObject( zmbClass, pos, false, true );
@@ -169,7 +158,7 @@ void spawnZombie(string zmbClass , vector zmbpos){
     // Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
     m_SpawnedZombies.Insert(AIzmb);
     //  SpawnObject(zmbClass , pos);
-                }
+    }
 
 };
   
