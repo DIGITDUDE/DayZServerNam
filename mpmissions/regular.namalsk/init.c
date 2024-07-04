@@ -119,7 +119,6 @@ class CustomMission: MissionServer
 	}
 	// Start of quest init
 	override void Expansion_OnQuestStart(ExpansionQuest quest){
-        ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
         switch(questConfig.GetID()){
                 case 1011:
