@@ -1,4 +1,4 @@
-#include "$CurrentDir:mpmissions\regular.namalskCustomScripts\CustomMission.c"
+#include "$CurrentDir:\\mpmissions\\regular.namalsk\\CustomScripts\\CustomMission.c";
 
 void main()
 {
