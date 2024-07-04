@@ -134,7 +134,8 @@ class CustomMission: MissionServer
 					{
 						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
 					}
-										
+					
+					
                 }
         	break;
     	}
@@ -179,7 +180,7 @@ class CustomMission: MissionServer
         
         for (int i = 0; i < objects.Count(); i++)
         {
-            if (objects.Get(i).IsInherited(ZombieBase))
+            if (objects.Get(i).IsInherited(ZombieBase)&& !objects.IsDead)
             {
                 zombieCount++;
             }
@@ -187,6 +188,25 @@ class CustomMission: MissionServer
         
         return zombieCount;
     }
+void ClearZombies(vector position, float radius)
+{
+    array<Object> objects = new array<Object>;
+    array<CargoBase> proxyCargos = new array<CargoBase>;
+    GetGame().GetObjectsAtPosition(position, radius, objects, proxyCargos);
+    
+    int zombieCount = 0;
+    
+    for (int i = 0; i < objects.Count(); i++)
+    {
+        if (objects.Get(i).IsInherited(ZombieBase) && objects.IsDead)
+        {
+            GetGame().ObjectDelete(objects.Get(i));
+            zombieCount++;
+        }
+    }
+    
+    Print("Number of zombies cleared from the area: " + zombieCount);
+}
 
 };
   
