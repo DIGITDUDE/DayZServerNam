@@ -1,4 +1,4 @@
-#include <CustomScripts/override void Expansion_OnQuestStart(Exp.c>
+#include <CustomScripts\CustomMission.c>
 void main()
 {
 	/*
