@@ -17,12 +17,13 @@ override void Expansion_OnQuestStart(ExpansionQuest quest){
           //  SpawnObject(zmbClass , pos);
                 }
         break;
-    };
+    }
+
+}
 
 };
 
-};
-void SpawnObject( string type, vector position,)
+void SpawnObject( string type, vector position)
 {
 auto obj = GetGame().CreateObject( type, position );
 obj.SetPosition( position );
