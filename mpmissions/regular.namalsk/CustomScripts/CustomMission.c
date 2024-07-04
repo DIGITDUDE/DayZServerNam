@@ -18,7 +18,7 @@ override void Expansion_OnQuestStart(ExpansionQuest quest){
         break;
     }
 
-}
+};
 
 };
 
