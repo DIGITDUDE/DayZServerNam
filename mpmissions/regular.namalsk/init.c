@@ -126,12 +126,11 @@ class CustomMission: MissionServer
                 {
 					SpawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
                 }
+			break;
 				case 2000:
                 {
-					int zombiecount = CountZombies(4078.74, 70.3225, 9233.25 , 50);
-					int i = zombiecount;
-								
-					for ( i < 10, i++)
+					int zombiecount = CountZombies(Vector(4078.74, 70.3225, 9233.25), 50)
+					for (int i = zombiecount; i < 10; i++)
 					{
 						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
 					}
@@ -160,7 +159,7 @@ class CustomMission: MissionServer
 							//  SpawnObject(zmbClass , pos);
 	}
 
-	void spawnZombie(string zmbClass , vector zmbpos)
+	void SpawnZombie(string zmbClass , vector zmbpos)
 	{
 	ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
     vector pos = SnapToGround(zmbpos);
