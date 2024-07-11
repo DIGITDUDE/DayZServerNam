@@ -119,7 +119,8 @@ class CustomMission: MissionServer
 		player.GetStatEnergy().Set( 1100 );
 	}
 	// Start of quest init
-	override void Expansion_OnQuestStart(ExpansionQuest quest){
+	override void Expansion_OnQuestStart(ExpansionQuest quest)
+	{
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
         PlayerBase player = quest.GetPlayer();
@@ -146,10 +147,10 @@ class CustomMission: MissionServer
 					array<vector> teleportPositions1 = {"2000.94 2.01239 9672.32"};
     				vector ori1 = player.GetOrientation();
    					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
+				}
 				break;
-    	}
-	}
-	
+		}
+	};
 
 	void SpawnObject( string type, vector position)
 	{
