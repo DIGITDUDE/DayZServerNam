@@ -146,9 +146,8 @@ class CustomMission: MissionServer
 					EntityAI itemIn;
 					EntityAI itemEnt;
 					ItemBase itemBs;
-
+		
 					
-					PlayerBase player = quest.GetPlayer();
 					itemEnt = player.GetInventory().CreateInInventory("Zombie_Samplekit");
 								SetRandomHealth(itemEnt);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Syringe_Empty");
