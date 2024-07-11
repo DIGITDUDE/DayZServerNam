@@ -160,7 +160,7 @@ class CustomMission: MissionServer
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
 								SetRandomHealth(itemIn);												
 					}
-					break;
+					
 				}
         		
 				
