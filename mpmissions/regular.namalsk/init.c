@@ -164,9 +164,8 @@ class CustomMission: MissionServer
         		break;
 				
 		}
-	};
-	override void Expansion_OnQuestCompletion(ExpansionQuest quest)
-	{
+		override void Expansion_OnQuestCompletion(ExpansionQuest quest)
+		{
 		  	ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 			auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
         	PlayerBase player = quest.GetPlayer();
@@ -182,7 +181,9 @@ class CustomMission: MissionServer
 				}
 			break;
 		}
-	}
+		}
+	};
+	
 
 	void SpawnObject( string type, vector position)
 	{
