@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3000,
+    "Type": 1,
+    "Title": "Dont ask questions",
+    "Descriptions": [
+        "Some Acquintances of mine are in need of some 'special' workwith this kit you can take zombie blood. take the blood with the syringe and put it in an empty vial. make sure you keep the sample in the case i gave you or they will get fucked",
+        "PLACEHOLDER",
+        "PLACEHOLDER"
+    ],
+    "ObjectiveText": "do what you are told",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        2000
+    ],
+    "QuestTurnInIDs": [
+        2000
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 27,
+            "ID": 2000,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

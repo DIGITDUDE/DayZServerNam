@@ -1,16 +1,35 @@
 {
     "ConfigVersion": 27,
-    "ID": 1,
+    "ID": 3002,
     "ObjectiveType": 4,
-    "ObjectiveText": "Collect 5 apples",
+    "ObjectiveText": "Collect 10 High Grade Bullets",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
+           
             "Amount": 5,
-            "ClassName": "Apple",
+            "ClassName": "ArrakisAmmo_HG_Currency_1",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
+        },
+        {        
+         
+            "Amount": 2,
+            "ClassName": "ArrakisAmmo_HG_Currency_5",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+         
+
+        },
+        {        
+         
+            "Amount": 1,
+            "ClassName": "ArrakisAmmo_HG_Currency_10",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+         
+
         }
     ],
     "ShowDistance": 1,
