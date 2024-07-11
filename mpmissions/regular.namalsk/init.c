@@ -141,6 +141,7 @@ class CustomMission: MissionServer
 						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
 					}								
                 }
+				break;
 				case 3100:
 				{
 					EntityAI itemIn;
@@ -159,8 +160,9 @@ class CustomMission: MissionServer
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
 								SetRandomHealth(itemIn);												
 					}
+					break;
 				}
-        		break;
+        		
 				
 		}
 		override void Expansion_OnQuestCompletion(ExpansionQuest quest)
