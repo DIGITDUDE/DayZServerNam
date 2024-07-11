@@ -122,7 +122,9 @@ class CustomMission: MissionServer
 	override void Expansion_OnQuestStart(ExpansionQuest quest){
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
-        
+        PlayerBase player = quest.GetPlayer();
+		 if (!player)
+            return;
         switch(questConfig.GetID())
 		{
                 case 1011:
@@ -141,22 +143,13 @@ class CustomMission: MissionServer
         		break;
 				case 3100:
 				{
-					array<vector> playerteleport = {"2000.94 2.01239 9672.32"};
-					teleport(playerteleport)
-				}
+					array<vector> teleportPositions1 = {"2000.94 2.01239 9672.32"};
+    				vector ori1 = player.GetOrientation();
+   					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
 				break;
     	}
 	}
-
-	void teleport(array<vector> Tpos)
-	{
-		PlayerBase player = quest.GetPlayer();
-		 if (!player)
-            return;
-		array<vector> teleportPositions1 = Tpos;
-    	vector ori1 = player.GetOrientation();
-   		DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
-	}
+	
 
 	void SpawnObject( string type, vector position)
 	{
