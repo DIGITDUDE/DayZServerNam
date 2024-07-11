@@ -139,7 +139,8 @@ class CustomMission: MissionServer
         		break;
 				case 3100:
 				{
-					teleport("2000.94 2.01239 9672.32")
+					array<vector> playerteleport = {"2000.94 2.01239 9672.32"};
+					teleport(playerteleport)
 				}
 				break;
     	}
