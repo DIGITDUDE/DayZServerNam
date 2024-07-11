@@ -255,7 +255,7 @@ void ClearZombies(vector position, float radius)
     Print("Number of zombies cleared from the area: " + zombieCount);
 }
 
-};
+
   
 Mission CreateCustomMission(string path)
 {
