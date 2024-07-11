@@ -27,6 +27,7 @@ void main()
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
+	
 };
 
 class CustomMission: MissionServer
@@ -193,9 +194,9 @@ class CustomMission: MissionServer
              if (objects.Get(i).IsInherited(ZombieBase))
         {
             ZombieBase zombie = ZombieBase.Cast(objects.Get(i));
-            if (zombie && !zombie.IsDead())
+            if (zombie && zombie.IsAlive())
             {
-                aliveZombieCount++;
+                zombieCount++;
             }
         }
         }
@@ -212,7 +213,7 @@ void ClearZombies(vector position, float radius)
     
     for (int i = 0; i < objects.Count(); i++)
     {
-        if (objects.Get(i).IsInherited(ZombieBase) && objects.IsDead)
+        if (objects.Get(i).IsInherited(ZombieBase))
         {
             GetGame().ObjectDelete(objects.Get(i));
             zombieCount++;

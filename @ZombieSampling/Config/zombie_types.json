@@ -1,0 +1,5 @@
+{
+    "normalZombies": ["ZmbM_ruSoldier_normal_Woodland1", "ZmbM_CitizenASkinny_Brown", "ZmbF_JournalistNormal_White"],
+    "mutatedZombies": ["ZmbM_PatrolNormal_PautRev", "ZmbF_PatrolNormal_Autumn"],
+    "superZombies": ["ZmbM_SoldierNormal_Woodland", "ZmbF_DoctorSkinny_Grey"]
+  }
