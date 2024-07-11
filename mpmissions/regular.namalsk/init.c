@@ -122,7 +122,7 @@ class CustomMission: MissionServer
 	override void Expansion_OnQuestStart(ExpansionQuest quest){
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
-        
+        PlayerBase player = quest.GetPlayer();
         if (!player)
             return;
 
