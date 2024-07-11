@@ -134,12 +134,22 @@ class CustomMission: MissionServer
 					for (int i = zombiecount; i < 10; i++)
 					{
 						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
-					}
-					
-					
+					}								
                 }
-        	break;
+        		break;
+				case 3100:
+				{
+					teleport("2000.94", "2.01239"," 9672.32")
+				}
+				break;
     	}
+	}
+
+	void teleport(array<vector> Tpos)
+	{
+		array<vector> teleportPositions1 = {Tpos};
+    	vector ori1 = player.GetOrientation();
+   		DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
 	}
 
 	void SpawnObject( string type, vector position)
@@ -162,14 +172,14 @@ class CustomMission: MissionServer
 
 	void SpawnZombie(string zmbClass , vector zmbpos)
 	{
-	ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
-    vector pos = SnapToGround(zmbpos);
-    EntityAI AIzmb = GetGame().CreateObject( zmbClass, pos, false, true );
-    ref ZombieBase Bszmb;
-    Class.CastTo(Bszmb,AIzmb);
-    // Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
-    m_SpawnedZombies.Insert(AIzmb);
-    //  SpawnObject(zmbClass , pos);
+		ref array<EntityAI> m_SpawnedZombies = new array<EntityAI>;
+    	vector pos = SnapToGround(zmbpos);
+    	EntityAI AIzmb = GetGame().CreateObject( zmbClass, pos, false, true );
+   		ref ZombieBase Bszmb;
+    	Class.CastTo(Bszmb,AIzmb);
+    		// Bszmb.AttachEventHandle(PossibleLootDrops,PossibleWeaponDrops,dropChance); for later use
+    	m_SpawnedZombies.Insert(AIzmb);
+    		//  SpawnObject(zmbClass , pos);
     }
 
 	int CountZombies(vector position, float radius)
