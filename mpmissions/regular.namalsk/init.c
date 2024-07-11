@@ -122,10 +122,10 @@ class CustomMission: MissionServer
 	override void Expansion_OnQuestStart(ExpansionQuest quest){
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
-        PlayerBase player = quest.GetPlayer();
+        
         if (!player)
             return;
-			
+
         switch(questConfig.GetID())
 		{
                 case 1011:
@@ -153,6 +153,7 @@ class CustomMission: MissionServer
 
 	void teleport(array<vector> Tpos)
 	{
+		PlayerBase player = quest.GetPlayer();
 		array<vector> teleportPositions1 = Tpos;
     	vector ori1 = player.GetOrientation();
    		DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
