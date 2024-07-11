@@ -141,6 +141,26 @@ class CustomMission: MissionServer
 						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
 					}								
                 }
+				case 3100:
+				{
+					EntityAI itemIn;
+					EntityAI itemEnt;
+					ItemBase itemBs;
+
+					
+					PlayerBase player = quest.GetPlayer();
+					itemEnt = player.GetInventory().CreateInInventory("Zombie_Samplekit");
+								SetRandomHealth(itemEnt);
+					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Syringe_Empty");
+								SetRandomHealth(itemIn);
+					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
+								SetRandomHealth(itemIn);
+					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
+								SetRandomHealth(itemIn);
+					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
+								SetRandomHealth(itemIn);												
+					}
+				}
         		break;
 				
 		}
