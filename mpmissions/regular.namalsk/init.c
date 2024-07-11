@@ -202,7 +202,7 @@ void ClearZombies(vector position, float radius)
     
     for (int i = 0; i < objects.Count(); i++)
     {
-        if (objects.Get(i).IsInherited(ZombieBase) && objects.IsDead)
+        if (objects.Get(i).IsInherited(ZombieBase))
         {
             GetGame().ObjectDelete(objects.Get(i));
             zombieCount++;
