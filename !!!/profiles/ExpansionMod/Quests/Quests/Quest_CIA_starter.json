@@ -4,7 +4,7 @@
     "Type": 1,
     "Title": "Dont ask questions",
     "Descriptions": [
-        "Some Acquintances of mine are in need of some 'special' workwith this kit you can take zombie blood. take the blood with the syringe and put it in an empty vial. make sure you keep the sample in the case i gave you or they will get fucked",
+        "Some Acquintances of mine are in need of some 'special' work with this kit you can take zombie blood. take the blood with the syringe and put it in an empty vial. make sure you keep the sample in the case i gave you or they will get fucked",
         "PLACEHOLDER",
         "PLACEHOLDER"
     ],
@@ -17,7 +17,24 @@
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [],
+    "QuestItems": [
+        {
+            "ClassName": "Zombie_samplekit",
+            "Amount":1
+            
+        },
+        {
+            "ClassName": "Zombie_Blood_Vial_Empty",
+            "Amount":3
+            
+        },
+        {
+            "ClassName": "Zombie_Blood_Syringe_Empty",
+            "Amount":1
+            
+        }
+        
+    ],
     "Rewards": [],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
@@ -25,17 +42,17 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2000
+        3001
     ],
     "QuestTurnInIDs": [
-        2000
+        3002
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 2000,
-            "ObjectiveType": 2
+            "ID": 3001,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
@@ -45,7 +62,7 @@
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
-    "DeleteQuestItems": 1,
+    "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},

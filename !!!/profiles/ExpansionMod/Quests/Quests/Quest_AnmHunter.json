@@ -22,10 +22,12 @@
             {
             "ClassName": "Ruger1022_Clean",
             "Amount":1,
-            "Attachments": [
-                "HuntingOptic",
-                "Mag_Ruger1022_10rnd"
-                ]
+            
+            },
+            {
+                "ClassName": "Mag_Ruger1022_10rnd",
+                "Amount":1,                
+                 
             }
         ],
     "Rewards": [
