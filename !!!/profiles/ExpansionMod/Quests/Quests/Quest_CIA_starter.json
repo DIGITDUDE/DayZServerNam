@@ -18,21 +18,7 @@
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [
-        {
-            "ClassName": "Zombie_samplekit",
-            "Amount":1
-            
-        },
-        {
-            "ClassName": "Zombie_Blood_Vial_Empty",
-            "Amount":3
-            
-        },
-        {
-            "ClassName": "Zombie_Blood_Syringe_Empty",
-            "Amount":1
-            
-        }
+       
         
     ],
     "Rewards": [],

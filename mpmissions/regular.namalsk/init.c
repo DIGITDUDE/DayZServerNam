@@ -127,12 +127,12 @@ class CustomMission: MissionServer
 		 if (!player)
             return;
         switch(questConfig.GetID())
-		{
+			{
                 case 1011:
                 {
 					SpawnAnimal("Animal_HMG_Bear_Cocaine_T0", Vector(5513.33,117.502,8141.14))
                 }
-			break;
+				break;
 				case 2000:
                 {
 					int zombiecount = CountZombies(Vector(4078.74, 70.3225, 9233.25), 50)
@@ -142,7 +142,7 @@ class CustomMission: MissionServer
 					}								
                 }
 				break;
-				case 3100:
+				case 3000:
 				{
 					EntityAI itemIn;
 					EntityAI itemEnt;
@@ -159,12 +159,13 @@ class CustomMission: MissionServer
 								SetRandomHealth(itemIn);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
 								SetRandomHealth(itemIn);												
-					}
-					
 				}
-        		
+					
+			}
+        
 				
 		}
+
 		override void Expansion_OnQuestCompletion(ExpansionQuest quest)
 		{
 		  	ExpansionQuestConfig questConfig = quest.GetQuestConfig();
