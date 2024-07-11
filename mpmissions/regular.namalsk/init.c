@@ -148,7 +148,7 @@ class CustomMission: MissionServer
 
 	void teleport(array<vector> Tpos)
 	{
-		array<vector> teleportPositions1 = {Tpos};
+		array<vector> teleportPositions1 = Tpos;
     	vector ori1 = player.GetOrientation();
    		DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
 	}
