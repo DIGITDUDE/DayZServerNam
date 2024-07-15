@@ -1,13 +1,12 @@
 {
     "ConfigVersion": 27,
-    "ID": 3002,
-    "ObjectiveType": 4,
-    "ObjectiveText": "pay one Punched Card",
+    "ID": 1,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the punchcard to Maverick",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-           
             "Amount": 1,
             "ClassName": "PunchedCard",
             "QuantityPercent": -1,
@@ -16,5 +15,6 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 0
+    "MaxDistance": 20.0,
+    "MarkerName": "Talk to Steve"
 }

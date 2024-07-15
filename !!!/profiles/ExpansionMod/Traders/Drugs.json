@@ -22,7 +22,8 @@
     "DisplayCurrencyName": "Bullets",
     "Categories": [
         "DrugsPlus:2",
-        "CP_Trader_CannabisPlus:2"
+        "CP_Trader_CannabisPlus:2",
+        "SpecialItems:1"
     ],
     "Items": {
          "CP_Bagger":1,
