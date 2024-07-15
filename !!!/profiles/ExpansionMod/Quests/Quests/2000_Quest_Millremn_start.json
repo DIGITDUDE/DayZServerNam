@@ -5,10 +5,10 @@
     "Title": "My Military buddies",
     "Descriptions": [
         "Ah comrad, for me peters word is enough but if you want to do business here you have to convince the other guys. not far from here there Is militarycamp, go clear out the mutants there",
-        "PLACEHOLDER",
+        "if you want to trade here proof you worth",
         "PLACEHOLDER"
     ],
-    "ObjectiveText": "talk to his old army buddies",
+    "ObjectiveText": "clear out the military camp",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,

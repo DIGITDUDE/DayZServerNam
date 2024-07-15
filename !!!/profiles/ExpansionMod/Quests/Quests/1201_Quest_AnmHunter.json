@@ -9,21 +9,24 @@
         "Well done, now go get yourself a well deserved diner"
     ],
     "ObjectiveText": "Hunt a Deer",
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems":[
-        {
+         {   
             "ClassName": "Ruger1022_Clean",
-            "Amount":1,
-            "Attachments": [
-                "HuntingOptic",
-                "Mag_Ruger1022_10rnd"
-                ]
+            "Amount":1
+            
+            },
+            {
+                "ClassName": "Mag_Ruger1022_10rnd",
+                "Amount":1                
+                 
             }
     ],
     "Rewards": [
