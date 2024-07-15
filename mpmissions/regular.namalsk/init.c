@@ -168,19 +168,7 @@ class CustomMission: MissionServer
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
 								SetFullHealth(itemIn);												
 				}
-				break;
-				case 3001:
-				{
-					itemEnt = player.GetInventory().FindAttachmentByName("Zombie_Samplekit");
-					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Mutated");
-								SetFullHealth(itemIn);
-					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Mutated");
-								SetFullHealth(itemIn);
-					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Mutated");
-								SetFullHealth(itemIn);							
-
-				}
-					
+							
 			}      
 				
 		}

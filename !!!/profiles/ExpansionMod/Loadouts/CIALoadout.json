@@ -11,7 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "USMCJacket_Desert",
+                    "ClassName": "NCE_M65_Jacket_White",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -30,7 +30,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "USMCJacket_Woodland",
+                    "ClassName": "NCE_M65_Jacket_CTRG_Arctic",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -54,7 +54,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "USMCPants_Desert",
+                    "ClassName": "NCE_M65_Pants_CTRG_Arctic",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -73,7 +73,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "USMCPants_Woodland",
+                    "ClassName": "NCE_Thermal_Pants_White",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -97,83 +97,7 @@
             "SlotName": "Feet",
             "Items": [
                 {
-                    "ClassName": "CombatBoots_Beige",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "CombatBoots_Black",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "CombatBoots_Brown",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "CombatBoots_Green",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "CombatBoots_Grey",
+                    "ClassName": "MilitaryBoots_Black",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -191,14 +115,15 @@
                     "ConstructionPartsBuilt": [],
                     "Sets": []
                 }
+                
             ]
         },
         {
             "SlotName": "Back",
             "Items": [
                 {
-                    "ClassName": "CoyoteBag_Brown",
-                    "Chance": 0.6000000238418579,
+                    "ClassName": "dzn_coyote_bag_white",
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -269,8 +194,8 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "CoyoteBag_Green",
-                    "Chance": 1.0,
+                    "ClassName": "dzn_assaultbag_winter",
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -346,7 +271,7 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "PlateCarrierVest",
+                    "ClassName": "PlateCarrierVest_Black",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -364,7 +289,7 @@
                             "SlotName": "",
                             "Items": [
                                 {
-                                    "ClassName": "PlateCarrierPouches",
+                                    "ClassName": "PlateCarrierPouches_Black",
                                     "Chance": 0.800000011920929,
                                     "Quantity": {
                                         "Min": 0.0,
@@ -377,7 +302,7 @@
                                     "Sets": []
                                 },
                                 {
-                                    "ClassName": "PlateCarrierHolster",
+                                    "ClassName": "PlateCarrierHolster_Black",
                                     "Chance": 0.5,
                                     "Quantity": {
                                         "Min": 0.0,
@@ -395,52 +320,15 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
-                },
-                {
-                    "ClassName": "HighCapacityVest_Olive",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
                 }
+                
             ]
         },
         {
             "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "BallisticHelmet_Black",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "BallisticHelmet_Green",
+                    "ClassName": "dzn_ballistichelmet_white",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -563,25 +451,6 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
-                },
-                {
-                    "ClassName": "TacticalGloves_Green",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
                 }
             ]
         },
@@ -589,7 +458,7 @@
             "SlotName": "Hips",
             "Items": [
                 {
-                    "ClassName": "MilitaryBelt",
+                    "ClassName": "MassMolleBeltSnow",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
