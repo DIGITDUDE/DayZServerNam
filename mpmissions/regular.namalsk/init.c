@@ -130,6 +130,9 @@ class CustomMission: MissionServer
 	// Start of quest init
 	override void Expansion_OnQuestStart(ExpansionQuest quest)
 	{
+		EntityAI itemIn;
+		EntityAI itemEnt;
+		ItemBase itemBs;
         ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 		auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
         PlayerBase player = quest.GetPlayer();
@@ -153,11 +156,7 @@ class CustomMission: MissionServer
 				break;
 				case 3000:
 				{
-					EntityAI itemIn;
-					EntityAI itemEnt;
-					ItemBase itemBs;
-		
-					
+								
 					itemEnt = player.GetInventory().CreateInInventory("Zombie_Samplekit");
 								SetfullHealth(itemEnt);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Syringe_Empty");
@@ -172,10 +171,6 @@ class CustomMission: MissionServer
 				break;
 				case 3001:
 				{
-					EntityAI itemIn;
-					EntityAI itemEnt;
-					ItemBase itemBs;
-
 					itemEnt = player.GetInventory().FindAttachmentByName("Zombie_Samplekit");
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Mutated");
 								SetFullHealth(itemIn);
