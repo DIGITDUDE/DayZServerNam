@@ -3,14 +3,14 @@
     "ID": 3001,
     "ClassName": "ExpansionQuestNPCAIMirek",
     "Position": [
-        2421.8,
-        14.6295,
-        5464.39
+        2420.45, 
+        14.6711, 
+        5461.23
     ],
     "Orientation": [
-        -95.1487,
-        0.0,
-        0.0
+        -34.086, 
+        -0,
+         0
     ],
     "NPCName": "Jakal",
     "DefaultNPCText": "Hmm?",

@@ -33,13 +33,18 @@
         {
             "ConfigVersion": 27,
             "ID": 3001,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 3001,
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [3000],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
