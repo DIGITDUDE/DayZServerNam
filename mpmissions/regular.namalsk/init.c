@@ -158,7 +158,7 @@ class CustomMission: MissionServer
 				{
 								
 					itemEnt = player.GetInventory().CreateInInventory("Zombie_Samplekit");
-								SetfullHealth(itemEnt);
+								SetFullHealth(itemEnt);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Syringe_Empty");
 								SetFullHealth(itemIn);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
