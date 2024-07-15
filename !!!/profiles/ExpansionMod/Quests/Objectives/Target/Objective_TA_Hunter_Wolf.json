@@ -1,0 +1,35 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1203,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 3 Wolfs",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [],
+    "MaxDistance": 150.0,
+    "MinDistance": -1.0,
+    "Amount": 3,
+    "ClassNames": [
+      "Animal_DH_Wolf_M_70lb",
+      "Animal_DH_Wolf_M_80lb",
+      "Animal_DH_Wolf_M_90lb",
+      "Animal_DH_Wolf_M_100lb",
+      "Animal_DH_Wolf_M_110lb",
+      "Animal_DH_Wolf_M_120lb",
+      "Animal_DH_Wolf_M_130lb",
+      "Animal_DH_Wolf_M_140lb",
+      "Animal_DH_Wolf_M_150lb",
+      "Animal_DH_Wolf_F_60lb",
+      "Animal_DH_Wolf_F_70lb",
+      "Animal_DH_Wolf_F_80lb",
+      "Animal_DH_Wolf_F_90lb",
+      "Animal_DH_Wolf_F_100lb"
+		
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

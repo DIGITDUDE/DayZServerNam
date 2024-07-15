@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1202,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 1 Boar",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [],
+    "MaxDistance": 150.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_DH_Boar_160lb",
+		"Animal_DH_Boar_170lb",
+		"Animal_DH_Boar_180lb",
+		"Animal_DH_Boar_190lb",
+		"Animal_DH_Boar_200lb",
+		"Animal_DH_Boar_210lb",
+		"Animal_DH_Boar_220lb"
+		
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
