@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "CIA trading zone",
+    "Position": [
+        2000.39, 
+        2.0125, 
+        9676.17
+    ],
+    "Radius": 500.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}

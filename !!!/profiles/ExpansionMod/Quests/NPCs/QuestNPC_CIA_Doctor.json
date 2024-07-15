@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 5000,
+    "ClassName": "ExpansionQuestNPCAIMirek",
+    "Position": [
+        1995.07,
+        2.44982, 
+        9679.71
+    ],
+    "Orientation": [
+        -115.58,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Joseph",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "Drugsdealer",
+    "NPCType": 2,
+    "Active": 1
+}

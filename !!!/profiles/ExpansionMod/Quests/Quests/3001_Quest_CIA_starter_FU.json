@@ -1,10 +1,10 @@
 {
     "ConfigVersion": 22,
-    "ID": 3000,
+    "ID": 3001,
     "Type": 1,
-    "Title": "Dont ask questions",
+    "Title": "speak to the Doctor",
     "Descriptions": [
-        "Some Acquintances of mine are in need of some 'special' work with this kit you can take zombie blood. take the blood with the syringe and put it in an empty vial. make sure you keep the sample in the case i gave you or they will get fucked",
+        "give the Samples to the Doctor",
         "PLACEHOLDER",
         "PLACEHOLDER"
     ],
@@ -17,21 +17,16 @@
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [
-       
-        
-    ],
+    "QuestItems": [],
     "Rewards": [],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [
-        3002
-    ],
+    "QuestGiverIDs": [],
     "QuestTurnInIDs": [
-        3002
+        5000
     ],
     "IsAchievement": 0,
     "Objectives": [
@@ -44,7 +39,7 @@
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [3000],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
@@ -52,6 +47,6 @@
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

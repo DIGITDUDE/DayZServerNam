@@ -60,6 +60,15 @@ class CustomMission: MissionServer
 			itemEnt.SetHealth01( "", "", rndHlt );
 		}
 	}
+	void SetFullHealth(EntityAI itemEnt)
+	{
+		if (itemEnt)
+		{
+			
+			itemEnt.SetHealth01( "", "", 1 );
+		}
+	}
+
 
 	override void StartingEquipSetup( PlayerBase player, bool clothesChosen )
 	{
@@ -150,19 +159,34 @@ class CustomMission: MissionServer
 		
 					
 					itemEnt = player.GetInventory().CreateInInventory("Zombie_Samplekit");
-								SetRandomHealth(itemEnt);
+								SetfullHealth(itemEnt);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Syringe_Empty");
-								SetRandomHealth(itemIn);
+								SetFullHealth(itemIn);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
-								SetRandomHealth(itemIn);
+								SetFullHealth(itemIn);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
-								SetRandomHealth(itemIn);
+								SetFullHealth(itemIn);
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
-								SetRandomHealth(itemIn);												
+								SetFullHealth(itemIn);												
+				}
+				break;
+				case 3001:
+				{
+					EntityAI itemIn;
+					EntityAI itemEnt;
+					ItemBase itemBs;
+
+					itemEnt = player.GetInventory().FindAttachmentByName("Zombie_Samplekit");
+					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Mutated");
+								SetFullHealth(itemIn);
+					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Mutated");
+								SetFullHealth(itemIn);
+					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Mutated");
+								SetFullHealth(itemIn);							
+
 				}
 					
-			}
-        
+			}      
 				
 		}
 
@@ -176,6 +200,7 @@ class CustomMission: MissionServer
         switch(questConfig.GetID())
 		{
 			case 3100:
+			case 3000:
 				{
 					array<vector> teleportPositions1 = {"2000.94 2.01239 9672.32"};
     				vector ori1 = player.GetOrientation();
