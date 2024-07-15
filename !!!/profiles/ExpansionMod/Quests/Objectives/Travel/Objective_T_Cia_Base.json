@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 3001,
+    "ObjectiveType": 3,
+    "ObjectiveText": "deliver the samples",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2000.94, 
+        2.01239, 
+        9672.32
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Deliver the samples",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

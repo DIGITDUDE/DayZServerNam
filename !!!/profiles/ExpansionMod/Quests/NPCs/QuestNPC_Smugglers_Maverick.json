@@ -3,14 +3,14 @@
     "ID": 3002,
     "ClassName": "ExpansionQuestNPCAIMirek",
     "Position": [
-        2421.8,
-        14.6295,
-        5464.39
+        2416.51, 
+        15.5134, 
+        5498.26
     ],
     "Orientation": [
-        -95.1487,
-        0.0,
-        0.0
+        59.2857, 
+        0, 
+        -0
     ],
     "NPCName": "Maverick",
     "DefaultNPCText": "Hmm?",

@@ -4,12 +4,12 @@
     "Type": 1,
     "Title": "Dont ask questions",
     "Descriptions": [
-        "Some Acquintances of mine are in need of some 'special' work with this kit you can take zombie blood. take the blood with the syringe and put it in an empty vial. make sure you keep the sample in the case i gave you or they will get fucked",
+        "Some Acquintances of mine are in need of some 'special' work with this kit you can take zombie blood. take the blood with the syringe and put it in an empty vial. make sure you keep the sample in the case i gave you or they will get fucked.when you have the samples maverick will take you to deliver them, make sure you have the punchcard i gave you with you otherwise maverick wont fly",
         "PLACEHOLDER",
         "PLACEHOLDER"
     ],
     "ObjectiveText": "do what you are told",
-    "FollowUpQuest": 3001,
+    "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -25,10 +25,10 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        3002
+        3001
     ],
     "QuestTurnInIDs": [
-        3002
+        5000
     ],
     "IsAchievement": 0,
     "Objectives": [
@@ -36,6 +36,11 @@
             "ConfigVersion": 27,
             "ID": 3001,
             "ObjectiveType": 4
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 3001,
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
