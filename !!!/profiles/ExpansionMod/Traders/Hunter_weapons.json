@@ -14,7 +14,13 @@
   "Categories": [
     "Hunter_rifles:1",
     "Hunter_shotguns:1",
-    "Crossbows:1"
+    "Crossbows:1",
+    "Magazines",
+    "Muzzles",
+    "Bayonets",
+    "Optics",
+    "Buttstocks",
+    "Handguards"
   ],
   "Items": {
     "ammobox_00buck_10rnd":1,
