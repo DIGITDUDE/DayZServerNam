@@ -32,6 +32,7 @@ void main()
 
 class CustomMission: MissionServer
 {
+	
 	override void OnInit()
 	{
 		super.OnInit();
@@ -168,7 +169,14 @@ class CustomMission: MissionServer
 					itemIn = itemEnt.GetInventory().CreateAttachment("Zombie_Blood_Vial_Empty");
 								SetFullHealth(itemIn);												
 				}
-							
+				break;
+				case 5002;
+				{
+				itemEnt = player.GetInventory().CreateInInventory("PunchedCard");
+								SetFullHealth(itemEnt);
+				
+				SpawnZombie("PITSTOP_Monsters_Syther", Vector(7016.54, 40.2125, 5787.3))		
+				}	
 			}      
 				
 		}
@@ -190,6 +198,12 @@ class CustomMission: MissionServer
    					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
 				}
 			break;
+			case 5001:
+				{
+					array<vector> teleportPositions2 = {"7095.9, 80.5806, 6107.36"};
+    				vector ori2 = player.GetOrientation();
+   					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions2.GetRandomElement(), ori2);
+				}
 		}
 		}
 	};

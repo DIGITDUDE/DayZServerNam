@@ -1,49 +1,37 @@
 {
     "ConfigVersion": 22,
-    "ID": 1203,
+    "ID": 5001,
     "Type": 1,
-    "Title": "Living of the Land",
+    "Title": "Hunting Mutants",
     "Descriptions": [
-        "the Wolf in the area are a real plague, do share and hunt some down",
-        "if you want to survive you will have to know how to hunt",
-        "Well done, now go get yourself a well deserved diner"
+        "The reason why we are here are the new type of mutants that popped up here, you already ran into a couple i believe. we have been tracking a strong one, one of my operatives is already on the ground. Maverick will fly you there and my operative will give the rest of the info",
+        "if you need some gear Donovan and Harris got you covered",
+        "Well done, Joseph will be very intrested to buy the samples"
     ],
-    "ObjectiveText": "Hunt some Wolf",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Hunt some Mutants",
+    "FollowUpQuest":5002,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 0,
+    "Autocomplete": 1,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems":[],
-    "Rewards": [
-        {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        }
-    ],
+    "Rewards": [],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [1200],
-    "QuestTurnInIDs": [
-       1200
-    ],
+    "QuestGiverIDs": [5001],
+    "QuestTurnInIDs": [],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 1203,
-            "ObjectiveType": 2
+            "ID": 5001,
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,
@@ -57,6 +45,6 @@
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }
