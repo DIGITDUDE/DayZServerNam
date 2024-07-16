@@ -148,10 +148,11 @@ class CustomMission: MissionServer
 				break;
 				case 2000:
                 {
+					array<vector> Zombiepos = {"4078.74 70.3225 9233.25","4093.89,70.5816 9241.85","4072.58 70.3224 9234.12","4090.79 70.338 9221.54","4064.34 70.4547 9204","4060.72 70.3248 9229.81","4052.09 70.3443 9212.1","4062.03 70.5616 9211.69","4066.02 70.5699 9216.58","4060.82 70.3224 9239.95"};
 					int zombiecount = CountZombies(Vector(4078.74, 70.3225, 9233.25), 50)
 					for (int i = zombiecount; i < 10; i++)
 					{
-						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(4078.74, 70.3225, 9233.25))
+						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(Zombiepos[i]))
 					}								
                 }
 				break;
@@ -180,6 +181,11 @@ class CustomMission: MissionServer
 			}      
 				
 		}
+		override bool Expansion_CanStartQuest(ExpansionQuestConfig questConfig, PlayerIdentity identity)
+	{
+		bool condition = super.Expansion_CanStartQuest(questConfig, identity);
+		return condition;
+	}
 
 		override void Expansion_OnQuestCompletion(ExpansionQuest quest)
 		{
