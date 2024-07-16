@@ -187,7 +187,7 @@ class CustomMission: MissionServer
 			EntityAI itemIn;
 			EntityAI itemEnt;
 			ItemBase itemBs;
-			
+
 		  	ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 			auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
         	PlayerBase player = quest.GetPlayer();
@@ -225,8 +225,8 @@ class CustomMission: MissionServer
 	
 	void TeleportPlayer(PlayerBase playerT , array<vector> Tpos)
 	{
-					vector oriT = player.GetOrientation();
-   					DayZPlayerSyncJunctures.ExpansionTeleport(player, Tpos.GetRandomElement(), oriT);
+					vector oriT = playerT.GetOrientation();
+   					DayZPlayerSyncJunctures.ExpansionTeleport(playerT, Tpos.GetRandomElement(), oriT);
 
 	}
 
