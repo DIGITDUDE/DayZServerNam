@@ -170,7 +170,7 @@ class CustomMission: MissionServer
 								SetFullHealth(itemIn);												
 				}
 				break;
-				case 5002;
+				case 5002:
 				{
 				itemEnt = player.GetInventory().CreateInInventory("PunchedCard");
 								SetFullHealth(itemEnt);
