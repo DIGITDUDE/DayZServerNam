@@ -152,7 +152,7 @@ class CustomMission: MissionServer
 					int zombiecount = CountZombies(Vector(4078.74, 70.3225, 9233.25), 50)
 					for (int i = zombiecount; i < 10; i++)
 					{
-						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(Zombiepos[i]))
+						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Vector(Zombiepos[i]));
 					}								
                 }
 				break;
@@ -180,13 +180,8 @@ class CustomMission: MissionServer
 				}	
 			}      
 				
-		}
-		override bool Expansion_CanStartQuest(ExpansionQuestConfig questConfig, PlayerIdentity identity)
-	{
-		bool condition = super.Expansion_CanStartQuest(questConfig, identity);
-		return condition;
 	}
-
+		
 		override void Expansion_OnQuestCompletion(ExpansionQuest quest)
 		{
 		  	ExpansionQuestConfig questConfig = quest.GetQuestConfig();
