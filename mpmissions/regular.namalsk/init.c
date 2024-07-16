@@ -200,7 +200,7 @@ class CustomMission: MissionServer
 			break;
 			case 5001:
 				{
-					array<vector> teleportPositions2 = {"7095.9, 80.5806, 6107.36"};
+					array<vector> teleportPositions2 = {"7095.9 80.5806 6107.36"};
     				vector ori2 = player.GetOrientation();
    					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions2.GetRandomElement(), ori2);
 				}
