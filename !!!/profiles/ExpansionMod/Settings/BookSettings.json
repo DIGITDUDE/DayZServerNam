@@ -252,7 +252,11 @@
                 "expansionstairkit",
                 "territoryflagkit",
                 "expansionwallkit",
-                "watchtowerkit"
+                "watchtowerkit",
+                "OP_RainCatcherKit_Blue",
+                "OP_RainCatcherKit_Green",
+                "OP_RainCatcherKit_Grey",
+                "OP_Worktable"
             ]
         },
         {
@@ -337,7 +341,9 @@
         {
             "CategoryName": "Storage",
             "Results": [
-                "woodencrate"
+                "woodencrate",
+                "Locker",
+                "WoodStorage"
             ]
         },
         {
