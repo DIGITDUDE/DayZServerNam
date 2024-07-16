@@ -205,6 +205,12 @@ class CustomMission: MissionServer
     				vector ori2 = player.GetOrientation();
    					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions2.GetRandomElement(), ori2);
 				}
+				break;
+				case 5002:
+				{
+					itemEnt = player.GetInventory().CreateInInventory("PunchedCard");
+								SetFullHealth(itemEnt);
+				}
 		}
 		}
 	};
