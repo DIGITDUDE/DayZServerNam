@@ -184,6 +184,10 @@ class CustomMission: MissionServer
 		
 		override void Expansion_OnQuestCompletion(ExpansionQuest quest)
 		{
+			EntityAI itemIn;
+			EntityAI itemEnt;
+			ItemBase itemBs;
+			
 		  	ExpansionQuestConfig questConfig = quest.GetQuestConfig();
 			auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
         	PlayerBase player = quest.GetPlayer();
