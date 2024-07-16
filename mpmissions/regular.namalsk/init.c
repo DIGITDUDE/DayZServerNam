@@ -175,7 +175,7 @@ class CustomMission: MissionServer
 				itemEnt = player.GetInventory().CreateInInventory("PunchedCard");
 								SetFullHealth(itemEnt);
 				
-				SpawnZombie("PITSTOP_Monsters_Syther", Vector(7016.54, 40.2125, 5787.3))		
+				SpawnZombie("PITSTOP_Monsters_Syther", Vector(7019.88 40.2125 5794.4))		
 				}	
 			}      
 				

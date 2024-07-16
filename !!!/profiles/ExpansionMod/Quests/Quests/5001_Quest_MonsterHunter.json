@@ -14,7 +14,7 @@
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems":[],
@@ -25,7 +25,7 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [5001],
-    "QuestTurnInIDs": [],
+    "QuestTurnInIDs": [5002],
     "IsAchievement": 0,
     "Objectives": [
         {
@@ -45,6 +45,6 @@
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 1,
+    "SuppressQuestLogOnCompetion": 0,
     "Active": 1
 }
