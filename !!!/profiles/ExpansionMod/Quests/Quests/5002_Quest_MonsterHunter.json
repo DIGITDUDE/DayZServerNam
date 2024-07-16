@@ -1,55 +1,43 @@
 {
     "ConfigVersion": 22,
-    "ID": 1203,
+    "ID": 5002,
     "Type": 1,
-    "Title": "Living of the Land",
+    "Title": "Hunting Mutants",
     "Descriptions": [
-        "the Wolf in the area are a real plague, do share and hunt some down",
-        "if you want to survive you will have to know how to hunt",
-        "Well done, now go get yourself a well deserved diner"
+        "allright we spotted a mutant at tara sawmill aproach carefully and be on your guard",
+        "",
+        "Well done, Joseph will be very intrested to buy the samples"
     ],
-    "ObjectiveText": "Hunt some Wolf",
+    "ObjectiveText": "Hunt some Mutants",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 0,
+    "Autocomplete": 1,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems":[],
-    "Rewards": [
-        {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        }
-    ],
+    "Rewards": [],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [1200],
-    "QuestTurnInIDs": [
-       1200
-    ],
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [5001],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 1203,
+            "ID": 5001,
             "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [5001],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
@@ -57,6 +45,6 @@
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

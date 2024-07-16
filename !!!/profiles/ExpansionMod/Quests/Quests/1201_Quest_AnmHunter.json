@@ -17,18 +17,7 @@
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems":[
-         {   
-            "ClassName": "Ruger1022_Clean",
-            "Amount":1
-            
-            },
-            {
-                "ClassName": "Mag_Ruger1022_10rnd",
-                "Amount":1                
-                 
-            }
-    ],
+    "QuestItems":[],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
