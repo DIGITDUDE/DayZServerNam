@@ -15,12 +15,12 @@
     "Hunter_rifles:1",
     "Hunter_shotguns:1",
     "Crossbows:1",
-    "Magazines",
-    "Muzzles",
-    "Bayonets",
-    "Optics",
-    "Buttstocks",
-    "Handguards"
+    "Magazines:1",
+    "Muzzles:1",
+    "Bayonets:1",
+    "Optics:1",
+    "Buttstocks:1",
+    "Handguards:1"
   ],
   "Items": {
     "ammobox_00buck_10rnd":1,
@@ -38,8 +38,13 @@
     "ammo_357":1,
     "ammo_762x39":1,
     "ammo_762x39tracer":1,
-    "ammo_huntingbolt":1
-
+    "ammo_huntingbolt":1,
+    "fnp45_mrdsoptic":1,
+    "expansiondeltapointoptic":1,
+    "HuntingOptic":1,
+    "Mag_Ruger1022_15Rnd":1,
+    "Mag_Ruger1022_30Rnd":1
+    
 
   }
 }
