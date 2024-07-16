@@ -20,7 +20,7 @@
     "QuestItems":[],
     "Rewards": [ 
         {
-            "ClassName": "BO_CoduraSuppressor_Black",
+            "ClassName": "BO_CorduraSuppressor_Black",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
