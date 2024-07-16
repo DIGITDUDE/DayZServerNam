@@ -194,9 +194,13 @@ class CustomMission: MissionServer
 			case 3100:
 			case 3000:
 				{
+					/*
 					array<vector> teleportPositions1 = {"2000.94 2.01239 9672.32"};
     				vector ori1 = player.GetOrientation();
    					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
+					*/
+					array<vector> teleportPositions1 = {"2000.94 2.01239 9672.32"};
+					TeleportPlayer(player ,	teleportPositions1 )
 				}
 			break;
 			case 5001:
@@ -205,10 +209,22 @@ class CustomMission: MissionServer
     				vector ori2 = player.GetOrientation();
    					DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions2.GetRandomElement(), ori2);
 				}
+				break;
+				case 5002:
+				{
+					itemEnt = player.GetInventory().CreateInInventory("PunchedCard");
+								SetFullHealth(itemEnt);
+				}
 		}
 		}
 	};
 	
+	void TeleportPlayer(PlayerBase playerT , array<vector> Tpos)
+	{
+					vector oriT = player.GetOrientation();
+   					DayZPlayerSyncJunctures.ExpansionTeleport(player, Tpos.GetRandomElement(), oriT);
+
+	}
 
 	void SpawnObject( string type, vector position)
 	{
