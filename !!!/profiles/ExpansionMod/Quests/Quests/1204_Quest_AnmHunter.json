@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 1203,
+    "ID": 1204,
     "Type": 1,
-    "Title": "Living of the Land",
+    "Title": "Bear Hunt",
     "Descriptions": [
-        "the Wolfs in the area are a real plague, do share and hunt some down",
+        "you are not a real hunter until you have shot a bear, Goodluck!",
         "if you want to survive you will have to know how to hunt",
         "Well done, now go get yourself a well deserved diner"
     ],
-    "ObjectiveText": "Hunt some Wolf",
+    "ObjectiveText": "Hunt a Bear",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -21,7 +21,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
+            "Amount": 1000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
