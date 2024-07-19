@@ -1,48 +1,40 @@
 {
     "ConfigVersion": 22,
-    "ID": 1203,
+    "ID": 2001,
     "Type": 1,
-    "Title": "Living of the Land",
+    "Title": "Clearing Ground",
     "Descriptions": [
-        "the Wolfs in the area are a real plague, do share and hunt some down",
-        "if you want to survive you will have to know how to hunt",
-        "Well done, now go get yourself a well deserved diner"
+        "you have proven your battle worthiness at BK-12, all around Namalsk are former military camps we try to keep clean of Infected. help us out at BK-M06",
+        "did you already clear the camp",
+        "PLACEHOLDER"
     ],
-    "ObjectiveText": "Hunt some Wolf",
+    "ObjectiveText": "clear out the military camp",
     "FollowUpQuest": -1,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems":[],
-    "Rewards": [
-        {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        }
-    ],
+    "QuestItems": [],
+    "Rewards": [],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [1200],
+    "QuestGiverIDs": [
+        2000
+    ],
     "QuestTurnInIDs": [
-       1200
+        2000
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 1203,
+            "ID": 2000,
             "ObjectiveType": 2
         }
     ],
@@ -52,9 +44,9 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
-    "DeleteQuestItems": 0,
-    "SequentialObjectives": 0,
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

@@ -256,7 +256,13 @@
                 "OP_RainCatcherKit_Blue",
                 "OP_RainCatcherKit_Green",
                 "OP_RainCatcherKit_Grey",
-                "OP_Worktable"
+                "OP_Worktable",
+                "OP_CamoNetEastBanner",
+                "OP_CamoNetNatoBanner",
+                "OP_UCPBanner",
+                "OP_WoodlandBanner",
+                "OP_BannerMount",
+                "OP_ImpTent"
             ]
         },
         {
@@ -313,7 +319,8 @@
                 "pepperseeds",
                 "pumpkinseeds",
                 "tomatoseeds",
-                "zucchiniseeds"
+                "zucchiniseeds",
+                "GardenboxEmpty"
             ]
         },
         {
