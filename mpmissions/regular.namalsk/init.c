@@ -261,7 +261,7 @@ class CustomMission: MissionServer
 		}
 
 	};
-};	
+	
 	void TeleportPlayer(PlayerBase playerT , array<vector> Tpos)
 	{
 					vector oriT = playerT.GetOrientation();
@@ -340,7 +340,7 @@ void ClearZombies(vector position, float radius)
     Print("Number of zombies cleared from the area: " + zombieCount);
 }
  
-
+};
   
 Mission CreateCustomMission(string path)
 {
