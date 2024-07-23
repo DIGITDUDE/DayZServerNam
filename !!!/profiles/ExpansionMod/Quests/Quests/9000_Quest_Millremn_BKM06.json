@@ -1,6 +1,6 @@
 {
     "ConfigVersion": 22,
-    "ID": 2001,
+    "ID": 9000,
     "Type": 1,
     "Title": "Clearing Ground",
     "Descriptions": [
@@ -25,23 +25,23 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2000
+        9000
     ],
     "QuestTurnInIDs": [
-        9000
+        2000
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 2001,
-            "ObjectiveType": 3
+            "ID": 2000,
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [2001],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,

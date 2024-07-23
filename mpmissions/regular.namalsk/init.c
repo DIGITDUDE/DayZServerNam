@@ -178,8 +178,36 @@ class CustomMission: MissionServer
 				
 				SpawnZombie("PITSTOP_Monsters_Syther", Vector(7019.88, 40.2125, 5794.4));	
 				}	
+				break;
+				case 2001:
+				{
+						//! Create new temporary quest NPC data
+					//! ID, NPC class name, NPC name, and default quest menu text that is shown to the player.
+					if(!ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000)){
+					ExpansionTempQuestHolder questHolder = new ExpansionTempQuestHolder(9000, "ExpansionQuestNPCAIFrida", "Marina Sidorova", "There is nothing to do here for you...");
+					if (!questHolder)
+					return;
+
+					questHolder.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA); //! Emote ID of the NPC if it is an AI. 
+					questHolder.SetLoadoutName("SurvivorLoadout"); //! Loadout file name that gets applied to the NPC if it is a normal or AI NPC.
+					ExpansionTempQuestHolderPosition questHolderPos = new ExpansionTempQuestHolderPosition("5066.61 13.9658 10796.5", "-78.6561, -0, 0"); //! World position and orientation of the NPC when spawned.
+					ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolder, questHolderPos); //! Spawn the temporary quest NPC.
+					}
+					else
+					return;
+				}
+				break;
+				case 9000:
+				{
+					array<vector> Zombiepos = {"4823.96 13.7125 10799.1","4810.57 13.7507 10823.9","4791.23 13.8025 10826.6","4805.14 13.794 10842.8","4849.2 13.3488 10845.9","4858.32 13.2425 10863.8","4841.28 13.2716 10879.6","4839.73 13.2864 10867.3","4863.07 13.3818 10836","4848.34 13.6252 10796.2","4815.68 13.7468 10789.4"};
+					int zombiecount = CountZombies(Vector(4830.41, 13.4878, 10840.4), 50)
+					for (int i = zombiecount; i < 10; i++)
+					{
+						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Zombiepos[i]);
+					}					
+				}
+
 			}      
-				
 	}
 		
 		override void Expansion_OnQuestCompletion(ExpansionQuest quest)
@@ -218,7 +246,18 @@ class CustomMission: MissionServer
 					itemEnt = player.GetInventory().CreateInInventory("PunchedCard");
 								SetFullHealth(itemEnt);
 				}
-		}
+			break;
+			case 9000:
+			{
+				if(ExpansionQuestModule.GetModuleInstance().IsOtherQuestInstanceActive(quest);)
+				{return}
+				else
+				{
+				ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000)
+				}
+				
+			}
+				
 		}
 
 	};
