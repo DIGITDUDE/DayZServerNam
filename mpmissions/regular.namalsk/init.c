@@ -250,10 +250,11 @@ class CustomMission: MissionServer
 			case 9000:
 			{
 				if(ExpansionQuestModule.GetModuleInstance().IsOtherQuestInstanceActive(quest))
-				{return}
+				{return;}
 				else
 				{
 				ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000)
+				return;
 				}
 				
 			}
