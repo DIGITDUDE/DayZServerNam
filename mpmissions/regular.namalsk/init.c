@@ -193,8 +193,7 @@ class CustomMission: MissionServer
 					ExpansionTempQuestHolderPosition questHolderPos = new ExpansionTempQuestHolderPosition("5066.61 13.9658 10796.5", "-78.6561 -0 0"); //! World position and orientation of the NPC when spawned.
 					ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolder, questHolderPos); //! Spawn the temporary quest NPC.
 					}
-					else
-					return;
+					
 				}
 				break;
 				case 9000:
@@ -254,9 +253,9 @@ class CustomMission: MissionServer
 				{
 					return;
 				}
-				else
+				if(!Qactive && ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000) )
 				{
-				ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000);
+				ExpansionQuestModule.GetModuleInstance().DeleteQuestHolder(9000 ExpansionQuestNPCType.AI);
 				return;
 				}
 				
