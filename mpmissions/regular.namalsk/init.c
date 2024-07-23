@@ -249,7 +249,7 @@ class CustomMission: MissionServer
 			break;
 			case 9000:
 			{
-				if(ExpansionQuestModule.GetModuleInstance().IsOtherQuestInstanceActive(quest);)
+				if(ExpansionQuestModule.GetModuleInstance().IsOtherQuestInstanceActive(quest))
 				{return}
 				else
 				{
