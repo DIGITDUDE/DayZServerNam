@@ -260,7 +260,7 @@ class CustomMission: MissionServer
 				
 		}
 
-	};
+	}
 	
 	void TeleportPlayer(PlayerBase playerT , array<vector> Tpos)
 	{
