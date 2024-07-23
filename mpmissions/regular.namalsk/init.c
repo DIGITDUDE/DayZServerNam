@@ -249,7 +249,7 @@ class CustomMission: MissionServer
 			break;
 			case 9000:
 			{
-				bool Qactive = ExpansionQuestModule.GetModuleInstance().IsOtherQuestInstanceActive(quest);
+				bool Qactive = ExpansionQuestModule.GetModuleInstance().IsOtherQuestInstanceActive(9000);
 				if(Qactive)
 				{
 					return;
