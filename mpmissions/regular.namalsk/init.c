@@ -201,7 +201,7 @@ class CustomMission: MissionServer
 				{
 					array<vector> Zombiepos1 = {"4823.96 13.7125 10799.1","4810.57 13.7507 10823.9","4791.23 13.8025 10826.6","4805.14 13.794 10842.8","4849.2 13.3488 10845.9","4858.32 13.2425 10863.8","4841.28 13.2716 10879.6","4839.73 13.2864 10867.3","4863.07 13.3818 10836","4848.34 13.6252 10796.2","4815.68 13.7468 10789.4"};
 					int zombiecount1 = CountZombies(Vector(4830.41, 13.4878, 10840.4), 50)
-					for (int i = zombiecount1; i < 10; i++)
+					for (int i1 = zombiecount1; i1 < 10; i1++)
 					{
 						SpawnZombie("ZmbM_ruSoldier_normal_Woodland1", Zombiepos1[i]);
 					}					
