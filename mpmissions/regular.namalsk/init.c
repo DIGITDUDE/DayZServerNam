@@ -190,7 +190,7 @@ class CustomMission: MissionServer
 
 					questHolder.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA); //! Emote ID of the NPC if it is an AI. 
 					questHolder.SetLoadoutName("SurvivorLoadout"); //! Loadout file name that gets applied to the NPC if it is a normal or AI NPC.
-					ExpansionTempQuestHolderPosition questHolderPos = new ExpansionTempQuestHolderPosition("5066.61 13.9658 10796.5", "-78.6561, -0, 0"); //! World position and orientation of the NPC when spawned.
+					ExpansionTempQuestHolderPosition questHolderPos = new ExpansionTempQuestHolderPosition("5066.61 13.9658 10796.5", "-78.6561 -0 0"); //! World position and orientation of the NPC when spawned.
 					ExpansionQuestModule.GetModuleInstance().SpawnQuestHolder(questHolder, questHolderPos); //! Spawn the temporary quest NPC.
 					}
 					else
@@ -250,10 +250,12 @@ class CustomMission: MissionServer
 			case 9000:
 			{
 				if(ExpansionQuestModule.GetModuleInstance().IsOtherQuestInstanceActive(quest))
-				{return;}
+				{
+					return;
+				}
 				else
 				{
-				ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000)
+				ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000);
 				return;
 				}
 				
