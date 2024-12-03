@@ -185,8 +185,8 @@ class CustomMission: MissionServer
 					//! ID, NPC class name, NPC name, and default quest menu text that is shown to the player.
 					if(!ExpansionQuestModule.GetModuleInstance().TempQuestHolderExists(9000)){
 					ExpansionTempQuestHolder questHolder = new ExpansionTempQuestHolder(9000, "ExpansionQuestNPCAIFrida", "Marina Sidorova", "There is nothing to do here for you...");
-					if (!questHolder)
-					return;
+					if (!questHolder){
+					return;}
 
 					questHolder.SetNPCEmoteID(EmoteConstants.ID_EMOTE_SITA); //! Emote ID of the NPC if it is an AI. 
 					questHolder.SetLoadoutName("SurvivorLoadout"); //! Loadout file name that gets applied to the NPC if it is a normal or AI NPC.
@@ -263,7 +263,7 @@ class CustomMission: MissionServer
 				
 		}
 
-	}
+		}
 	
 	void TeleportPlayer(PlayerBase playerT , array<vector> Tpos)
 	{
